@@ -3,7 +3,7 @@
 from pathlib import Path
 
 # Project directories
-PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
+PROJECT_DIR = Path(__file__).parent.parent.resolve()
 DATA_DIR = PROJECT_DIR / "data"
 RESULTS_DIR = PROJECT_DIR / "results"
 REFERENCES_DIR = PROJECT_DIR / "references"

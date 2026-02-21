@@ -8,9 +8,9 @@ from pathlib import Path
 PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
 sys.path.insert(0, str(PROJECT_DIR / "scripts"))
 
-from data_loader import DataLoader
-from analysis import main as run_analysis
-from visualization import Visualizer
+from scripts.data_loader import DataLoader
+from scripts.analysis import main as run_analysis
+from scripts.visualization import Visualizer
 
 def main():
     """Main entry point for the pipeline"""
