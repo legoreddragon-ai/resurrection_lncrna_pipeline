@@ -1,0 +1,45 @@
+# Data - Re-downloadable
+data/fastq_raw/
+data/fastq_trimmed/
+*.fastq.gz
+
+# Intermediate files
+results/hisat2_aligned/
+*.bam
+*.bam.bai
+*.sam
+
+# Indices and temp
+references/Cp_transcriptome_index*
+references/annotation.gtf
+results/stringtie_output/*.gtf
+*.log
+.snakemake/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+env/
+.env
+*.egg
+
+# Figures (optional - can commit later)
+results/figures/
+
+# Temporary files
+*.tmp
+*.temp
