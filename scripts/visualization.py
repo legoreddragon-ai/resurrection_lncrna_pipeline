@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pathlib import Path
 
-PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
+PROJECT_DIR = Path(__file__).parent.parent.resolve()
 
 class Visualizer:
     """Create visualizations for lncRNA analysis"""

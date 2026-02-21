@@ -5,7 +5,7 @@ import numpy as np
 from scipy import stats
 from pathlib import Path
 
-PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
+PROJECT_DIR = Path(__file__).parent.parent.resolve()
 
 def load_expression_matrix(filename="stringtie_tpm_matrix.csv"):
     """Load TPM expression matrix"""

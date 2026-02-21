@@ -2,7 +2,7 @@
 
 set -e
 
-PROJECT_DIR="$HOME/resurrection_lncrna_pipeline"
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
 GREEN='\033[0;32m'

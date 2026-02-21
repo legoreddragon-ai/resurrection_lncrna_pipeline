@@ -5,7 +5,7 @@ import argparse
 from pathlib import Path
 
 # Add scripts directory to path
-PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
+PROJECT_DIR = Path(__file__).parent.resolve()
 sys.path.insert(0, str(PROJECT_DIR / "scripts"))
 
 from scripts.data_loader import DataLoader

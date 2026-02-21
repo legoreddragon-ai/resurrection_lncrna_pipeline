@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-PROJECT_DIR = Path.home() / "resurrection_lncrna_pipeline"
+PROJECT_DIR = Path(__file__).parent.parent.resolve()
 
 class DataLoader:
     """Load and manage project data"""
