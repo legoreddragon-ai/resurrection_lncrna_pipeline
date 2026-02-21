@@ -43,3 +43,11 @@ results/figures/
 # Temporary files
 *.tmp
 *.temp
+
+results/*
+
+*merlin*
+*.csv
+
+sratoolkit.current-ubuntu64.tar.gz
+*.gz

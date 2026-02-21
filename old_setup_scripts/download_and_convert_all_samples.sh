@@ -1,9 +1,7 @@
 #!/bin/bash
-
 echo "Downloading and converting all 9 remaining samples..."
 echo ""
 
-# Array of SRR accessions and sample names
 declare -A SAMPLES=(
     ["SRR12542166"]="cp_hyd_r3"
     ["SRR12542171"]="cp_rehyd_r1"
@@ -16,22 +14,28 @@ declare -A SAMPLES=(
     ["SRR12542211"]="cp_wc60_r3"
 )
 
+mkdir -p data/fastq_raw
+
 for ACC in "${!SAMPLES[@]}"; do
     NAME="${SAMPLES[$ACC]}"
-    echo "Downloading $NAME ($ACC)..."
-    
-    wget --no-check-certificate https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos9/sra-pub-zq-924/SRR012/12542/${ACC}/${ACC}.lite.1 -O data/fastq_raw/${NAME}.sra
-    
-    echo "Converting $NAME to FASTQ..."
-    fasterq-dump data/fastq_raw/${NAME}.sra -O data/fastq_raw/
-    
+    echo "Downloading and converting $NAME ($ACC)..."
+
+    fasterq-dump "$ACC" \
+        --outdir data/fastq_raw/ \
+        --outfile "${NAME}.fastq" \
+        --split-files \
+        --threads 4 \
+        --progress
+
+    if [ $? -ne 0 ]; then
+        echo "ERROR: fasterq-dump failed for $ACC, skipping..."
+        continue
+    fi
+
     echo "Compressing FASTQ files for $NAME..."
     gzip data/fastq_raw/${NAME}_1.fastq
     gzip data/fastq_raw/${NAME}_2.fastq
-    
-    echo "Cleaning up SRA file..."
-    rm data/fastq_raw/${NAME}.sra
-    
+
     echo "Complete: $NAME"
     echo ""
 done
