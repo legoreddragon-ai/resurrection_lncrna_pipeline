@@ -28,7 +28,7 @@ cd resurrection_lncrna_pipeline
 # Install required packages
 pip install -r requirements.txt
 
-# Optional: Install conda packages for bioinformatics tools
+# Install Conda and  conda packages for bioinformatics tools
 conda install -c bioconda trimmomatic hisat2 samtools stringtie
 ```
 
