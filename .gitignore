@@ -97,4 +97,4 @@ env/
 *~
 .DS_Store
 Thumbs.db
-.snakemake/
+.snakemake/.ncbi/
