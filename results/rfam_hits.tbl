@@ -1,0 +1,10 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+#
+# Program:         cmscan
+# Version:         1.1.5 (Sep 2023)
+# Pipeline mode:   SCAN
+# Query file:      results/candidate_sequences.fa
+# Target file:     references/rfam/Rfam.cm
+# Option settings: /usr/lib/infernal/cmscan --tblout results/rfam_hits.tbl --cut_ga --rfam --cpu 4 --nohmmonly references/rfam/Rfam.cm results/candidate_sequences.fa 
+# [ok]

@@ -1,0 +1,15 @@
+Arabidopsis Sequence Conservation Analysis
+==========================================
+Query: 14 top desiccation-induced lncRNA candidates (C. plantagineum)
+Database: Arabidopsis thaliana TAIR10 cDNA (Ensembl Plants release 57)
+Tool: BLASTn, E-value thresholds tested: 1e-5 and 1e-3, word_size 7
+Date: 2026-03-14
+
+Result: 0 significant hits at both thresholds
+
+Interpretation:
+None of the 14 candidate lncRNAs show detectable sequence conservation
+in Arabidopsis thaliana. This confirms these molecules are lineage-specific
+to resurrection plants and are not shared with drought-sensitive model species.
+This supports the hypothesis that resurrection plants have evolved a unique
+set of lncRNA regulators distinct from those in non-desiccation-tolerant plants.

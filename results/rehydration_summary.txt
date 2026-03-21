@@ -1,0 +1,13 @@
+Rehydration DE Analysis
+=======================
+C. plantagineum (hydrated vs rehydrated):
+  Upregulated: 199 | Downregulated: 0
+  14 candidates still elevated: 7/14 (contig_551, 12238, 4950, 2815, 8442, 15059, 43263)
+  Pattern: consistently one-directional across all stress comparisons
+
+S. lepidophylla (hydrated vs rehydrated):
+  Upregulated: 163 | Downregulated: 25
+  Pattern: bidirectional, different from C. plantagineum
+
+Key finding: C. plantagineum lncRNA response is uniquely unidirectional
+across both desiccation AND rehydration — not seen in S. lepidophylla.

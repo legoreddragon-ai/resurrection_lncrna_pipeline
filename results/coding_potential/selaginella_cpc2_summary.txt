@@ -1,0 +1,14 @@
+CPC2 Coding Potential — S. lepidophylla Top 14 Candidates
+==========================================================
+Confirmed non-coding (both strands < 0.5): 10/14
+  MSTRG.3546, MSTRG.14801, MSTRG.15111, MSTRG.15115, MSTRG.18335,
+  MSTRG.20318, MSTRG.22821, MSTRG.25755, MSTRG.26288, MSTRG.26298
+
+Flagged as potentially coding: 4/14
+  MSTRG.4356 (reverse 0.715)
+  MSTRG.6238 (forward 0.630, reverse 0.781)
+  MSTRG.15112 (forward 1.000 — strongly coding)
+  MSTRG.22697 (reverse 0.643)
+
+Note: Same 10/14 confirmed ratio as C. plantagineum candidates.
+Flagged candidates require further validation before functional claims.

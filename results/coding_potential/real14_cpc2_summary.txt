@@ -1,0 +1,23 @@
+CPC2 Coding Potential — Real 14 Candidates (Corrected)
+=======================================================
+Confirmed non-coding (forward strand prob < 0.5): 9/14
+  contig_8442    (0.037)
+  contig_15059   (0.059)
+  contig_43263   (0.252)
+  contig_670     (0.023)
+  contig_3232    (0.093)
+  contig_6094    (0.121)
+  contig_24180   (0.017)
+  contig_45133   (0.028)
+  contig_47679   (0.008)
+
+Flagged as potentially coding (forward strand prob > 0.5): 5/14
+  contig_551     (0.9995) — strongly flagged
+  contig_2815    (0.700)
+  contig_4950    (0.776)
+  contig_12238   (0.665)
+  contig_692     (0.661)
+
+Note: All 14 confirmed no Rfam structural RNA contamination.
+Flagged candidates moved to "transcripts of interest" category
+per reviewer recommendation.

@@ -1,0 +1,14 @@
+lncrna_id,partner_id,tf_family,gene_description,pearson_r
+Cp_V2_contig_12238,Cp_V2_contig_12398,WRKY,WRKY transcription factor 3,0.9482
+Cp_V2_contig_12238,Cp_V2_contig_3354,WRKY,transcription factor WRKY24,0.9110
+Cp_V2_contig_2815,Cp_V2_contig_12398,WRKY,WRKY transcription factor 3,0.9275
+Cp_V2_contig_4950,Cp_V2_contig_12398,WRKY,WRKY transcription factor 3,0.9246
+Cp_V2_contig_551,Cp_V2_contig_32420,NF-Y,transcription factor Y subunit C-2,0.9684
+Cp_V2_contig_45133,Cp_V2_contig_32420,NF-Y,transcription factor Y subunit C-2,0.9806
+Cp_V2_contig_47679,Cp_V2_contig_32420,NF-Y,transcription factor Y subunit C-2,0.9136
+Cp_V2_contig_551,Cp_V2_contig_17170,MYB,factor MYB73,0.9439
+Cp_V2_contig_2815,Cp_V2_contig_17170,MYB,factor MYB73,0.9019
+Cp_V2_contig_43263,Cp_V2_contig_17170,MYB,factor MYB73,0.9137
+Cp_V2_contig_12238,Cp_V2_contig_26531,ERF,transcription factor RAP2-1,0.9555
+Cp_V2_contig_4950,Cp_V2_contig_26531,ERF,transcription factor RAP2-1,0.9297
+Cp_V2_contig_2815,Cp_V2_contig_34533,ABA,ABI5-like protein 3,0.9620

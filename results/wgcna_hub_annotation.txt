@@ -1,0 +1,17 @@
+Cp_V2_contig_735	sp|Q9LEB3|RBP47_NICPL	65.074	272	4.91e-121	354	sp|Q9LEB3|RBP47_NICPL Polyadenylate-binding protein RBP47 OS=Nicotiana plumbaginifolia OX=4092 GN=RBP47 PE=1 SV=1
+Cp_V2_contig_735	sp|Q9LEB3|RBP47_NICPL	36.709	79	7.17e-06	50.1	sp|Q9LEB3|RBP47_NICPL Polyadenylate-binding protein RBP47 OS=Nicotiana plumbaginifolia OX=4092 GN=RBP47 PE=1 SV=1
+Cp_V2_contig_1533	sp|P28734|AATC_DAUCA	85.608	403	0.0	738	sp|P28734|AATC_DAUCA Aspartate aminotransferase, cytoplasmic OS=Daucus carota OX=4039 PE=2 SV=1
+Cp_V2_contig_1856	sp|P11143|HSP70_MAIZE	73.529	102	8.15e-34	128	sp|P11143|HSP70_MAIZE Heat shock 70 kDa protein OS=Zea mays OX=4577 GN=HSP70 PE=3 SV=2
+Cp_V2_contig_2291	sp|Q38997|KIN10_ARATH	80.645	496	0.0	827	sp|Q38997|KIN10_ARATH SNF1-related protein kinase catalytic subunit alpha KIN10 OS=Arabidopsis thaliana OX=3702 GN=KIN10 PE=1 SV=3
+Cp_V2_contig_2815	sp|O48832|ERD7_ARATH	53.394	442	3.68e-150	439	sp|O48832|ERD7_ARATH Protein EARLY-RESPONSIVE TO DEHYDRATION 7, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ERD7 PE=1 SV=1
+Cp_V2_contig_3266	sp|Q9SUM3|NCPR2_ARATH	75.556	675	0.0	1015	sp|Q9SUM3|NCPR2_ARATH NADPH--cytochrome P450 reductase 2 OS=Arabidopsis thaliana OX=3702 GN=ATR2 PE=1 SV=1
+Cp_V2_contig_7153	sp|Q9SHS7|BSL3_ARATH	77.305	564	0.0	725	sp|Q9SHS7|BSL3_ARATH Serine/threonine-protein phosphatase BSL3 OS=Arabidopsis thaliana OX=3702 GN=BSL3 PE=1 SV=2
+Cp_V2_contig_7452	sp|Q8LBH2|CAP8_ARATH	76.796	362	0.0	536	sp|Q8LBH2|CAP8_ARATH Putative clathrin assembly protein At2g01600 OS=Arabidopsis thaliana OX=3702 GN=At2g01600 PE=2 SV=2
+Cp_V2_contig_10620	sp|Q93VM9|THOC1_ARATH	77.714	525	0.0	832	sp|Q93VM9|THOC1_ARATH THO complex subunit 1 OS=Arabidopsis thaliana OX=3702 GN=THO1 PE=1 SV=1
+Cp_V2_contig_11243	sp|Q91WR3|ASCC2_MOUSE	21.064	451	1.81e-14	81.3	sp|Q91WR3|ASCC2_MOUSE Activating signal cointegrator 1 complex subunit 2 OS=Mus musculus OX=10090 GN=Ascc2 PE=1 SV=1
+Cp_V2_contig_15647	sp|Q9FJ95|DHSO_ARATH	84.982	273	7.24e-176	492	sp|Q9FJ95|DHSO_ARATH Sorbitol dehydrogenase OS=Arabidopsis thaliana OX=3702 GN=SDH PE=1 SV=1
+Cp_V2_contig_26532	sp|Q9SE42|RPE1_ORYSJ	84.091	220	1.04e-138	393	sp|Q9SE42|RPE1_ORYSJ Ribulose-phosphate 3-epimerase, cytoplasmic isoform OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0505700 PE=1 SV=1
+Cp_V2_contig_29501	sp|Q8W4S4|VHAA3_ARATH	71.498	207	2.45e-91	287	sp|Q8W4S4|VHAA3_ARATH V-type proton ATPase subunit a3 OS=Arabidopsis thaliana OX=3702 GN=VHA-a3 PE=1 SV=1
+Cp_V2_contig_29767	sp|Q402F4|TOM1_TOBAC	79.134	254	2.64e-136	391	sp|Q402F4|TOM1_TOBAC Tobamovirus multiplication protein 1 OS=Nicotiana tabacum OX=4097 GN=TOM1 PE=1 SV=1
+Cp_V2_contig_44940	sp|Q94A08|RFS2_ARATH	79.592	294	1.22e-168	490	sp|Q94A08|RFS2_ARATH Probable galactinol--sucrose galactosyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=RFS2 PE=2 SV=2
+Cp_V2_contig_47679	sp|Q03461|NLTP2_TOBAC	86.667	30	2.86e-10	57.4	sp|Q03461|NLTP2_TOBAC Non-specific lipid-transfer protein 2 OS=Nicotiana tabacum OX=4097 PE=3 SV=1

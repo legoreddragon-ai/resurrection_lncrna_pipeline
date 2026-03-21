@@ -1,0 +1,23 @@
+Selaginella lepidophylla Cross-Species Comparison
+==================================================
+C. plantagineum candidates: 14
+S. lepidophylla dataset: PRJNA420971 (9 samples: 3 hydrated, 3 desiccated, 3 rehydrated)
+Transcriptome: TSA GIMG01000000 (63,981 transcripts)
+
+Differential expression results (S. lepidophylla):
+- Upregulated during desiccation: 303
+- Downregulated during desiccation: 98
+- Binary candidates (0 TPM hydrated): 62
+
+Sequence conservation (BLASTn E < 1e-3, word_size 7):
+- No hits at E < 1e-5: 11/14 candidates (lineage-specific)
+- Partial conservation at relaxed threshold: 3/14
+  - contig_551: 71-80% identity (partial)
+  - contig_4950: 72.8% identity over 588bp (partial)
+  - contig_22145: 76.1% identity over 515bp (partial)
+
+Key finding:
+C. plantagineum shows unidirectional activation (661 up, 0 down).
+S. lepidophylla shows bidirectional response (303 up, 98 down).
+11/14 top C. plantagineum candidates are lineage-specific.
+3/14 show partial conservation suggesting possible shared ancestry.

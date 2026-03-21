@@ -1,0 +1,7 @@
+Key finding: Chloroplast/photosynthesis enrichment confirmed in BOTH species
+- C. plantagineum: 3.73x enriched (FDR = 6e-14)
+- S. lepidophylla: 1.99x enriched (FDR = 3e-22)
+
+Species difference: ABA signalling dominant in S. lepidophylla (67.44x)
+but not significant in C. plantagineum — consistent with known biology
+(lycophytes more ABA-dependent than angiosperms for desiccation tolerance)

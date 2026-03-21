@@ -1,0 +1,17 @@
+Conserved Candidate Functional Annotation
+==========================================
+contig_551 — Selaginella hit: GIMG01037679.1 (75.6% identity, E=6.17e-36)
+  Swiss-Prot match: ABC transporter C family member 14 (ABCC14)
+  Function: membrane transport, vacuolar sequestration during stress
+
+contig_22145 — Selaginella hit: GIMG01048100.1 (76.1% identity, E=2.50e-70)
+  Swiss-Prot match: Mitochondrial Rho GTPase 1 (MIRO1)
+  Function: mitochondrial dynamics, calcium signalling, organelle protection
+
+contig_4950 — Selaginella hit: GIMG01056528.1 (72.8% identity, E=2.76e-49)
+  Swiss-Prot match: Trafficking protein particle complex subunit 6B (TRAPPC6B)
+  Function: vesicle trafficking, membrane integrity
+
+Interpretation: All 3 partially conserved lncRNA candidates are associated
+with membrane/organelle protection functions in Selaginella, consistent with
+a conserved role in cellular protection during desiccation.

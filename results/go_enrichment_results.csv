@@ -1,0 +1,13 @@
+category,n_partners,pct_partners,bg_rate_pct,fold_enrichment,odds_ratio,pvalue,example_genes,padj,significant
+Chloroplast / Photosynthesis,53,14.9,4.0,3.72,4.198,5.001459995974652e-15,"repeat-containing protein At5g13770, chl; LIKE EARLY STARVATION, chloroplastic; protein At3g17800, chloroplastic",6.001751995169582e-14,True
+Late Embryogenesis Abundant (LEA),3,0.8,0.3,2.81,2.91,0.10222199415304485,protectant protein Lea14 homolog; small nuclear ribonucleoprotein A'; small nuclear ribonucleoprotein 25 kDa p,0.6133319649182691,False
+Protein Kinase / Signalling,30,8.4,8.0,1.05,1.058,0.41574018201127855,kinase G-2; kinase G-2; domain-containing CTD phosphatase,0.9991128736543174,False
+Osmotic / Trehalose Metabolism,2,0.6,0.5,1.12,1.146,0.5315240230089593,galactinol--sucrose galactosyltransferas; galactinol--sucrose galactosyltransferas,0.9991128736543174,False
+ABA Signalling,3,0.8,0.8,1.05,1.058,0.5473856897646685,"pyruvate carrier 4; pyrophosphate synthase, chloroplastic; pyrophosphokinase 1",0.9991128736543174,False
+Aquaporin / Water Transport,1,0.3,0.4,0.7,0.704,0.7623871088648366,multiplication protein 1,0.9991128736543174,False
+Lipid Metabolism,7,2.0,2.5,0.79,0.783,0.7845141983826831,"lipid transfer protein 7, mitochondrial; phospholipase domain-containing protein ; lipid transfer protein 7, mitochondrial",0.9991128736543174,False
+Ubiquitin / Proteasome,8,2.2,3.0,0.75,0.746,0.8327625588383614,RING ZnF UBP domain-containing protein 2; ubiquitin-protein ligase RING1-like; ubiquitin-protein ligase RHF2A,0.9991128736543174,False
+Autophagy,1,0.3,0.8,0.35,0.351,0.9407805083584709,molecule in BECN1-regulated autophagy pr,0.9991128736543174,False
+Protein Synthesis / Ribosome,7,2.0,3.5,0.56,0.554,0.9641191925088974,translation factor SUI1 homolog; ribosomal export protein NMD3; initiation factor eIF2B subunit alpha,0.9991128736543174,False
+Transcription Factor,10,2.8,6.0,0.47,0.453,0.9978697546721975,transcription factor RAP2-1; WRKY transcription factor 3; transcription factor 53,0.9991128736543174,False
+Antioxidant / ROS Scavenging,1,0.3,2.0,0.14,0.139,0.9991128736543174,"hydroperoxide glutathione peroxidase, ch",0.9991128736543174,False

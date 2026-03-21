@@ -1,0 +1,35 @@
+EXECUTIVE SUMMARY
+============================================================
+Project: lncRNA Discovery in Craterostigma plantagineum
+Date:    March 02, 2026
+Dataset: GSE157098 / PRJNA660052
+============================================================
+
+KEY NUMBERS
+  Transcripts quantified      : 48,045
+  lncRNAs identified (81%)    : 38,978
+  lncRNAs tested for DE       : 17,574
+  Upregulated under stress    : 661
+  Downregulated under stress  : 0
+  Top candidates              : 14
+  Co-expression pairs (r>0.9) : 1,062
+  Annotated partner genes     : 356
+  Novel partner genes         : 110
+
+TOP FINDING
+  Chloroplast/photosynthesis genes are massively enriched
+  among co-expression partners (3.7x, FDR=6e-14).
+  lncRNAs co-activate with LEA proteins, HSP70, dehydrins.
+
+TOP CANDIDATES (by expression score)
+  Cp_V2_contig_551                log2FC=14.26  dehyd=1957 TPM  p=0.0392
+  Cp_V2_contig_4950               log2FC=13.22  dehyd=957 TPM  p=0.0459
+  Cp_V2_contig_43263              log2FC=13.18  dehyd=925 TPM  p=0.0117
+  Cp_V2_contig_2815               log2FC=13.17  dehyd=922 TPM  p=0.0490
+  Cp_V2_contig_6094               log2FC=13.05  dehyd=850 TPM  p=0.0303
+
+PIPELINE
+  github.com/legoreddragon-ai/resurrection_lncrna_pipeline
+
+STATUS: Steps 1-4B complete (75%). Remaining: qPCR validation,
+        CPC2 coding potential, Rfam filtering, miRNA sponge prediction.

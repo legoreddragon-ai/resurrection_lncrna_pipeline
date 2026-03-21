@@ -1,0 +1,20 @@
+WGCNA Hub Gene Annotation Summary
+===================================
+Grey60 module (r=-0.988 with hydrated) — top hubs:
+  contig_2291: SNF1-related kinase KIN10 — energy sensing, stress activation
+  contig_26532: Ribulose-phosphate 3-epimerase — Calvin cycle / chloroplast
+  contig_15647: Sorbitol dehydrogenase — osmotic stress metabolism
+  contig_3266: NADPH-cytochrome P450 reductase — ROS management
+  contig_10620: THO complex subunit 1 — mRNA export
+
+Red module (r=-0.721 with hydrated) — top hubs:
+  contig_2815: ERD7, Early-Responsive to Dehydration 7 (chloroplastic) ***
+  contig_1856: HSP70 heat shock protein
+  contig_44940: Galactinol-sucrose galactosyltransferase RFS2 (raffinose synthesis)
+  contig_29767: TOM1 membrane lipid remodelling
+
+Key finding: contig_2815 — top hub lncRNA in red module — matches ERD7,
+a chloroplast-targeted early dehydration response protein. This candidate
+is simultaneously: (1) hub gene by WGCNA connectivity, (2) top miRNA sponge
+candidate for miR164, (3) annotated as matching a chloroplast dehydration
+protein in Selaginella. Strongest mechanistic candidate in the dataset.

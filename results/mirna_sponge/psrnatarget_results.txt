@@ -1,0 +1,107 @@
+#Please import the downloaded file into Microsoft Excel or other speadsheet software
+miRNA_Acc.	Target_Acc.	Expectation	UPE$	miRNA_start	miRNA_end	Target_start	Target_end	miRNA_aligned_fragment	alignment	Target_aligned_fragment	Inhibition	Target_Desc.	Multiplicity
+ath-miR164a	Cp_V2_contig_2815	2.5	-1.0	1	21	174	194	UGGAGAAGCAGGGCACGUGCA	  ::: ::::::::::::.: 	GUCACCUGCCCUGCUUCUUCU	Cleavage	Average coverage: 2370.38	1
+ath-miR164b-5p	Cp_V2_contig_2815	2.5	-1.0	1	21	174	194	UGGAGAAGCAGGGCACGUGCA	  ::: ::::::::::::.: 	GUCACCUGCCCUGCUUCUUCU	Cleavage	Average coverage: 2370.38	1
+ath-miR164c-5p	Cp_V2_contig_2815	2.5	-1.0	1	21	174	194	UGGAGAAGCAGGGCACGUGCG	  ::: ::::::::::::.: 	GUCACCUGCCCUGCUUCUUCU	Cleavage	Average coverage: 2370.38	1
+ath-miR414	Cp_V2_contig_551	3.0	-1.0	1	21	4547	4567	UCAUCUUCAUCAUCAUCGUCA	  :.:: :: :::::::::::	GCAUGAGGAGGAUGAAGAUGA	Cleavage	Average coverage: 2525.06	2
+ath-miR5021	Cp_V2_contig_551	3.0	-1.0	1	20	5363	5382	UGAGAAGAAGAAGAAGAAAA	::::.::.::.::.::.:.:	UUUUUUUUUUUUUUUUUUUA	Cleavage	Average coverage: 2525.06	1
+ath-miR830-5p	Cp_V2_contig_8442	3.0	-1.0	1	22	387	408	UCUUCUCCAAAUAGUUUAGGUU	: ..:: . :::::::::::::	AUUUUAUGGUAUUUGGAGAAGA	Cleavage	Average coverage: 2583.18	1
+ath-miR870-5p	Cp_V2_contig_6671	3.0	-1.0	1	21	62	82	AAGAACAUCAAAUUAGAAUGU	 .:: . ::::::.:::::::	UUAUGUGAAUUUGGUGUUCUU	Cleavage	Average coverage: 518.01	2
+ath-miR870-5p	Cp_V2_contig_6671	3.0	-1.0	1	21	208	228	AAGAACAUCAAAUUAGAAUGU	 .:: . ::::::.:::::::	UUAUGUGAAUUUGGUGUUCUU	Cleavage	Average coverage: 518.01	2
+ath-miR414	Cp_V2_contig_551	4.0	-1.0	1	21	4256	4276	UCAUCUUCAUCAUCAUCGUCA	 :: :::::: : ::::::::	GGAAGAUGAUUACGAAGAUGA	Translation	Average coverage: 2525.06	2
+ath-miR418	Cp_V2_contig_551	4.0	-1.0	1	21	3238	3258	UAAUGUGAUGAUGAACUGACC	   :.::::::::::: .::.	UCGCGGUUCAUCAUCAGGUUG	Cleavage	Average coverage: 2525.06	1
+ath-miR4228-3p	Cp_V2_contig_551	4.0	-1.0	1	21	2273	2293	UCGGAUGCGAAACGGUGGUGU	..:.::: ::::.:. :::::	GUAUCACGGUUUUGUCUCCGA	Cleavage	Average coverage: 2525.06	1
+ath-miR426	Cp_V2_contig_5534	4.0	-1.0	1	21	189	209	UUUUGGAAAUUUGUCCUUACG	   :: :.:::::: ::::::	AUCAACGGCAAAUUGCCAAAA	Cleavage	Average coverage: 108.94	1
+ath-miR5014a-5p	Cp_V2_contig_7701	4.0	-1.0	1	21	203	223	ACACUUAGUUUUGUACAACAU	   :: :.::::::::::: :	UGCUUAUGCAAAACUAAGUUU	Cleavage	Average coverage: 189.52	1
+ath-miR780.1	Cp_V2_contig_12238	4.0	-1.0	1	21	487	507	UCUAGCAGCUGUUGAGCAGGU	 .:: .:::::::.::::. :	UUCUCUUCAACAGUUGCUGAA	Cleavage	Average coverage: 1954.53	1
+ath-miR827	Cp_V2_contig_6671	4.0	-1.0	1	21	1209	1229	UUAGAUGACCAUCAACAAACU	  :::::: :: :::::::: 	GAUUUGUUAAUAGUCAUCUAU	Translation	Average coverage: 518.01	1
+ath-miR858a	Cp_V2_contig_551	4.0	-1.0	1	21	4369	4389	UUUCGUUGUCUGUUCGACCUU	   :::::::::: ..::::.	ACCGUCGAACAGAGGGCGAAG	Cleavage	Average coverage: 2525.06	3
+ath-miR859	Cp_V2_contig_2815	4.0	-1.0	1	21	1295	1315	UCUCUCUGUUGUGAAGUCAAA	  :::::::. ...::::.::	GAUGACUUCGGGGUAGAGGGA	Translation	Average coverage: 2370.38	1
+ath-miR866-3p	Cp_V2_contig_2815	4.0	-1.0	1	20	1381	1400	ACAAAAUCCGUCUUUGAAGA	 .:: ::.:.: ::::::::	GUUUGAAGGGCAGAUUUUGU	Cleavage	Average coverage: 2370.38	1
+ath-miR159b-5p	Cp_V2_contig_4950	4.5	-1.0	1	21	129	149	GAGCUCCUUGAAGUUCAAUGG	    ::.: ::.:::::::::	UGUGUGGAAUUUAAGGAGCUC	Cleavage	Average coverage: 3521.62	1
+ath-miR161.1	Cp_V2_contig_6671	4.5	-1.0	1	21	376	396	UGAAAGUGACUACAUCGGGGU	 :.::::::: :::.:: :.:	CCUCCGAUGUUGUCGCUAUUA	Translation	Average coverage: 518.01	1
+ath-miR164a	Cp_V2_contig_551	4.5	-1.0	1	21	4711	4731	UGGAGAAGCAGGGCACGUGCA	  .:: ::..:: :::::.::	GCUACUUGUUCUUCUUCUUCA	Cleavage	Average coverage: 2525.06	1
+ath-miR164b-5p	Cp_V2_contig_551	4.5	-1.0	1	21	4711	4731	UGGAGAAGCAGGGCACGUGCA	  .:: ::..:: :::::.::	GCUACUUGUUCUUCUUCUUCA	Cleavage	Average coverage: 2525.06	1
+ath-miR164c-5p	Cp_V2_contig_551	4.5	-1.0	1	21	4711	4731	UGGAGAAGCAGGGCACGUGCG	  .:: ::..:: :::::.::	GCUACUUGUUCUUCUUCUUCA	Cleavage	Average coverage: 2525.06	1
+ath-miR172d-5p	Cp_V2_contig_6671	4.5	-1.0	1	21	2352	2372	GCAACAUCUUCAAGAUUCAGA	  ::  ::::::. ::::::.	CAUGUUUCUUGAGAAUGUUGU	Cleavage	Average coverage: 518.01	1
+ath-miR1886.1	Cp_V2_contig_6671	4.5	-1.0	1	21	1601	1621	UGAGAGAAGUGAGAUGAAAUC	  :: :::.:: .::::::..	ACUUGCAUUUCUUUUCUCUUG	Translation	Average coverage: 518.01	1
+ath-miR3932a	Cp_V2_contig_551	4.5	-1.0	1	21	5068	5088	AACUUUGUGAUGACAACGAAG	  : ::::::::::::. : :	GCUGGUUGUCAUCACAGUGCU	Cleavage	Average coverage: 2525.06	1
+ath-miR3932b-3p	Cp_V2_contig_551	4.5	-1.0	1	21	5068	5088	AACUUUGUGAUGACAACGAAG	  : ::::::::::::. : :	GCUGGUUGUCAUCACAGUGCU	Cleavage	Average coverage: 2525.06	1
+ath-miR395b	Cp_V2_contig_5534	4.5	-1.0	1	21	562	582	CUGAAGUGUUUGGGGGGACUC	  :::  ::::::..:::.: 	UUGUCGACCCAAAUGCUUUAU	Cleavage	Average coverage: 108.94	1
+ath-miR395c	Cp_V2_contig_5534	4.5	-1.0	1	21	562	582	CUGAAGUGUUUGGGGGGACUC	  :::  ::::::..:::.: 	UUGUCGACCCAAAUGCUUUAU	Cleavage	Average coverage: 108.94	1
+ath-miR395f	Cp_V2_contig_5534	4.5	-1.0	1	21	562	582	CUGAAGUGUUUGGGGGGACUC	  :::  ::::::..:::.: 	UUGUCGACCCAAAUGCUUUAU	Cleavage	Average coverage: 108.94	1
+ath-miR403-3p	Cp_V2_contig_5534	4.5	-1.0	1	21	72	92	UUAGAUUCACGCACAAACUCG	.::: :: ::.:::::: :.:	UGAGAUUUUGUGUGAAUAUGA	Cleavage	Average coverage: 108.94	1
+ath-miR426	Cp_V2_contig_4950	4.5	-1.0	1	21	1069	1089	UUUUGGAAAUUUGUCCUUACG	   :: :::::::: ::::: 	UCGAACGACAAAUUCCCAAAC	Cleavage	Average coverage: 3521.62	1
+ath-miR447a.2-3p	Cp_V2_contig_6671	4.5	-1.0	1	21	1833	1853	UAUGGAAGAAAUUGUAGUAUU	  ::. :::: ::: ::::::	CUUAUGACAACUUCCUCCAUA	Translation	Average coverage: 518.01	1
+ath-miR5628	Cp_V2_contig_5534	4.5	-1.0	1	21	379	399	GAAAUAGCGAAGAUAUGAUUA	  .::: : :::::.::::: 	CCGUCACAGCUUCGUUAUUUA	Cleavage	Average coverage: 108.94	1
+ath-miR5629	Cp_V2_contig_8442	4.5	-1.0	1	22	296	317	UUAGGGUAGUUAACGGAAGUUA	   .::.: ::.:: .::::::	GUCUUUUCCUUGACAGCCCUAA	Cleavage	Average coverage: 2583.18	1
+ath-miR5649a	Cp_V2_contig_6671	4.5	-1.0	1	21	3426	3446	AUUGAAUAUGUUGGUUACUAU	.::: ::::::. :.::.:.:	GUAGAAACCAAUUUGUUUAGU	Cleavage	Average coverage: 518.01	2
+ath-miR5649a	Cp_V2_contig_6671	4.5	-1.0	1	21	3512	3532	AUUGAAUAUGUUGGUUACUAU	   :::.:::::.: :::..:	UCCGUAGCCAACGUUUUCGGU	Cleavage	Average coverage: 518.01	2
+ath-miR5649b	Cp_V2_contig_6671	4.5	-1.0	1	21	3426	3446	AUUGAAUAUGUUGGUUACUAU	.::: ::::::. :.::.:.:	GUAGAAACCAAUUUGUUUAGU	Cleavage	Average coverage: 518.01	2
+ath-miR5649b	Cp_V2_contig_6671	4.5	-1.0	1	21	3512	3532	AUUGAAUAUGUUGGUUACUAU	   :::.:::::.: :::..:	UCCGUAGCCAACGUUUUCGGU	Cleavage	Average coverage: 518.01	2
+ath-miR834	Cp_V2_contig_12238	4.5	-1.0	1	21	919	939	UGGUAGCAGUAGCGGUGGUAA	  :::: :::::.: .:::: 	CCACCAGCGCUAUUCUUACCC	Cleavage	Average coverage: 1954.53	1
+ath-miR835-5p	Cp_V2_contig_6671	4.5	-1.0	1	21	452	472	UUCUUGCAUAUGUUCUUUAUC	 ::.: ::::: .::::.::.	CAUGACGAACACGUGCAGGAG	Translation	Average coverage: 518.01	1
+ath-miR837-3p	Cp_V2_contig_551	4.5	-1.0	1	21	5353	5373	AAACGAACAAAAAACUGAUGG	 :: ::::::::: ::. :::	GCAGCAGUUUUUUUUUUUUUU	Cleavage	Average coverage: 2525.06	1
+ath-miR837-5p	Cp_V2_contig_8442	4.5	-1.0	1	21	511	531	AUCAGUUUCUUGUUCGUUUCA	  : :.:::::.: .:.::::	AAAUAUGAACAGGCGAUUGAU	Cleavage	Average coverage: 2583.18	1
+ath-miR837-5p	Cp_V2_contig_7701	4.5	-1.0	1	21	108	128	AUCAGUUUCUUGUUCGUUUCA	  ::.:  :::::::::: .:	ACAAGCUUACAAGAAACUCGU	Cleavage	Average coverage: 189.52	1
+ath-miR845b	Cp_V2_contig_5534	4.5	-1.0	1	22	669	690	UCGCUCUGAUACCAAAUUGAUG	    .:: ::::::.::::.: 	AGGAGAUGUGGUAUUAGAGUGC	Cleavage	Average coverage: 108.94	1
+ath-miR854a	Cp_V2_contig_4950	4.5	-1.0	1	21	1128	1148	GAUGAGGAUAGGGAGGAGGAG	::::::::::::.:: :::  	CUCCUCCUCCCUGUCGUCACU	Cleavage	Average coverage: 3521.62	1
+ath-miR854a	Cp_V2_contig_12238	4.5	-1.0	1	21	696	716	GAUGAGGAUAGGGAGGAGGAG	 :::::. :..: ::.:::::	AUCCUCUCCUUUCUCUUCAUC	Cleavage	Average coverage: 1954.53	1
+ath-miR854b	Cp_V2_contig_4950	4.5	-1.0	1	21	1128	1148	GAUGAGGAUAGGGAGGAGGAG	::::::::::::.:: :::  	CUCCUCCUCCCUGUCGUCACU	Cleavage	Average coverage: 3521.62	1
+ath-miR854b	Cp_V2_contig_12238	4.5	-1.0	1	21	696	716	GAUGAGGAUAGGGAGGAGGAG	 :::::. :..: ::.:::::	AUCCUCUCCUUUCUCUUCAUC	Cleavage	Average coverage: 1954.53	1
+ath-miR854c	Cp_V2_contig_4950	4.5	-1.0	1	21	1128	1148	GAUGAGGAUAGGGAGGAGGAG	::::::::::::.:: :::  	CUCCUCCUCCCUGUCGUCACU	Cleavage	Average coverage: 3521.62	1
+ath-miR854c	Cp_V2_contig_12238	4.5	-1.0	1	21	696	716	GAUGAGGAUAGGGAGGAGGAG	 :::::. :..: ::.:::::	AUCCUCUCCUUUCUCUUCAUC	Cleavage	Average coverage: 1954.53	1
+ath-miR854d	Cp_V2_contig_4950	4.5	-1.0	1	21	1128	1148	GAUGAGGAUAGGGAGGAGGAG	::::::::::::.:: :::  	CUCCUCCUCCCUGUCGUCACU	Cleavage	Average coverage: 3521.62	1
+ath-miR854d	Cp_V2_contig_12238	4.5	-1.0	1	21	696	716	GAUGAGGAUAGGGAGGAGGAG	 :::::. :..: ::.:::::	AUCCUCUCCUUUCUCUUCAUC	Cleavage	Average coverage: 1954.53	1
+ath-miR854e	Cp_V2_contig_4950	4.5	-1.0	1	21	1128	1148	GAUGAGGAUAGGGAGGAGGAG	::::::::::::.:: :::  	CUCCUCCUCCCUGUCGUCACU	Cleavage	Average coverage: 3521.62	1
+ath-miR854e	Cp_V2_contig_12238	4.5	-1.0	1	21	696	716	GAUGAGGAUAGGGAGGAGGAG	 :::::. :..: ::.:::::	AUCCUCUCCUUUCUCUUCAUC	Cleavage	Average coverage: 1954.53	1
+ath-miR858b	Cp_V2_contig_551	4.5	-1.0	1	21	4368	4388	UUCGUUGUCUGUUCGACCUUG	    :::::::::: ..::::	AACCGUCGAACAGAGGGCGAA	Cleavage	Average coverage: 2525.06	1
+ath-miR859	Cp_V2_contig_43263	4.5	-1.0	1	21	501	520	UCUCUCUGUUGUGAAGUCAAA	  : :.::::::: :::::::	CAUAAUUUCACAA-AGAGAGA	Cleavage	Average coverage: 2497.27	1
+ath-miR862-3p	Cp_V2_contig_12238	4.5	-1.0	1	21	586	606	AUAUGCUGGAUCUACUUGAAG	   ::  :::::::::::: :	GGGCACAUAGAUCCAGCAUUU	Cleavage	Average coverage: 1954.53	1
+ath-miR865-5p	Cp_V2_contig_12238	4.5	-1.0	1	21	432	451	AUGAAUUUGGAUCUAAUUGAG	 ::.:: .:::..:.::::::	AUCGAU-GGAUUUAGAUUCAU	Cleavage	Average coverage: 1954.53	1
+ath-miR156d-3p	Cp_V2_contig_551	5.0	-1.0	1	23	4783	4805	GCUCACUCUCUUUUUGUCAUAAC	::  ::.: .:.:::::: ::: 	GUGUUGGCCGAGAGAGAGAGAGA	Cleavage	Average coverage: 2525.06	1
+ath-miR157a-5p	Cp_V2_contig_6671	5.0	-1.0	1	21	2513	2533	UUGACAGAAGAUAGAGAGCAC	 :::::: :: ::: ::::: 	UUGCUCUAUAGCUUAUGUCAU	Translation	Average coverage: 518.01	1
+ath-miR157b-5p	Cp_V2_contig_6671	5.0	-1.0	1	21	2513	2533	UUGACAGAAGAUAGAGAGCAC	 :::::: :: ::: ::::: 	UUGCUCUAUAGCUUAUGUCAU	Translation	Average coverage: 518.01	1
+ath-miR157c-5p	Cp_V2_contig_6671	5.0	-1.0	1	21	2513	2533	UUGACAGAAGAUAGAGAGCAC	 :::::: :: ::: ::::: 	UUGCUCUAUAGCUUAUGUCAU	Translation	Average coverage: 518.01	1
+ath-miR163	Cp_V2_contig_551	5.0	-1.0	1	24	1689	1712	UUGAAGAGGACUUGGAACUUCGAU	   :::: ::..:: : :::::::	GAAGAAGAUCUGAGACGUCUUCAA	Translation	Average coverage: 2525.06	1
+ath-miR166a-5p	Cp_V2_contig_551	5.0	-1.0	1	21	1834	1854	GGACUGUUGUCUGGCUCGAGG	.: .:.::::: :::.:::: 	UCGUGGGCCAGCCAAUAGUCG	Translation	Average coverage: 2525.06	1
+ath-miR166b-5p	Cp_V2_contig_551	5.0	-1.0	1	21	1834	1854	GGACUGUUGUCUGGCUCGAGG	.: .:.::::: :::.:::: 	UCGUGGGCCAGCCAAUAGUCG	Translation	Average coverage: 2525.06	1
+ath-miR170-3p	Cp_V2_contig_18802	5.0	-1.0	1	21	354	374	UGAUUGAGCCGUGUCAAUAUC	 :::: : ::.::.:.:.:: 	AAUAUCGUCAUGGUUUAGUCC	Cleavage	Average coverage: 245.53	1
+ath-miR414	Cp_V2_contig_6671	5.0	-1.0	1	21	2396	2416	UCAUCUUCAUCAUCAUCGUCA	: : ::: :: .::.:::::.	UUAAGAUAAUAGUGGAGAUGG	Translation	Average coverage: 518.01	1
+ath-miR415	Cp_V2_contig_6671	5.0	-1.0	1	21	2084	2104	AACAGAGCAGAAACAGAACAU	   ::. ::::. :.::::::	GGUUUUGGUUUUAGUUCUGUU	Cleavage	Average coverage: 518.01	1
+ath-miR417	Cp_V2_contig_6671	5.0	-1.0	1	21	2455	2475	GAAGGUAGUGAAUUUGUUCGA	 ::.... :::..:::.:::.	ACGGGUGCAUUUGCUAUCUUU	Cleavage	Average coverage: 518.01	1
+ath-miR419	Cp_V2_contig_22145	5.0	-1.0	1	21	371	391	UUAUGAAUGCUGAGGAUGUUG	.:::  ..:::::: :::::.	UAACUCUUUCAGCAAUCAUAG	Cleavage	Average coverage: 303.05	1
+ath-miR5014a-3p	Cp_V2_contig_551	5.0	-1.0	1	21	1929	1949	UUGUACAAAUUUAAGUGUACG	:::.:: : .:.:::::::: 	CGUGCAGUAGAGUUUGUACAC	Cleavage	Average coverage: 2525.06	1
+ath-miR5019	Cp_V2_contig_12238	5.0	-1.0	1	21	742	763	UGUUGGGAAAGA-AAAACUCUU	   :::::: ::::::::::: 	CCAAGUUUUCUCUUUCCCAACC	Cleavage	Average coverage: 1954.53	1
+ath-miR5020a	Cp_V2_contig_12238	5.0	-1.0	1	21	926	946	UGGAAGAAGGUGAGACUUGCA	 :: : :::.::: :.::.::	CGCUAUUCUUACCCUUUUUCA	Cleavage	Average coverage: 1954.53	1
+ath-miR5020c	Cp_V2_contig_6671	5.0	-1.0	1	21	1017	1037	UGGCAUGGAAGAAGGUGAGAC	  ::....:::::::: :: :	UGCUUGUUUUCUUCCACGCAA	Cleavage	Average coverage: 518.01	1
+ath-miR5649a	Cp_V2_contig_551	5.0	-1.0	1	21	4196	4216	AUUGAAUAUGUUGGUUACUAU	  :::: :::..: ::::.: 	GCAGUACCCAGUAGAUUCGAA	Cleavage	Average coverage: 2525.06	1
+ath-miR5649b	Cp_V2_contig_551	5.0	-1.0	1	21	4196	4216	AUUGAAUAUGUUGGUUACUAU	  :::: :::..: ::::.: 	GCAGUACCCAGUAGAUUCGAA	Cleavage	Average coverage: 2525.06	1
+ath-miR5650	Cp_V2_contig_8442	5.0	-1.0	1	21	461	481	UUGUUUUGGAUCUUAGAUACA	   ::. :::::. :::.:::	GCCAUUGAAGAUUGAAAGCAA	Cleavage	Average coverage: 2583.18	1
+ath-miR5651	Cp_V2_contig_2815	5.0	-1.0	1	21	1015	1035	UUGUGCGGUUCAAAUAGUAAC	    .:.:::::.:.:.::.:	CGCCUUGUUUGAGCUGUACGA	Cleavage	Average coverage: 2370.38	1
+ath-miR5657	Cp_V2_contig_43263	5.0	-1.0	1	21	756	776	UGGACAAGGUUAGAUUUGGUG	   :.:::: .:::::::: :	GCACGAAUCCGACCUUGUCGA	Cleavage	Average coverage: 2497.27	1
+ath-miR5659	Cp_V2_contig_551	5.0	-1.0	1	23	626	648	CGAUGAAGGUCUUUGGAACGGUA	 .:. :::::::  .::::.:::	AGCUCUUCCAAAUUUCUUCGUCG	Translation	Average coverage: 2525.06	1
+ath-miR5664	Cp_V2_contig_551	5.0	-1.0	1	21	3448	3467	AUAGUCAAUUUUAUCGGUCUG	  :.:: ::. :.::::::::	ACGGCC-AUGUAGUUGACUAU	Translation	Average coverage: 2525.06	1
+ath-miR5997	Cp_V2_contig_6671	5.0	-1.0	1	21	2228	2248	UGAAACCAAGUAGCUAAAUAG	: .:::.:.:.:::  :::::	CGGUUUGGUUGCUUCAUUUCA	Cleavage	Average coverage: 518.01	2
+ath-miR5997	Cp_V2_contig_6671	5.0	-1.0	1	21	1343	1363	UGAAACCAAGUAGCUAAAUAG	     :. .::::::::::::	UUCCAUGUUUACUUGGUUUCA	Cleavage	Average coverage: 518.01	2
+ath-miR779.2	Cp_V2_contig_551	5.0	-1.0	1	21	3680	3700	UGAUUGGAAAUUUCGUUGACU	::::.:::::. ::. .::::	AGUCGACGAAGCUUUGGAUCA	Translation	Average coverage: 2525.06	1
+ath-miR781a	Cp_V2_contig_551	5.0	-1.0	1	21	3941	3961	UUAGAGUUUUCUGGAUACUUA	    :: :::::::.::.:..	GCCAUAGCCAGAAAGCUUUGG	Cleavage	Average coverage: 2525.06	2
+ath-miR781a	Cp_V2_contig_551	5.0	-1.0	1	21	4196	4216	UUAGAGUUUUCUGGAUACUUA	  :::: :::: :.:.:: ::	GCAGUACCCAGUAGAUUCGAA	Translation	Average coverage: 2525.06	2
+ath-miR781b	Cp_V2_contig_551	5.0	-1.0	1	21	3941	3961	UUAGAGUUUUCUGGAUACUUA	    :: :::::::.::.:..	GCCAUAGCCAGAAAGCUUUGG	Cleavage	Average coverage: 2525.06	2
+ath-miR781b	Cp_V2_contig_551	5.0	-1.0	1	21	4196	4216	UUAGAGUUUUCUGGAUACUUA	  :::: :::: :.:.:: ::	GCAGUACCCAGUAGAUUCGAA	Translation	Average coverage: 2525.06	2
+ath-miR8183	Cp_V2_contig_6671	5.0	-1.0	1	21	2360	2380	UUUAGUUGACGGAAUUGUGGC	   : ::: ..::::.:::::	UUGAGAAUGUUGUCAGCUAAA	Cleavage	Average coverage: 518.01	1
+ath-miR841a-3p	Cp_V2_contig_6671	5.0	-1.0	1	21	470	490	AUUUCUAGUGGGUCGUAUUCA	  .::..: .:.:::.::.::	GAGAUGUGUUCUACUGGAGAU	Cleavage	Average coverage: 518.01	1
+ath-miR846-3p	Cp_V2_contig_6671	5.0	-1.0	1	21	2229	2249	UUGAAUUGAAGUGCUUGAAUU	..::... ..::::: :::::	GGUUUGGUUGCUUCAUUUCAA	Cleavage	Average coverage: 518.01	1
+ath-miR851-3p	Cp_V2_contig_551	5.0	-1.0	1	21	4698	4718	UGGGUGGCAAACAAAGACGAC	    ::: :::::::.::...	CAUAUCUCUGUUUGCUACUUG	Cleavage	Average coverage: 2525.06	1
+ath-miR854a	Cp_V2_contig_2815	5.0	-1.0	1	21	187	207	GAUGAGGAUAGGGAGGAGGAG	::.::.:::: ::::.:..: 	CUUCUUCUCCAUAUCUUUGUG	Translation	Average coverage: 2370.38	1
+ath-miR854b	Cp_V2_contig_2815	5.0	-1.0	1	21	187	207	GAUGAGGAUAGGGAGGAGGAG	::.::.:::: ::::.:..: 	CUUCUUCUCCAUAUCUUUGUG	Translation	Average coverage: 2370.38	1
+ath-miR854c	Cp_V2_contig_2815	5.0	-1.0	1	21	187	207	GAUGAGGAUAGGGAGGAGGAG	::.::.:::: ::::.:..: 	CUUCUUCUCCAUAUCUUUGUG	Translation	Average coverage: 2370.38	1
+ath-miR854d	Cp_V2_contig_2815	5.0	-1.0	1	21	187	207	GAUGAGGAUAGGGAGGAGGAG	::.::.:::: ::::.:..: 	CUUCUUCUCCAUAUCUUUGUG	Translation	Average coverage: 2370.38	1
+ath-miR854e	Cp_V2_contig_2815	5.0	-1.0	1	21	187	207	GAUGAGGAUAGGGAGGAGGAG	::.::.:::: ::::.:..: 	CUUCUUCUCCAUAUCUUUGUG	Translation	Average coverage: 2370.38	1
+ath-miR858a	Cp_V2_contig_551	5.0	-1.0	1	21	968	988	UUUCGUUGUCUGUUCGACCUU	 .:: : :..::.:..::.::	CGGGCCAAGUAGGCGGCGGAA	Cleavage	Average coverage: 2525.06	3
+ath-miR858a	Cp_V2_contig_551	5.0	-1.0	1	21	388	408	UUUCGUUGUCUGUUCGACCUU	: : ::: ::.: :..:::::	AUGAUCGUACGGUCGGCGAAA	Cleavage	Average coverage: 2525.06	3
+ath-miR859	Cp_V2_contig_5534	5.0	-1.0	1	21	284	304	UCUCUCUGUUGUGAAGUCAAA	    .:: ::::...::::::	GGAAGCUGCACAGUGGAGAGA	Cleavage	Average coverage: 108.94	1
+ath-miR860	Cp_V2_contig_2815	5.0	-1.0	1	21	847	867	UCAAUAGAUUGGACUAUGUAU	   ::::::.::.: :.::: 	GCCCAUAGUUCAGUAUGUUGU	Cleavage	Average coverage: 2370.38	1
+ath-miR861-3p	Cp_V2_contig_551	5.0	-1.0	1	21	4687	4707	GAUGGAUAUGUCUUCAAGGAC	  ::  :::::::::::. : 	ACCCAAGAAGACAUAUCUCUG	Cleavage	Average coverage: 2525.06	1
+ath-miR869.2	Cp_V2_contig_12238	5.0	-1.0	1	21	769	788	UCUGGUGUUGAGAUAGUUGAC	 :::::  :::...::.::::	UUCAACC-UCUUGGCAUCAGA	Cleavage	Average coverage: 1954.53	1
+ath-miR869.2	Cp_V2_contig_2815	5.0	-1.0	1	21	384	403	UCUGGUGUUGAGAUAGUUGAC	: :: :: :: ::::.:::::	GACACCU-UCACAACGCCAGA	Translation	Average coverage: 2370.38	1

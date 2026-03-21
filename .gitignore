@@ -1,53 +1,100 @@
-# Data - Re-downloadable
+# ── Re-downloadable raw data ──────────────────────────────────────────────────
 data/fastq_raw/
 data/fastq_trimmed/
+data/selaginella/raw/
+data/selaginella/trimmed/
+data/selaginella/aligned/
+*.fastq
 *.fastq.gz
+*.sra
+*.sralite
 
-# Intermediate files
+# ── Large reference files (re-downloadable) ───────────────────────────────────
+references/GSE157098_Cp_transcriptome_assembly_V2.fa
+references/selaginella_transcriptome.fa
+references/selaginella_transcriptome.fa.fai
+references/Plant_logitModel.RData
+references/Plant_logitModel.RData.gz
+references/Plant.hexamer.tsv
+references/Cp_transcriptome_index*
+references/selaginella_index*
+references/annotation.gff3
+references/annotation.gtf
+references/blast_db/
+references/rfam/
+references/mirna/hairpin.fa
+references/mirna/hairpin.fa.gz
+
+# ── Intermediate pipeline outputs (reproducible) ──────────────────────────────
 results/hisat2_aligned/
 *.bam
 *.bam.bai
 *.sam
 
-# Indices and temp
-references/Cp_transcriptome_index*
-references/annotation.gtf
+# ── BLAST binary databases ────────────────────────────────────────────────────
+results/arabidopsis_blast_db.*
+results/selaginella_transcriptome_db.*
+results/arabidopsis_cdna.fa
+results/arabidopsis_lncrna.fa
+results/arabidopsis_lncrna.fa.gz
+
+# ── Large FASTA files in results ──────────────────────────────────────────────
+results/partner_sequences.fa
+results/wgcna_hub_sequences.fa
+results/selaginella_mstrg_sequences.fa
+results/selaginella_partner_sequences.fa
+results/conserved_candidates_selaginella_hits.fa
+results/candidate_sequences.fa
+
+# ── StringTie intermediate files ──────────────────────────────────────────────
+data/selaginella/stringtie/*.gtf
+data/selaginella/stringtie/*_final.gtf
+data/selaginella/stringtie/*.ctab
+data/selaginella/stringtie/merged.gtf
 results/stringtie_output/*.gtf
+
+# ── Temp / junk files ─────────────────────────────────────────────────────────
+*.tmp
+*.temp
 *.log
-.snakemake/
+results/cpc2_candidates
+results/cpc2_candidates.feat
+results/cpc2_candidates.tmp.*
+results/coding_potential.txt
+wget-log
+CPAT_run_info.log
+full_runinfo.csv
+runinfo_PRJNA660052.csv
+Miniconda3-latest-Linux-x86_64.sh
+sratoolkit.current-ubuntu64.tar.gz
+
+# ── SRA folders in root ───────────────────────────────────────────────────────
+SRR6345601/
+SRR6345603/
+SRR6345604/
+SRR6345610/
+SRR6345613/
+SRR6345614/
+SRR6345615/
+SRR6345616/
+SRR6345617/
+
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+*.egg
+venv/
+env/
+.env
 
-# IDE
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
 Thumbs.db
-
-# Python
-venv/
-env/
-.env
-*.egg
-
-# Figures (optional - can commit later)
-results/figures/
-
-# Temporary files
-*.tmp
-*.temp
-
-results/*
-
-*merlin*
-*.csv
-
-sratoolkit.current-ubuntu64.tar.gz
-*.gz
+.snakemake/

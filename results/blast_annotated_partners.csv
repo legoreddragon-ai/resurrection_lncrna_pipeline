@@ -1,0 +1,1063 @@
+lncrna_id,partner_id,partner_name,pearson_r,pvalue,gene_description,gene_name,organism,pident,evalue,bitscore
+Cp_V2_contig_12238,Cp_V2_contig_10455,.,0.9896,0.0,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_13481,.,0.9771,1e-06,protein SKIP14,SKIP14,Arabidopsis thaliana,42.4,7.37e-61,206.0
+Cp_V2_contig_12238,Cp_V2_contig_1105,.,0.977,1e-06,maturation protein SBDS,SBDS,Bos taurus,55.23,1.02e-84,260.0
+Cp_V2_contig_12238,Cp_V2_contig_5559,.,0.9759,1e-06,domain-containing protein DSK2b,DSK2B,Arabidopsis thaliana,61.017,9.599999999999999e-165,483.0
+Cp_V2_contig_12238,Cp_V2_contig_20690,.,0.9737,2e-06,protein FOR GROWTH AND FERTILITY 2,CGF2,Arabidopsis thaliana,67.638,2.5500000000000003e-129,380.0
+Cp_V2_contig_12238,Cp_V2_contig_6438,.,0.9728,2e-06,,,Atriplex nummularia,87.013,5.6299999999999994e-95,277.0
+Cp_V2_contig_12238,Cp_V2_contig_17427,.,0.9722,3e-06,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_1013,.,0.9716,3e-06,repeat domain-containing protein 2B,AKR2B,Arabidopsis thaliana,64.553,2.3300000000000002e-148,429.0
+Cp_V2_contig_12238,Cp_V2_contig_3575,.,0.9693,4e-06,translation factor SUI1 homolog,TIF,Zea mays,89.565,1.3700000000000001e-70,214.0
+Cp_V2_contig_12238,Cp_V2_contig_25937,.,0.9686,4e-06,degradation protein 8 homolog,DDB_G0279265,Dictyostelium discoideum,30.597,1.16e-08,58.9
+Cp_V2_contig_12238,Cp_V2_contig_16567,.,0.9665,5e-06,finger C3HC-type protein 1-like,zc3hc1,Xenopus laevis,26.347,6.93e-06,53.1
+Cp_V2_contig_12238,Cp_V2_contig_21613,.,0.9653,6e-06,protein 1,PABN1,Arabidopsis thaliana,75.904,4.83e-72,223.0
+Cp_V2_contig_12238,Cp_V2_contig_11464,.,0.9645,7e-06,ribosomal export protein NMD3,nmd3,Dictyostelium discoideum,46.049,8.68e-111,337.0
+Cp_V2_contig_12238,Cp_V2_contig_13148,.,0.9626,8e-06,2-2,GGCT2;2,Arabidopsis thaliana,49.315,2.55e-10,58.5
+Cp_V2_contig_12238,Cp_V2_contig_47834,.,0.9626,8e-06,protein PCC27-45,,Craterostigma plantagineum,100.0,1.36e-58,182.0
+Cp_V2_contig_12238,Cp_V2_contig_6241,.,0.9623,8e-06,repressor ILP1,ILP1,Arabidopsis thaliana,46.784,3.27e-143,444.0
+Cp_V2_contig_12238,Cp_V2_contig_22977,.,0.9603,1e-05,protectant protein Lea14 homolog,,Glycine max,62.0,2.65e-61,190.0
+Cp_V2_contig_12238,Cp_V2_contig_20231,.,0.9602,1e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,28.571,7.91e-10,62.8
+Cp_V2_contig_12238,Cp_V2_contig_47327,.,0.9594,1.1e-05,galactinol--sucrose galactosyltransferase 2,RFS2,Arabidopsis thaliana,69.869,4.82e-102,315.0
+Cp_V2_contig_12238,Cp_V2_contig_44182,.,0.9586,1.2e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_7514,.,0.9583,1.3e-05,D beta 1,PLDBETA1,Arabidopsis thaliana,73.29,0.0,1417.0
+Cp_V2_contig_12238,Cp_V2_contig_1545,.,0.9579,1.3e-05,methionine sulfoxide reductase (Fragment),E4,Solanum lycopersicum,75.401,1.07e-103,300.0
+Cp_V2_contig_12238,Cp_V2_contig_26531,.,0.9555,1.6e-05,transcription factor RAP2-1,RAP2-1,Arabidopsis thaliana,59.836,6.25e-40,138.0
+Cp_V2_contig_12238,Cp_V2_contig_1,.,0.9551,1.7e-05,membrane protein PEX14,PEX14,Arabidopsis thaliana,49.045,2.86e-98,309.0
+Cp_V2_contig_12238,Cp_V2_contig_28879,.,0.9546,1.8e-05,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,66.102,6.91e-17,79.0
+Cp_V2_contig_12238,Cp_V2_contig_24876,.,0.9538,1.9e-05,phospholipase domain-containing protein 2,Pnpla2,Rattus norvegicus,29.249,4.12e-18,90.5
+Cp_V2_contig_12238,Cp_V2_contig_16337,.,0.9535,1.9e-05,factor 3B subunit 4,SF3B4,Homo sapiens,46.667,7.06e-17,84.0
+Cp_V2_contig_12238,Cp_V2_contig_20784,.,0.9529,2e-05,L,,Sesamum indicum,73.881,5.98e-46,152.0
+Cp_V2_contig_12238,Cp_V2_contig_21764,.,0.9526,2.1e-05,kinase G-2,CDKG-2,Oryza sativa subsp. japonica,71.429,5.99e-12,69.3
+Cp_V2_contig_12238,Cp_V2_contig_5702,.,0.9516,2.3e-05,pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH6,MEE29,Arabidopsis thaliana,76.991,7.69e-43,157.0
+Cp_V2_contig_12238,Cp_V2_contig_377,.,0.9514,2.3e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9341,.,0.9508,2.4e-05,protease SBT1.8,SBT1.8,Arabidopsis thaliana,59.606,1.9700000000000002e-79,257.0
+Cp_V2_contig_12238,Cp_V2_contig_6801,.,0.9506,2.5e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_12798,.,0.9505,2.5e-05,"repeat-containing protein At5g13770, chloroplastic",At5g13770,Arabidopsis thaliana,57.143,1.55e-125,377.0
+Cp_V2_contig_12238,Cp_V2_contig_5488,.,0.9502,2.5e-05,"RNA polymerases II, IV and V subunit 6A",NRPB6A,Arabidopsis thaliana,95.455,1.9499999999999997e-55,176.0
+Cp_V2_contig_12238,Cp_V2_contig_25567,.,0.9501,2.6e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_23462,.,0.9494,2.7e-05,"LIKE EARLY STARVATION, chloroplastic",LESV,Arabidopsis thaliana,47.619,1.75e-07,55.1
+Cp_V2_contig_12238,Cp_V2_contig_35454,.,0.9492,2.7e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9714,.,0.9492,2.7e-05,protein-interacting protein 4,CID4,Arabidopsis thaliana,53.992,2.6800000000000002e-70,234.0
+Cp_V2_contig_12238,Cp_V2_contig_12398,.,0.9482,3e-05,WRKY transcription factor 3,WRKY3,Arabidopsis thaliana,57.993,6.87e-92,293.0
+Cp_V2_contig_12238,Cp_V2_contig_8765,.,0.9482,3e-05,"thiolase 2, peroxisomal",PED1,Arabidopsis thaliana,82.845,1.28e-123,363.0
+Cp_V2_contig_12238,Cp_V2_contig_18344,.,0.9462,3.4e-05,splicing factor SC35,SC35,Arabidopsis thaliana,87.963,1.49e-62,201.0
+Cp_V2_contig_12238,Cp_V2_contig_22400,.,0.9461,3.5e-05,embryogenesis abundant protein 46,LEA46,Arabidopsis thaliana,68.293,1.6e-11,57.0
+Cp_V2_contig_12238,Cp_V2_contig_15547,.,0.9458,3.5e-05,,CUL1,Oryza sativa subsp. japonica,85.657,4.36e-145,426.0
+Cp_V2_contig_12238,Cp_V2_contig_10790,.,0.9457,3.5e-05,domain-containing protein ECT2,ECT2,Arabidopsis thaliana,55.649,9.23e-170,500.0
+Cp_V2_contig_12238,Cp_V2_contig_267,.,0.9456,3.6e-05,ATP-dependent RNA helicase DExH12,BRR2A,Arabidopsis thaliana,78.821,0.0,3412.0
+Cp_V2_contig_12238,Cp_V2_contig_16108,.,0.9454,3.6e-05,ataxin-3 homolog,Os01g0851400,Oryza sativa subsp. japonica,60.0,6.61e-49,162.0
+Cp_V2_contig_12238,Cp_V2_contig_13560,.,0.9445,3.9e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_1982,.,0.9442,4e-05,domain-containing protein 1,R3HDM1,Homo sapiens,32.051,3.35e-08,60.1
+Cp_V2_contig_12238,Cp_V2_contig_44940,.,0.9442,4e-05,galactinol--sucrose galactosyltransferase 2,RFS2,Arabidopsis thaliana,79.592,1.22e-168,490.0
+Cp_V2_contig_12238,Cp_V2_contig_5553,.,0.944,4e-05,protein RBP47B',RBP47B',Arabidopsis thaliana,62.233,7.83e-164,471.0
+Cp_V2_contig_12238,Cp_V2_contig_8565,.,0.9431,4.3e-05,motif-containing protein 4,VQ4,Arabidopsis thaliana,48.705,3.17e-30,116.0
+Cp_V2_contig_12238,Cp_V2_contig_2918,.,0.9426,4.4e-05,"protein At3g17800, chloroplastic",At3g17800,Arabidopsis thaliana,62.759,3.92e-55,183.0
+Cp_V2_contig_12238,Cp_V2_contig_672,.,0.9416,4.8e-05,"3,5-epimerase 2",GME-2,Oryza sativa subsp. japonica,94.795,0.0,735.0
+Cp_V2_contig_12238,Cp_V2_contig_19921,.,0.9415,4.8e-05,protein 130 B,SAP130B,Arabidopsis thaliana,88.316,0.0,1087.0
+Cp_V2_contig_12238,Cp_V2_contig_3210,.,0.9411,4.9e-05,kinase G-2,CDKG-2,Oryza sativa subsp. japonica,58.843,0.0,621.0
+Cp_V2_contig_12238,Cp_V2_contig_7848,.,0.9403,5.2e-05,synthase 11,KCS11,Arabidopsis thaliana,84.831,1.01e-104,315.0
+Cp_V2_contig_12238,Cp_V2_contig_1000,.,0.9402,5.2e-05,complex subunit SWI3D,SWI3D,Arabidopsis thaliana,48.629,9.11e-145,449.0
+Cp_V2_contig_12238,Cp_V2_contig_5205,.,0.9394,5.5e-05,,CUL1,Oryza sativa subsp. japonica,86.681,0.0,806.0
+Cp_V2_contig_12238,Cp_V2_contig_1243,.,0.9391,5.6e-05,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,76.496,3.2500000000000004e-124,358.0
+Cp_V2_contig_12238,Cp_V2_contig_8206,.,0.9391,5.6e-05,protein dnaJ 49,ATJ49,Arabidopsis thaliana,65.432,9.64e-33,119.0
+Cp_V2_contig_12238,Cp_V2_contig_1461,.,0.9384,5.8e-05,complex subunit 4A,ALY1,Arabidopsis thaliana,65.517,4.04e-60,189.0
+Cp_V2_contig_12238,Cp_V2_contig_5282,.,0.9383,5.9e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_12055,.,0.938,6e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,30.0,5.11e-09,60.8
+Cp_V2_contig_12238,Cp_V2_contig_22671,.,0.9376,6.2e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_6815,.,0.9372,6.3e-05,synthase 2,GOLS2,Solanum lycopersicum,81.362,1.65e-164,463.0
+Cp_V2_contig_12238,Cp_V2_contig_6459,.,0.937,6.4e-05,domain-containing protein 1,bsdc1,Xenopus tropicalis,29.63,5.28e-14,77.0
+Cp_V2_contig_12238,Cp_V2_contig_2437,.,0.9369,6.4e-05,protein type 2,pKIWI504,Actinidia deliciosa,69.231,3.52e-11,58.2
+Cp_V2_contig_12238,Cp_V2_contig_21131,.,0.9368,6.5e-05,RING ZnF UBP domain-containing protein 2,BRIZ2,Arabidopsis thaliana,62.629,1.34e-178,509.0
+Cp_V2_contig_12238,Cp_V2_contig_19588,.,0.9367,6.5e-05,pyruvate carrier 4,MPC4,Arabidopsis thaliana,83.333,6.41e-64,194.0
+Cp_V2_contig_12238,Cp_V2_contig_7346,.,0.9367,6.5e-05,poly [ADP-ribose] polymerase RCD1,RCD1,Arabidopsis thaliana,36.789,1.17e-87,283.0
+Cp_V2_contig_12238,Cp_V2_contig_1119,.,0.9366,6.5e-05,biogenesis protein BMS1 homolog,BMS1,Homo sapiens,44.85,4.4099999999999994e-152,482.0
+Cp_V2_contig_12238,Cp_V2_contig_20939,.,0.936,6.8e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_46939,.,0.936,6.8e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,92.453,1.03e-28,106.0
+Cp_V2_contig_12238,Cp_V2_contig_23819,.,0.9356,7e-05,domain-containing CTD phosphatase,At4g06599,Arabidopsis thaliana,80.198,7.769999999999999e-172,484.0
+Cp_V2_contig_12238,Cp_V2_contig_29662,.,0.9353,7.1e-05,protein At1g55000,At1g55000,Arabidopsis thaliana,62.893,2.69e-68,209.0
+Cp_V2_contig_12238,Cp_V2_contig_7799,.,0.9348,7.3e-05,domain protein 4-like protein,MBD4L,Arabidopsis thaliana,59.322,1.37e-38,147.0
+Cp_V2_contig_12238,Cp_V2_contig_27498,.,0.9346,7.4e-05,casein kinase II subunit alpha-2,HD6,Oryza sativa subsp. japonica,89.796,1.3e-25,94.7
+Cp_V2_contig_12238,Cp_V2_contig_26277,.,0.9344,7.5e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_22067,.,0.9343,7.5e-05,2,ptrB,Moraxella lacunata,39.118,7.63e-171,512.0
+Cp_V2_contig_12238,Cp_V2_contig_23261,.,0.9342,7.6e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_4505,.,0.9339,7.7e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9545,.,0.9337,7.8e-05,carrier protein CoAc2,COAC2,Arabidopsis thaliana,72.468,6.920000000000001e-167,471.0
+Cp_V2_contig_12238,Cp_V2_contig_2780,.,0.9335,7.9e-05,factor ESS-2 homolog,Es2,Drosophila melanogaster,30.769,3.0800000000000004e-32,133.0
+Cp_V2_contig_12238,Cp_V2_contig_14994,.,0.9316,8.8e-05,protein M homolog,RANBPM,Arabidopsis thaliana,57.583,2.78e-173,499.0
+Cp_V2_contig_12238,Cp_V2_contig_3614,.,0.9313,9e-05,protein pKIWI502,pKIWI502,Actinidia deliciosa,49.057,1.04e-10,60.1
+Cp_V2_contig_12238,Cp_V2_contig_32562,.,0.9311,9.1e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_13800,.,0.931,9.1e-05,WEAK CHLOROPLAST MOVEMENT UNDER BLUE LIGHT 1,WEB1,Arabidopsis thaliana,63.393,6.81e-28,109.0
+Cp_V2_contig_12238,Cp_V2_contig_8612,.,0.9307,9.3e-05,insoluble isoenzyme 1,INV1,Daucus carota,66.667,1.64e-39,146.0
+Cp_V2_contig_12238,Cp_V2_contig_18237,.,0.9299,9.7e-05,galacturonosyltransferase-like 1,GATL1,Arabidopsis thaliana,76.061,5.02e-156,454.0
+Cp_V2_contig_12238,Cp_V2_contig_43831,.,0.9299,9.7e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,85.586,2.12e-59,183.0
+Cp_V2_contig_12238,Cp_V2_contig_12850,.,0.9295,9.9e-05,domain-containing protein At1g67900,At1g67900,Arabidopsis thaliana,58.1,0.0,621.0
+Cp_V2_contig_12238,Cp_V2_contig_22199,.,0.9295,9.9e-05,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_29277,.,0.9294,0.0001,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_735,.,0.929,0.000102,protein RBP47,RBP47,Nicotiana plumbaginifolia,65.074,4.91e-121,354.0
+Cp_V2_contig_12238,Cp_V2_contig_18250,.,0.9287,0.000103,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_7071,.,0.9285,0.000105,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_1681,.,0.9284,0.000105,factor 8A,PRP8A,Arabidopsis thaliana,92.255,0.0,1063.0
+Cp_V2_contig_12238,Cp_V2_contig_24832,.,0.9283,0.000106,methionine sulfoxide reductase B5,MSRB5,Oryza sativa subsp. japonica,92.857,1.76e-53,168.0
+Cp_V2_contig_12238,Cp_V2_contig_35331,.,0.9278,0.000109,finger CCCH domain-containing protein 1,At1g01350,Arabidopsis thaliana,53.0,3.94e-21,89.4
+Cp_V2_contig_12238,Cp_V2_contig_792,.,0.9272,0.000112,"1, chloroplastic",BAM1,Arabidopsis thaliana,80.645,1.17e-45,160.0
+Cp_V2_contig_12238,Cp_V2_contig_21546,.,0.9269,0.000114,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,95.294,1.51e-92,272.0
+Cp_V2_contig_12238,Cp_V2_contig_4595,.,0.9266,0.000116,complex component EXO70E2,EXO70E2,Arabidopsis thaliana,40.774,1.24e-107,340.0
+Cp_V2_contig_12238,Cp_V2_contig_6333,.,0.9265,0.000116,,PSAP,Bos taurus,29.139,1.26e-07,55.1
+Cp_V2_contig_12238,Cp_V2_contig_5810,.,0.9257,0.000122,"LIKE EARLY STARVATION, chloroplastic",LESV,Arabidopsis thaliana,61.8,2.2800000000000003e-179,519.0
+Cp_V2_contig_12238,Cp_V2_contig_6533,.,0.9254,0.000123,UBX domain-containing protein 10,PUX10,Arabidopsis thaliana,66.667,7.58e-19,83.2
+Cp_V2_contig_12238,Cp_V2_contig_29178,.,0.925,0.000126,initiation factor eIF2B subunit alpha,eif2b1,Dictyostelium discoideum,48.276,3.92e-51,174.0
+Cp_V2_contig_12238,Cp_V2_contig_13382,.,0.9246,0.000129,repeat-containing protein At1g19720,DYW7,Arabidopsis thaliana,44.978,8.209999999999999e-128,394.0
+Cp_V2_contig_12238,Cp_V2_contig_10000,.,0.9245,0.00013,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_33906,.,0.9244,0.00013,factor 8A,PRP8A,Arabidopsis thaliana,98.361,0.0,629.0
+Cp_V2_contig_12238,Cp_V2_contig_339,.,0.9243,0.000131,receptor-associated factor homolog 1a,TRAF1A,Arabidopsis thaliana,68.831,6.09e-168,501.0
+Cp_V2_contig_12238,Cp_V2_contig_44233,.,0.9243,0.000131,protein PCC27-45,,Craterostigma plantagineum,95.556,1.53e-22,89.4
+Cp_V2_contig_12238,Cp_V2_contig_27371,.,0.9241,0.000133,scaffold protein A homolog,At3g61800,Arabidopsis thaliana,58.219,1.58e-51,176.0
+Cp_V2_contig_12238,Cp_V2_contig_10201,.,0.9237,0.000135,transcription factor 53,BZIP53,Arabidopsis thaliana,44.444,8.1e-18,78.6
+Cp_V2_contig_12238,Cp_V2_contig_4258,.,0.9236,0.000136,serine/threonine-protein kinase At1g09600,At1g09600,Arabidopsis thaliana,42.654,7.61e-92,296.0
+Cp_V2_contig_12238,Cp_V2_contig_17626,.,0.9234,0.000137,,CUL1,Oryza sativa subsp. japonica,84.504,0.0,736.0
+Cp_V2_contig_12238,Cp_V2_contig_17335,.,0.923,0.00014,ubiquitin-protein ligase RING1-like,At3g19950,Arabidopsis thaliana,42.336,9.24e-28,114.0
+Cp_V2_contig_12238,Cp_V2_contig_7988,.,0.9227,0.000142,disease resistance protein At4g33300,At4g33300,Arabidopsis thaliana,52.016,1.54e-79,258.0
+Cp_V2_contig_12238,Cp_V2_contig_45499,.,0.9226,0.000143,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_3066,.,0.9224,0.000144,transmembrane protein 2,HHP2,Arabidopsis thaliana,54.118,1.78e-120,357.0
+Cp_V2_contig_12238,Cp_V2_contig_17218,.,0.9222,0.000146,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_13938,.,0.9221,0.000147,HOMOLOG OF MAMMALIAN LYST-INTERACTING PROTEIN 5,LIP5,Arabidopsis thaliana,80.822,5.8e-82,257.0
+Cp_V2_contig_12238,Cp_V2_contig_30310,.,0.9218,0.000149,element-binding protein 2A,DREB2A,Arabidopsis thaliana,75.238,8.02e-28,110.0
+Cp_V2_contig_12238,Cp_V2_contig_12024,.,0.9217,0.00015,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_2070,.,0.9211,0.000154,chromatid cohesion protein PDS5 homolog C,PDS5C,Arabidopsis thaliana,47.143,2.84e-15,81.3
+Cp_V2_contig_12238,Cp_V2_contig_2079,.,0.9209,0.000155,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_26352,.,0.9207,0.000157,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9340,.,0.9205,0.000159,protease SBT1.8,SBT1.8,Arabidopsis thaliana,64.017,7.85e-105,325.0
+Cp_V2_contig_12238,Cp_V2_contig_214,.,0.9204,0.000159,domain-containing protein ACR5,ACR5,Arabidopsis thaliana,54.015,8.1e-50,169.0
+Cp_V2_contig_12238,Cp_V2_contig_510,.,0.9201,0.000162,"finger protein VAR3, chloroplastic",VAR3,Arabidopsis thaliana,36.129,1.5499999999999999e-74,261.0
+Cp_V2_contig_12238,Cp_V2_contig_18169,.,0.9197,0.000165,transport protein 13,STP13,Arabidopsis thaliana,83.607,0.0,777.0
+Cp_V2_contig_12238,Cp_V2_contig_19105,.,0.9191,0.00017,O-glucosyltransferase,ZOG1,Phaseolus lunatus,47.84,4.57e-78,250.0
+Cp_V2_contig_12238,Cp_V2_contig_6462,.,0.9186,0.000174,and MATH domain-containing protein 2,BPM2,Arabidopsis thaliana,70.738,0.0,597.0
+Cp_V2_contig_12238,Cp_V2_contig_47812,.,0.9184,0.000176,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,100.0,2.21e-10,58.9
+Cp_V2_contig_12238,Cp_V2_contig_17597,.,0.9181,0.000178,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_18945,.,0.918,0.000179,"A1 PLIP2, chloroplastic",PLIP2,Arabidopsis thaliana,67.493,1.66e-154,464.0
+Cp_V2_contig_12238,Cp_V2_contig_11243,.,0.9179,0.00018,signal cointegrator 1 complex subunit 2,Ascc2,Mus musculus,21.064,1.81e-14,81.3
+Cp_V2_contig_12238,Cp_V2_contig_252,.,0.9178,0.000181,"Clp protease ATP-binding subunit ClpA homolog CD4A, chloroplastic",CD4A,Solanum lycopersicum,90.081,0.0,1437.0
+Cp_V2_contig_12238,Cp_V2_contig_2913,.,0.9177,0.000181,cytidylyltransferase,PECT1,Arabidopsis thaliana,69.461,1.0299999999999999e-81,250.0
+Cp_V2_contig_12238,Cp_V2_contig_4148,.,0.9174,0.000184,hydrolase,hsaD,Rhodococcus jostii (strain RHA1),31.25,1.38e-07,55.8
+Cp_V2_contig_12238,Cp_V2_contig_29118,.,0.9172,0.000186,aspartic proteinase GIP2,GIP2,Nicotiana benthamiana,55.814,5.41e-41,144.0
+Cp_V2_contig_12238,Cp_V2_contig_31173,.,0.9172,0.000186,serine/threonine-protein kinase PBL19,PBL19,Arabidopsis thaliana,63.971,1.5299999999999999e-52,179.0
+Cp_V2_contig_12238,Cp_V2_contig_37788,.,0.9171,0.000187,"repeat-containing protein At5g13770, chloroplastic",At5g13770,Arabidopsis thaliana,32.673,2.04e-11,62.8
+Cp_V2_contig_12238,Cp_V2_contig_7792,.,0.9168,0.00019,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_26276,.,0.9166,0.000191,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_16225,.,0.9163,0.000194,alcohol dehydrogenase 2,CAD2,Rauvolfia serpentina,68.966,1.93e-154,442.0
+Cp_V2_contig_12238,Cp_V2_contig_46148,.,0.9163,0.000194,blue protein,,Cucumis sativus,58.333,3.99e-26,98.2
+Cp_V2_contig_12238,Cp_V2_contig_4663,.,0.9163,0.000194,WEAK CHLOROPLAST MOVEMENT UNDER BLUE LIGHT 1,WEB1,Arabidopsis thaliana,62.5,4.24e-36,132.0
+Cp_V2_contig_12238,Cp_V2_contig_40374,.,0.9162,0.000195,domain-containing protein CBSX5,CBSX5,Arabidopsis thaliana,39.13,1.58e-11,63.2
+Cp_V2_contig_12238,Cp_V2_contig_5722,.,0.916,0.000196,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_11988,.,0.9159,0.000198,protein RBP47,RBP47,Nicotiana plumbaginifolia,63.158,2.7700000000000003e-75,234.0
+Cp_V2_contig_12238,Cp_V2_contig_13805,.,0.9159,0.000198,protein At3g56470,At3g56470,Arabidopsis thaliana,44.086,1.94e-73,235.0
+Cp_V2_contig_12238,Cp_V2_contig_47392,.,0.9159,0.000198,protein PCC27-45,,Craterostigma plantagineum,97.959,5.72e-26,97.4
+Cp_V2_contig_12238,Cp_V2_contig_20920,.,0.9154,0.000202,purine biosynthesis protein PurH,purH,Bacillus cereus (strain AH820),50.189,2.07e-172,508.0
+Cp_V2_contig_12238,Cp_V2_contig_9156,.,0.9154,0.000202,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_25861,.,0.9153,0.000203,small nuclear ribonucleoprotein A',U2A',Arabidopsis thaliana,62.376,2.66e-18,84.3
+Cp_V2_contig_12238,Cp_V2_contig_44,.,0.9153,0.000203,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_26363,.,0.915,0.000206,assembly factor 1 subunit FAS1,FAS1,Arabidopsis thaliana,49.505,2.1e-26,108.0
+Cp_V2_contig_12238,Cp_V2_contig_31365,.,0.9147,0.000209,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_47823,.,0.9146,0.000209,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9335,.,0.9146,0.000209,domain-containing protein 1,PDP1,Arabidopsis thaliana,57.544,1.3e-90,313.0
+Cp_V2_contig_12238,Cp_V2_contig_12986,.,0.9145,0.000211,protein-interacting protein 11,CID11,Arabidopsis thaliana,70.48,2.5599999999999998e-126,369.0
+Cp_V2_contig_12238,Cp_V2_contig_9310,.,0.9145,0.00021,ubiquitin-protein ligase RHF2A,RHF2A,Arabidopsis thaliana,47.436,1.07e-11,65.1
+Cp_V2_contig_12238,Cp_V2_contig_17356,.,0.9143,0.000213,ubiquitin-protein ligase UPL3,UPL3,Arabidopsis thaliana,66.156,0.0,778.0
+Cp_V2_contig_12238,Cp_V2_contig_15870,.,0.9142,0.000213,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_5185,.,0.9142,0.000213,"indeterminate-domain 4, chloroplastic",IDD4,Arabidopsis thaliana,81.921,4.09e-101,320.0
+Cp_V2_contig_12238,Cp_V2_contig_1312,.,0.9137,0.000218,protein homolog 2,LDJ2,Allium porrum,79.365,3.17e-13,68.9
+Cp_V2_contig_12238,Cp_V2_contig_19807,.,0.9136,0.00022,partner of ACD11 1,BPA1,Arabidopsis thaliana,35.622,3.72e-36,135.0
+Cp_V2_contig_12238,Cp_V2_contig_21006,.,0.9129,0.000227,ubiquitin-protein ligase RNFT2,RNFT2,Homo sapiens,29.123,1.1900000000000001e-32,133.0
+Cp_V2_contig_12238,Cp_V2_contig_918,.,0.9127,0.000229,5'-phosphate synthase subunit PdxS,pdxS,Desulfovibrio desulfuricans (strain ATCC 27774 / DSM 6949 / MB),58.929,1.03e-13,60.8
+Cp_V2_contig_12238,Cp_V2_contig_40586,.,0.9125,0.000231,partner of ACD11 1,BPA1,Arabidopsis thaliana,36.047,4e-12,63.5
+Cp_V2_contig_12238,Cp_V2_contig_45615,.,0.9124,0.000232,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_16890,.,0.9121,0.000235,biogenesis protein 5,PEX5,Arabidopsis thaliana,58.197,2.96e-87,276.0
+Cp_V2_contig_12238,Cp_V2_contig_3549,.,0.9121,0.000235,"of chloroplast 159, chloroplastic",TOC159,Arabidopsis thaliana,61.41,0.0,595.0
+Cp_V2_contig_12238,Cp_V2_contig_9242,.,0.912,0.000235,domain family member 15,Tbc1d15,Mus musculus,49.0,2.24e-96,315.0
+Cp_V2_contig_12238,Cp_V2_contig_3554,.,0.9119,0.000237,P450 81E8,CYP81E8,Medicago truncatula,53.271,3.15e-72,233.0
+Cp_V2_contig_12238,Cp_V2_contig_25399,.,0.9118,0.000238,aspartic proteinase GIP2,GIP2,Nicotiana benthamiana,63.636,1.09e-53,180.0
+Cp_V2_contig_12238,Cp_V2_contig_42312,.,0.9118,0.000238,aspartic proteinase GIP2,GIP2,Nicotiana benthamiana,65.625,7.599999999999999e-30,113.0
+Cp_V2_contig_12238,Cp_V2_contig_13715,.,0.9117,0.000238,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_47621,.,0.9116,0.00024,I 4,GLYI4,Arabidopsis thaliana,71.166,1.96e-87,256.0
+Cp_V2_contig_12238,Cp_V2_contig_3704,.,0.9115,0.000241,LOL2,LOL2,Oryza sativa subsp. japonica,59.677,3.94e-34,119.0
+Cp_V2_contig_12238,Cp_V2_contig_25267,.,0.9113,0.000243,aldo-keto reductase 4,At1g60710,Arabidopsis thaliana,81.746,2.4100000000000003e-73,224.0
+Cp_V2_contig_12238,Cp_V2_contig_3354,.,0.911,0.000246,transcription factor WRKY24,WRKY24,Oryza sativa subsp. japonica,55.862,6.24e-36,135.0
+Cp_V2_contig_12238,Cp_V2_contig_45130,.,0.9108,0.000249,,,Armoracia rusticana,50.0,2.4e-26,103.0
+Cp_V2_contig_12238,Cp_V2_contig_42119,.,0.9107,0.00025,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_20543,.,0.9106,0.00025,73C4,UGT73C4,Arabidopsis thaliana,42.887,7.29e-130,393.0
+Cp_V2_contig_12238,Cp_V2_contig_376,.,0.9104,0.000253,factor SLU7,Os08g0127700,Oryza sativa subsp. japonica,82.186,0.0,767.0
+Cp_V2_contig_12238,Cp_V2_contig_15710,.,0.9103,0.000254,dehydratase small subunit 1,SSU1,Arabidopsis thaliana,72.512,6.19e-96,284.0
+Cp_V2_contig_12238,Cp_V2_contig_23730,.,0.9102,0.000254,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_26147,.,0.9101,0.000257,LOL2,LOL2,Oryza sativa subsp. japonica,52.542,7.76e-25,97.8
+Cp_V2_contig_12238,Cp_V2_contig_20122,.,0.9095,0.000263,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_35736,.,0.9094,0.000264,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_4720,.,0.9092,0.000266,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_7098,.,0.9091,0.000268,kinase substrate protein At1g80180,At1g80180,Arabidopsis thaliana,42.647,9.94e-18,79.7
+Cp_V2_contig_12238,Cp_V2_contig_16624,.,0.9084,0.000275,oligomeric Golgi complex subunit 5,COG5,Arabidopsis thaliana,55.769,2.07e-52,187.0
+Cp_V2_contig_12238,Cp_V2_contig_5497,.,0.9084,0.000275,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_16983,.,0.9083,0.000277,small nuclear ribonucleoprotein 25 kDa protein,SNRNP25,Arabidopsis thaliana,33.333,1.32e-08,57.0
+Cp_V2_contig_12238,Cp_V2_contig_26663,.,0.9081,0.000278,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_35365,.,0.908,0.00028,5-kinase FAB1B,FAB1B,Arabidopsis thaliana,48.944,3.23e-73,249.0
+Cp_V2_contig_12238,Cp_V2_contig_13121,.,0.9078,0.000282,translation factor SUI1 homolog,TIF,Zea mays,89.091,1.81e-67,204.0
+Cp_V2_contig_12238,Cp_V2_contig_18127,.,0.9077,0.000283,domain-containing protein 16,PUB16,Arabidopsis thaliana,52.754,1.55e-154,457.0
+Cp_V2_contig_12238,Cp_V2_contig_41290,.,0.9077,0.000284,D zeta 1,PLDZETA1,Arabidopsis thaliana,70.0,2.6900000000000004e-124,285.0
+Cp_V2_contig_12238,Cp_V2_contig_5393,.,0.9077,0.000284,"2, chloroplastic",Os05g0200100,Oryza sativa subsp. japonica,83.688,1.5e-87,260.0
+Cp_V2_contig_12238,Cp_V2_contig_2878,.,0.9074,0.000287,finger A20 and AN1 domain-containing stress-associated protein 5,SAP5,Arabidopsis thaliana,84.483,5.14e-29,112.0
+Cp_V2_contig_12238,Cp_V2_contig_40304,.,0.9071,0.000291,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,62.0,2.89e-13,67.0
+Cp_V2_contig_12238,Cp_V2_contig_15967,.,0.9069,0.000293,2-2,GGCT2;2,Arabidopsis thaliana,78.788,9.96e-10,56.6
+Cp_V2_contig_12238,Cp_V2_contig_22727,.,0.9069,0.000294,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_23115,.,0.9062,0.000303,protein 2,VIL2,Arabidopsis thaliana,34.719,6.54e-53,190.0
+Cp_V2_contig_12238,Cp_V2_contig_31760,.,0.9056,0.00031,repeat-containing protein At1g19720,DYW7,Arabidopsis thaliana,46.062,0.0,545.0
+Cp_V2_contig_12238,Cp_V2_contig_20409,.,0.9051,0.000316,90A1,UGT90A1,Arabidopsis thaliana,50.638,9.59e-65,214.0
+Cp_V2_contig_12238,Cp_V2_contig_4964,.,0.9051,0.000316,protein,SKIP,Arabidopsis thaliana,73.984,0.0,565.0
+Cp_V2_contig_12238,Cp_V2_contig_3211,.,0.9046,0.000323,Clp protease proteolytic subunit,clpP,Spinacia oleracea,96.97,8.23e-63,202.0
+Cp_V2_contig_12238,Cp_V2_contig_43581,.,0.9046,0.000323,protein 17,DIR17,Arabidopsis thaliana,52.727,1.21e-26,107.0
+Cp_V2_contig_12238,Cp_V2_contig_16530,.,0.9044,0.000326,DETOXIFICATION 14,DTX14,Arabidopsis thaliana,52.979,6.88e-162,480.0
+Cp_V2_contig_12238,Cp_V2_contig_10620,.,0.9042,0.000328,complex subunit 1,THO1,Arabidopsis thaliana,77.714,0.0,832.0
+Cp_V2_contig_12238,Cp_V2_contig_14010,.,0.9036,0.000336,E3 ubiquitin ligase SUD1,SUD1,Arabidopsis thaliana,81.25,1.63e-20,90.1
+Cp_V2_contig_12238,Cp_V2_contig_5212,.,0.9032,0.000341,domain-containing chromatin-associated protein 1,DEK1,Arabidopsis thaliana,62.5,2.9199999999999997e-52,190.0
+Cp_V2_contig_12238,Cp_V2_contig_23281,.,0.9031,0.000342,protein At5g49945,At5g49945,Arabidopsis thaliana,63.01,1.5500000000000002e-163,476.0
+Cp_V2_contig_12238,Cp_V2_contig_12781,.,0.903,0.000344,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_9388,.,0.9027,0.000348,lectin S-receptor-like serine/threonine-protein kinase At4g27290,At4g27290,Arabidopsis thaliana,43.909,5.06e-106,335.0
+Cp_V2_contig_12238,Cp_V2_contig_6840,.,0.9025,0.000351,high chlorophyll fluorescent 107,HCF107,Arabidopsis thaliana,55.645,2.19e-36,135.0
+Cp_V2_contig_12238,Cp_V2_contig_10805,.,0.9022,0.000356,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,76.423,4.0000000000000004e-66,205.0
+Cp_V2_contig_12238,Cp_V2_contig_26298,.,0.9022,0.000355,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_11008,.,0.9014,0.000366,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_7760,.,0.9012,0.000369,cell-derived factor 2-like protein,SDF2,Arabidopsis thaliana,80.978,4.99e-113,329.0
+Cp_V2_contig_12238,Cp_V2_contig_32515,.,0.9011,0.00037,,,,,,
+Cp_V2_contig_12238,Cp_V2_contig_4940,.,0.9008,0.000376,protein IAA9,IAA9,Arabidopsis thaliana,61.29,1.51e-29,79.7
+Cp_V2_contig_12238,Cp_V2_contig_15653,.,0.9005,0.00038,"phosphatase IMPL2, chloroplastic",HISN7,Arabidopsis thaliana,73.793,3.9e-159,453.0
+Cp_V2_contig_12238,Cp_V2_contig_1900,.,0.9004,0.000382,,,,,,
+Cp_V2_contig_15059,Cp_V2_contig_332,.,0.9815,1e-06,ZINC INDUCED FACILITATOR-LIKE 1,ZIFL1,Arabidopsis thaliana,60.714,1.03e-113,338.0
+Cp_V2_contig_15059,Cp_V2_contig_22985,.,0.9623,8e-06,"pyrophosphate synthase, chloroplastic",GGPS1,Capsicum annuum,66.577,1.4200000000000002e-173,493.0
+Cp_V2_contig_15059,Cp_V2_contig_12891,.,0.9465,3.3e-05,,,,,,
+Cp_V2_contig_15059,Cp_V2_contig_5216,.,0.9344,7.5e-05,DNA-binding protein TGA-2.1,TGA21,Nicotiana tabacum,64.938,3.98e-149,436.0
+Cp_V2_contig_15059,Cp_V2_contig_15027,.,0.9011,0.00037,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_45899,.,0.9836,0.0,exchanger 4,NHX4,Arabidopsis thaliana,71.429,1.17e-169,488.0
+Cp_V2_contig_24180,Cp_V2_contig_6376,.,0.9816,0.0,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_5597,.,0.9802,1e-06,"aarF domain-containing protein kinase At1g71810, chloroplastic",At1g71810,Arabidopsis thaliana,65.274,0.0,878.0
+Cp_V2_contig_24180,Cp_V2_contig_3837,.,0.9787,1e-06,zipper protein HAT5,HAT5,Arabidopsis thaliana,46.358,5.46e-35,130.0
+Cp_V2_contig_24180,Cp_V2_contig_38011,.,0.9776,1e-06,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,67.045,2.82e-74,231.0
+Cp_V2_contig_24180,Cp_V2_contig_32418,.,0.9771,1e-06,IIIx synthase,UGT94-289-1,Siraitia grosvenorii,46.865,6e-85,269.0
+Cp_V2_contig_24180,Cp_V2_contig_25283,.,0.9762,1e-06,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_32420,.,0.9761,1e-06,transcription factor Y subunit C-2,NFYC2,Arabidopsis thaliana,78.906,4.8e-68,213.0
+Cp_V2_contig_24180,Cp_V2_contig_46902,.,0.9756,1e-06,cytidylyltransferase 1,CCT1,Arabidopsis thaliana,80.769,1.0199999999999999e-23,95.5
+Cp_V2_contig_24180,Cp_V2_contig_9538,.,0.9737,2e-06,"protein, chloroplastic",,Solanum tuberosum,70.943,2.27e-113,335.0
+Cp_V2_contig_24180,Cp_V2_contig_23992,.,0.9715,3e-06,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_24180,Cp_V2_contig_10726,.,0.9707,3e-06,protein,GBF,Mesembryanthemum crystallinum,87.151,1.78e-114,328.0
+Cp_V2_contig_24180,Cp_V2_contig_25880,.,0.9697,4e-06,protein At2g24330,At2g24330,Arabidopsis thaliana,58.427,1.3999999999999999e-61,201.0
+Cp_V2_contig_24180,Cp_V2_contig_12179,.,0.9688,4e-06,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_10048,.,0.9684,4e-06,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_24180,Cp_V2_contig_10120,.,0.9681,4e-06,"galactosyltransferase SFR2, chloroplastic",SFR2,Arabidopsis thaliana,57.471,5.22e-28,110.0
+Cp_V2_contig_24180,Cp_V2_contig_26647,.,0.9681,4e-06,phosphoglycerate mutase,,Zea mays,75.862,1.55e-155,449.0
+Cp_V2_contig_24180,Cp_V2_contig_21685,.,0.968,4e-06,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,82.677,6.23e-154,445.0
+Cp_V2_contig_24180,Cp_V2_contig_3083,.,0.9651,6e-06,,SYT1,Arabidopsis thaliana,74.455,0.0,790.0
+Cp_V2_contig_24180,Cp_V2_contig_11007,.,0.9645,7e-06,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_24180,Cp_V2_contig_33310,.,0.9644,7e-06,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_24180,Cp_V2_contig_19606,.,0.9632,8e-06,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_3733,.,0.9617,9e-06,voltage-gated potassium channel subunit beta,KAB1,Arabidopsis thaliana,84.451,0.0,598.0
+Cp_V2_contig_24180,Cp_V2_contig_38417,.,0.9615,9e-06,"zinc metalloprotease EGY3, chloroplastic",EGY3,Oryza sativa subsp. japonica,56.364,5.53e-16,76.6
+Cp_V2_contig_24180,Cp_V2_contig_37850,.,0.9606,1e-05,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_24180,Cp_V2_contig_38638,.,0.9595,1.1e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_37548,.,0.9589,1.2e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_1533,.,0.9571,1.4e-05,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_24180,Cp_V2_contig_12810,.,0.9555,1.6e-05,proteinase inhibitor 6,CYS6,Arabidopsis thaliana,61.667,2.7e-17,77.0
+Cp_V2_contig_24180,Cp_V2_contig_2128,.,0.9547,1.8e-05,,GRXC2,Arabidopsis thaliana,77.57,1.9100000000000002e-56,177.0
+Cp_V2_contig_24180,Cp_V2_contig_29767,.,0.9525,2.1e-05,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_24180,Cp_V2_contig_14207,.,0.9524,2.1e-05,chain acyl-CoA synthetase 8,LACS8,Arabidopsis thaliana,71.036,0.0,660.0
+Cp_V2_contig_24180,Cp_V2_contig_13584,.,0.9475,3.1e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_58,.,0.9467,3.3e-05,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_24180,Cp_V2_contig_11082,.,0.9461,3.5e-05,ceramidase 3,NCER3,Arabidopsis thaliana,74.809,3.51e-130,389.0
+Cp_V2_contig_24180,Cp_V2_contig_18155,.,0.946,3.5e-05,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_24180,Cp_V2_contig_8331,.,0.9445,3.9e-05,protein RABC1,RABC1,Arabidopsis thaliana,89.175,2.05e-126,360.0
+Cp_V2_contig_24180,Cp_V2_contig_45465,.,0.9435,4.2e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,80.198,4.9e-45,149.0
+Cp_V2_contig_24180,Cp_V2_contig_13780,.,0.9425,4.5e-05,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_24180,Cp_V2_contig_19357,.,0.9416,4.7e-05,"hydratase, cytoplasmic (Fragment)",,Solanum tuberosum,83.929,3.5199999999999997e-141,411.0
+Cp_V2_contig_24180,Cp_V2_contig_18083,.,0.9403,5.2e-05,,,Actinidia deliciosa,33.553,1.8e-15,74.7
+Cp_V2_contig_24180,Cp_V2_contig_18571,.,0.9395,5.4e-05,lyase,GLYI-11,Oryza sativa subsp. japonica,84.127,1.63e-29,112.0
+Cp_V2_contig_24180,Cp_V2_contig_24960,.,0.9394,5.5e-05,reductase,,Hordeum vulgare,68.254,9.3e-23,94.0
+Cp_V2_contig_24180,Cp_V2_contig_24081,.,0.936,6.8e-05,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_24180,Cp_V2_contig_23383,.,0.935,7.2e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_14662,.,0.9327,8.3e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_6504,.,0.9312,9e-05,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_8544,.,0.9307,9.3e-05,65 kDa protein,LTI65,Arabidopsis thaliana,44.167,2.73e-10,67.0
+Cp_V2_contig_24180,Cp_V2_contig_11871,.,0.9304,9.5e-05,protease SBT3.17,SBT3.17,Arabidopsis thaliana,47.561,2.35e-14,72.8
+Cp_V2_contig_24180,Cp_V2_contig_43647,.,0.9304,9.4e-05,"zinc metallopeptidase EGY3, chloroplastic",EGY3,Arabidopsis thaliana,80.198,1.51e-117,348.0
+Cp_V2_contig_24180,Cp_V2_contig_17170,.,0.9297,9.8e-05,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_24180,Cp_V2_contig_31461,.,0.9292,0.000101,reductase,,Hordeum vulgare,66.063,3.27e-85,259.0
+Cp_V2_contig_24180,Cp_V2_contig_1299,.,0.9291,0.000101,transport protein SUC4,SUC4,Arabidopsis thaliana,70.637,8.9e-161,469.0
+Cp_V2_contig_24180,Cp_V2_contig_21708,.,0.9289,0.000102,ubiquitin protein ligase RIE1,RIE1,Arabidopsis thaliana,59.936,3.37e-92,286.0
+Cp_V2_contig_24180,Cp_V2_contig_5104,.,0.9284,0.000106,"aldolase 3, chloroplastic",FBA3,Arabidopsis thaliana,86.802,0.0,699.0
+Cp_V2_contig_24180,Cp_V2_contig_856,.,0.9257,0.000122,protein At1g67360,At1g67360,Arabidopsis thaliana,45.596,1.06e-38,141.0
+Cp_V2_contig_24180,Cp_V2_contig_24162,.,0.9256,0.000123,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_24180,Cp_V2_contig_37809,.,0.9252,0.000125,phosphate phosphatase gamma,LPPG,Arabidopsis thaliana,63.636,9.52e-22,91.7
+Cp_V2_contig_24180,Cp_V2_contig_1991,.,0.9242,0.000131,"synthase, mitochondrial",CS,Daucus carota,87.288,0.0,799.0
+Cp_V2_contig_24180,Cp_V2_contig_39651,.,0.9235,0.000137,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_11798,.,0.9215,0.000151,acid transporter AVT6C,AVT6C,Arabidopsis thaliana,64.578,8.91e-158,454.0
+Cp_V2_contig_24180,Cp_V2_contig_17052,.,0.9213,0.000152,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_14382,.,0.9204,0.000159,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_24180,Cp_V2_contig_30886,.,0.9196,0.000166,phosphoglycerate mutase,PGM1,Mesembryanthemum crystallinum,83.893,0.0,530.0
+Cp_V2_contig_24180,Cp_V2_contig_4245,.,0.9195,0.000167,"dehydrogenase, mitochondrial",ALDH5F1,Arabidopsis thaliana,77.244,0.0,731.0
+Cp_V2_contig_24180,Cp_V2_contig_26525,.,0.9182,0.000177,transporter 2,PROT2,Arabidopsis thaliana,69.364,4.73e-86,262.0
+Cp_V2_contig_24180,Cp_V2_contig_11289,.,0.917,0.000188,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_24180,Cp_V2_contig_35060,.,0.9144,0.000211,fructokinase-7,At5g51830,Arabidopsis thaliana,71.473,2.95e-171,484.0
+Cp_V2_contig_24180,Cp_V2_contig_45503,.,0.9144,0.000211,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_1005,.,0.912,0.000236,"hydratase 3, mitochondrial",ACO3,Arabidopsis thaliana,85.41,0.0,1052.0
+Cp_V2_contig_24180,Cp_V2_contig_9280,.,0.9115,0.000241,"SFR2, chloroplastic",SFR2,Oryza sativa subsp. japonica,72.727,3.8200000000000005e-71,228.0
+Cp_V2_contig_24180,Cp_V2_contig_15088,.,0.9096,0.000261,protein phosphatase 2C 60,At4g31860,Arabidopsis thaliana,62.763,5.54e-151,432.0
+Cp_V2_contig_24180,Cp_V2_contig_3434,.,0.9095,0.000263,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_43112,.,0.9091,0.000267,"hydrolase 14, chloroplastic",NUDT14,Arabidopsis thaliana,74.336,6.95e-125,364.0
+Cp_V2_contig_24180,Cp_V2_contig_24646,.,0.9083,0.000276,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_27725,.,0.9077,0.000284,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_24180,Cp_V2_contig_25909,.,0.9061,0.000303,plastidic glucose transporter 2,At1g67300,Arabidopsis thaliana,69.606,0.0,540.0
+Cp_V2_contig_24180,Cp_V2_contig_21675,.,0.9046,0.000323,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,64.615,4.0199999999999996e-52,172.0
+Cp_V2_contig_24180,Cp_V2_contig_25011,.,0.9043,0.000326,,SOP1,Sesamum indicum,72.0,5.09e-64,200.0
+Cp_V2_contig_24180,Cp_V2_contig_19327,.,0.9037,0.000335,embryogenesis abundant protein 76,,Brassica napus,34.426,5.11e-08,55.1
+Cp_V2_contig_24180,Cp_V2_contig_10892,.,0.9034,0.000339,,At1g47710,Arabidopsis thaliana,68.159,1.78e-82,254.0
+Cp_V2_contig_24180,Cp_V2_contig_13975,.,0.903,0.000344,lipid transfer protein VPS13,VPS13,Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719),34.286,2.51e-53,199.0
+Cp_V2_contig_24180,Cp_V2_contig_26669,.,0.9026,0.00035,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_7308,.,0.9024,0.000352,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,84.524,1.61e-157,455.0
+Cp_V2_contig_24180,Cp_V2_contig_10968,.,0.902,0.000358,c,CC-1,Oryza sativa subsp. japonica,87.5,1.94e-68,209.0
+Cp_V2_contig_24180,Cp_V2_contig_38445,.,0.9017,0.000362,65 kDa protein,LTI65,Arabidopsis thaliana,37.931,3.17e-20,98.2
+Cp_V2_contig_24180,Cp_V2_contig_5942,.,0.9017,0.000362,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_2554,.,0.901,0.000373,,,,,,
+Cp_V2_contig_24180,Cp_V2_contig_13362,.,0.9007,0.000377,zipper protein ATHB-54,ATHB-54,Arabidopsis thaliana,44.118,1.46e-17,79.7
+Cp_V2_contig_24180,Cp_V2_contig_15777,.,0.9005,0.000379,lipid transfer protein VPS13,VPS13,Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719),21.526,4.5500000000000006e-21,106.0
+Cp_V2_contig_24180,Cp_V2_contig_24396,.,0.9003,0.000383,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_18010,.,0.9823,0.0,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_13515,.,0.9803,1e-06,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_16342,.,0.9802,1e-06,molecule in BECN1-regulated autophagy protein 1B,ambra1b,Danio rerio,45.695,3.52e-28,125.0
+Cp_V2_contig_2815,Cp_V2_contig_16079,.,0.9772,1e-06,GTP-binding protein 1,spg1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),42.64,4.72e-53,177.0
+Cp_V2_contig_2815,Cp_V2_contig_1856,.,0.9755,2e-06,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_2815,Cp_V2_contig_680,.,0.9734,2e-06,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_43581,.,0.9725,2e-06,protein 17,DIR17,Arabidopsis thaliana,52.727,1.21e-26,107.0
+Cp_V2_contig_2815,Cp_V2_contig_46907,.,0.9679,4e-06,protein PCC13-62,,Craterostigma plantagineum,97.368,1.95e-16,77.0
+Cp_V2_contig_2815,Cp_V2_contig_24081,.,0.9678,5e-06,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_2815,Cp_V2_contig_45503,.,0.9667,5e-06,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_24162,.,0.9666,5e-06,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_2815,Cp_V2_contig_7714,.,0.9663,5e-06,cinnamyl alcohol dehydrogenase 1,CAD1,Arabidopsis thaliana,70.029,0.0,514.0
+Cp_V2_contig_2815,Cp_V2_contig_8579,.,0.9657,6e-06,OXIDATIVE STRESS 3 LIKE 1,O3L1,Arabidopsis thaliana,47.525,5.09e-21,87.8
+Cp_V2_contig_2815,Cp_V2_contig_26026,.,0.9647,6e-06,"6-phosphogluconolactonase 4, chloroplastic",OsI_031067,Oryza sativa subsp. indica,66.667,1.62e-28,108.0
+Cp_V2_contig_2815,Cp_V2_contig_5393,.,0.9639,7e-06,"2, chloroplastic",Os05g0200100,Oryza sativa subsp. japonica,83.688,1.5e-87,260.0
+Cp_V2_contig_2815,Cp_V2_contig_123,.,0.9632,8e-06,synthase 11,KCS11,Arabidopsis thaliana,80.519,4.15e-139,407.0
+Cp_V2_contig_2815,Cp_V2_contig_1097,.,0.963,8e-06,factor DIVARICATA,DIVARICATA,Antirrhinum majus,52.717,1.17e-56,185.0
+Cp_V2_contig_2815,Cp_V2_contig_46183,.,0.9624,8e-06,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,77.612,7.24e-26,98.2
+Cp_V2_contig_2815,Cp_V2_contig_34533,.,0.962,9e-06,ACID-INSENSITIVE 5-like protein 3,DPBF4,Arabidopsis thaliana,36.596,1.97e-30,116.0
+Cp_V2_contig_2815,Cp_V2_contig_37429,.,0.9605,1e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_22727,.,0.9602,1e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_20939,.,0.9585,1.2e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_31777,.,0.9573,1.4e-05,(S)-NAD(P)H-hydrate dehydratase,VIT_05s0020g02800,Vitis vinifera,76.341,3.3e-174,493.0
+Cp_V2_contig_2815,Cp_V2_contig_13805,.,0.9571,1.4e-05,protein At3g56470,At3g56470,Arabidopsis thaliana,44.086,1.94e-73,235.0
+Cp_V2_contig_2815,Cp_V2_contig_29767,.,0.9556,1.6e-05,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_2815,Cp_V2_contig_27725,.,0.9555,1.6e-05,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_2815,Cp_V2_contig_36163,.,0.9555,1.6e-05,protein PCC13-62,,Craterostigma plantagineum,97.98,1.82e-61,192.0
+Cp_V2_contig_2815,Cp_V2_contig_9550,.,0.9541,1.8e-05,TANC2,TANC2,Homo sapiens,38.462,5.47e-16,76.6
+Cp_V2_contig_2815,Cp_V2_contig_17963,.,0.9527,2.1e-05,phosphatase 2C 16,HAB1,Arabidopsis thaliana,61.111,8.02e-146,424.0
+Cp_V2_contig_2815,Cp_V2_contig_13780,.,0.9522,2.2e-05,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_2815,Cp_V2_contig_17052,.,0.9519,2.2e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_4915,.,0.9517,2.2e-05,transcription factor At5g28040,At5g28040,Arabidopsis thaliana,40.96,3.48e-70,229.0
+Cp_V2_contig_2815,Cp_V2_contig_1900,.,0.9515,2.3e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_7739,.,0.9514,2.3e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_16525,.,0.9507,2.4e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_40374,.,0.9504,2.5e-05,domain-containing protein CBSX5,CBSX5,Arabidopsis thaliana,39.13,1.58e-11,63.2
+Cp_V2_contig_2815,Cp_V2_contig_13783,.,0.9496,2.7e-05,choline kinase 2,At1g74320,Arabidopsis thaliana,66.864,3.53e-170,483.0
+Cp_V2_contig_2815,Cp_V2_contig_10805,.,0.9494,2.7e-05,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,76.423,4.0000000000000004e-66,205.0
+Cp_V2_contig_2815,Cp_V2_contig_17373,.,0.9493,2.7e-05,glutaredoxin-S11,GRXS11,Oryza sativa subsp. japonica,77.419,4.29e-81,251.0
+Cp_V2_contig_2815,Cp_V2_contig_3865,.,0.9492,2.7e-05,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_2815,Cp_V2_contig_7547,.,0.9489,2.8e-05,homolog subfamily C member 28,Dnajc28,Mus musculus,36.429,1.96e-16,78.2
+Cp_V2_contig_2815,Cp_V2_contig_14382,.,0.9483,2.9e-05,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_2815,Cp_V2_contig_30041,.,0.9482,3e-05,carboxyl-terminal hydrolase 19,UBP19,Arabidopsis thaliana,63.077,7.21e-143,422.0
+Cp_V2_contig_2815,Cp_V2_contig_20242,.,0.9471,3.2e-05,FLX-like 3,FLXL3,Arabidopsis thaliana,44.086,1.02e-42,149.0
+Cp_V2_contig_2815,Cp_V2_contig_9158,.,0.9428,4.4e-05,synthase 9,KCS9,Arabidopsis thaliana,74.359,2.32e-61,198.0
+Cp_V2_contig_2815,Cp_V2_contig_40304,.,0.9425,4.5e-05,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,62.0,2.89e-13,67.0
+Cp_V2_contig_2815,Cp_V2_contig_12781,.,0.9416,4.7e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_1018,.,0.9405,5.1e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_2779,.,0.9402,5.2e-05,protein 6A,LARP6A,Arabidopsis thaliana,51.485,8.36e-78,247.0
+Cp_V2_contig_2815,Cp_V2_contig_13429,.,0.9396,5.4e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_12055,.,0.9366,6.6e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,30.0,5.11e-09,60.8
+Cp_V2_contig_2815,Cp_V2_contig_44233,.,0.9363,6.7e-05,protein PCC27-45,,Craterostigma plantagineum,95.556,1.53e-22,89.4
+Cp_V2_contig_2815,Cp_V2_contig_2705,.,0.9361,6.7e-05,FREE1,FREE1,Arabidopsis thaliana,62.162,1.1499999999999999e-131,399.0
+Cp_V2_contig_2815,Cp_V2_contig_10017,.,0.9356,7e-05,serine/threonine-protein kinase PRAF,PRAF,Marchantia polymorpha,53.271,3.66e-30,120.0
+Cp_V2_contig_2815,Cp_V2_contig_46148,.,0.933,8.1e-05,blue protein,,Cucumis sativus,58.333,3.99e-26,98.2
+Cp_V2_contig_2815,Cp_V2_contig_8565,.,0.9325,8.4e-05,motif-containing protein 4,VQ4,Arabidopsis thaliana,48.705,3.17e-30,116.0
+Cp_V2_contig_2815,Cp_V2_contig_2303,.,0.932,8.6e-05,PIN-LIKES 7,PILS7,Arabidopsis thaliana,57.143,1.27e-152,440.0
+Cp_V2_contig_2815,Cp_V2_contig_2079,.,0.9313,8.9e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_27297,.,0.9305,9.4e-05,ubiquitin-protein ligase SINAT3,SINAT3,Arabidopsis thaliana,91.288,1.5300000000000002e-179,513.0
+Cp_V2_contig_2815,Cp_V2_contig_29501,.,0.9305,9.4e-05,proton ATPase subunit a3,VHA-a3,Arabidopsis thaliana,71.498,2.45e-91,287.0
+Cp_V2_contig_2815,Cp_V2_contig_3544,.,0.9305,9.4e-05,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_12398,.,0.9275,0.00011,WRKY transcription factor 3,WRKY3,Arabidopsis thaliana,57.993,6.87e-92,293.0
+Cp_V2_contig_2815,Cp_V2_contig_58,.,0.9272,0.000113,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_2815,Cp_V2_contig_28730,.,0.9251,0.000126,dehydrogenase,LGALDH,Arabidopsis thaliana,60.256,3.05e-26,102.0
+Cp_V2_contig_2815,Cp_V2_contig_8615,.,0.925,0.000127,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_7848,.,0.9245,0.00013,synthase 11,KCS11,Arabidopsis thaliana,84.831,1.01e-104,315.0
+Cp_V2_contig_2815,Cp_V2_contig_9315,.,0.9244,0.00013,mitochondrial saccharopine dehydrogenase-like oxidoreductase At5g39410,At5g39410,Arabidopsis thaliana,63.991,0.0,549.0
+Cp_V2_contig_2815,Cp_V2_contig_13121,.,0.9228,0.000141,translation factor SUI1 homolog,TIF,Zea mays,89.091,1.81e-67,204.0
+Cp_V2_contig_2815,Cp_V2_contig_714,.,0.9201,0.000162,transcription factor 3,ERF3,Nicotiana tabacum,54.615,8.32e-18,82.0
+Cp_V2_contig_2815,Cp_V2_contig_30668,.,0.9193,0.000168,"biosynthesis protein COQ9, mitochondrial",coq9,Xenopus tropicalis,37.324,7.4e-24,100.0
+Cp_V2_contig_2815,Cp_V2_contig_1533,.,0.919,0.00017,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_2815,Cp_V2_contig_22199,.,0.9171,0.000187,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_24832,.,0.9164,0.000193,methionine sulfoxide reductase B5,MSRB5,Oryza sativa subsp. japonica,92.857,1.76e-53,168.0
+Cp_V2_contig_2815,Cp_V2_contig_8635,.,0.9159,0.000198,protein 39,RBM39,Pongo abelii,43.75,4.69e-76,252.0
+Cp_V2_contig_2815,Cp_V2_contig_26525,.,0.9154,0.000203,transporter 2,PROT2,Arabidopsis thaliana,69.364,4.73e-86,262.0
+Cp_V2_contig_2815,Cp_V2_contig_10892,.,0.9145,0.000211,,At1g47710,Arabidopsis thaliana,68.159,1.78e-82,254.0
+Cp_V2_contig_2815,Cp_V2_contig_6165,.,0.9144,0.000212,synthase YciO,yciO,Shigella flexneri,27.273,1.02e-11,63.5
+Cp_V2_contig_2815,Cp_V2_contig_21661,.,0.914,0.000215,phosphatase 2C 16,HAB1,Arabidopsis thaliana,67.17,5.77e-130,381.0
+Cp_V2_contig_2815,Cp_V2_contig_8206,.,0.9139,0.000217,protein dnaJ 49,ATJ49,Arabidopsis thaliana,65.432,9.64e-33,119.0
+Cp_V2_contig_2815,Cp_V2_contig_13526,.,0.9135,0.000221,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_7475,.,0.9134,0.000222,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_11289,.,0.9129,0.000227,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_2815,Cp_V2_contig_15769,.,0.9129,0.000226,transport protein SEC23 B,SEC23B,Arabidopsis thaliana,80.165,0.0,760.0
+Cp_V2_contig_2815,Cp_V2_contig_16108,.,0.9123,0.000232,ataxin-3 homolog,Os01g0851400,Oryza sativa subsp. japonica,60.0,6.61e-49,162.0
+Cp_V2_contig_2815,Cp_V2_contig_4693,.,0.9116,0.00024,protein At4g00755,At4g00755,Arabidopsis thaliana,45.028,2.45e-94,293.0
+Cp_V2_contig_2815,Cp_V2_contig_11988,.,0.9109,0.000247,protein RBP47,RBP47,Nicotiana plumbaginifolia,63.158,2.7700000000000003e-75,234.0
+Cp_V2_contig_2815,Cp_V2_contig_19622,.,0.9102,0.000254,domain-containing protein At5g14285,At5g14285,Arabidopsis thaliana,58.13,6.58e-70,222.0
+Cp_V2_contig_2815,Cp_V2_contig_44940,.,0.9077,0.000283,galactinol--sucrose galactosyltransferase 2,RFS2,Arabidopsis thaliana,79.592,1.22e-168,490.0
+Cp_V2_contig_2815,Cp_V2_contig_23992,.,0.9058,0.000306,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_2815,Cp_V2_contig_12804,.,0.9053,0.000314,type-D 1,GLUD1,Oryza sativa subsp. japonica,22.789,6.51e-19,89.0
+Cp_V2_contig_2815,Cp_V2_contig_13584,.,0.9051,0.000317,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_6815,.,0.9051,0.000316,synthase 2,GOLS2,Solanum lycopersicum,81.362,1.65e-164,463.0
+Cp_V2_contig_2815,Cp_V2_contig_46398,.,0.9048,0.00032,protein At3g06240,At3g06240,Arabidopsis thaliana,30.025,1.6499999999999999e-38,147.0
+Cp_V2_contig_2815,Cp_V2_contig_1799,.,0.9043,0.000327,CCR4-associated factor 1 homolog 7,CAF1-7,Arabidopsis thaliana,76.216,2.53e-104,303.0
+Cp_V2_contig_2815,Cp_V2_contig_6745,.,0.9039,0.000331,GRAM protein 1,BAGP1,Arabidopsis thaliana,68.454,5.97e-151,439.0
+Cp_V2_contig_2815,Cp_V2_contig_9545,.,0.9033,0.00034,carrier protein CoAc2,COAC2,Arabidopsis thaliana,72.468,6.920000000000001e-167,471.0
+Cp_V2_contig_2815,Cp_V2_contig_7243,.,0.9027,0.000349,disease resistance protein At4g33300,At4g33300,Arabidopsis thaliana,55.184,2.88e-102,322.0
+Cp_V2_contig_2815,Cp_V2_contig_37850,.,0.9024,0.000352,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_2815,Cp_V2_contig_17170,.,0.9019,0.00036,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_2815,Cp_V2_contig_35736,.,0.9018,0.00036,,,,,,
+Cp_V2_contig_2815,Cp_V2_contig_7312,.,0.9002,0.000383,"P450 97B2, chloroplastic",CYP97B2,Glycine max,80.364,0.0,822.0
+Cp_V2_contig_3232,Cp_V2_contig_31695,.,0.9809,1e-06,protein At1g01500,At1g01500,Arabidopsis thaliana,43.607,2.34e-44,160.0
+Cp_V2_contig_3232,Cp_V2_contig_1607,.,0.9784,1e-06,2-1,GGCT2;1,Arabidopsis thaliana,84.043,4.36e-57,182.0
+Cp_V2_contig_3232,Cp_V2_contig_694,.,0.9643,7e-06,"polymerase sigma factor sigE, chloroplastic/mitochondrial",SIGE,Arabidopsis thaliana,54.813,3.1e-129,383.0
+Cp_V2_contig_3232,Cp_V2_contig_2580,.,0.9625,8e-06,"1, chloroplastic",BAM1,Arabidopsis thaliana,88.05,5.4e-103,309.0
+Cp_V2_contig_3232,Cp_V2_contig_5773,.,0.958,1.3e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,30.464,9.07e-11,67.8
+Cp_V2_contig_3232,Cp_V2_contig_792,.,0.9493,2.7e-05,"1, chloroplastic",BAM1,Arabidopsis thaliana,80.645,1.17e-45,160.0
+Cp_V2_contig_3232,Cp_V2_contig_10695,.,0.945,3.7e-05,transcription factor 50,BZIP50,Oryza sativa subsp. japonica,74.194,1.78e-08,53.5
+Cp_V2_contig_3232,Cp_V2_contig_22369,.,0.9402,5.2e-05,domain-containing protein POB1,POB1,Arabidopsis thaliana,84.358,4.67e-105,317.0
+Cp_V2_contig_3232,Cp_V2_contig_9335,.,0.9348,7.3e-05,domain-containing protein 1,PDP1,Arabidopsis thaliana,57.544,1.3e-90,313.0
+Cp_V2_contig_3232,Cp_V2_contig_29178,.,0.9286,0.000104,initiation factor eIF2B subunit alpha,eif2b1,Dictyostelium discoideum,48.276,3.92e-51,174.0
+Cp_V2_contig_3232,Cp_V2_contig_33507,.,0.9284,0.000106,kinase 1-like protein HD16,HD16,Oryza sativa subsp. japonica,79.388,0.0,818.0
+Cp_V2_contig_3232,Cp_V2_contig_4595,.,0.9271,0.000113,complex component EXO70E2,EXO70E2,Arabidopsis thaliana,40.774,1.24e-107,340.0
+Cp_V2_contig_3232,Cp_V2_contig_37659,.,0.9251,0.000126,"repair RAD52-like protein 2, chloroplastic",RAD52-2,Arabidopsis thaliana,76.224,2.51e-62,202.0
+Cp_V2_contig_3232,Cp_V2_contig_4325,.,0.9229,0.000141,RNA effector molecule,SE,Arabidopsis thaliana,61.231,0.0,574.0
+Cp_V2_contig_3232,Cp_V2_contig_1042,.,0.9219,0.000148,"factor G-2, chloroplastic",fusA2,Glycine max,84.485,0.0,1311.0
+Cp_V2_contig_3232,Cp_V2_contig_29028,.,0.9214,0.000152,factor 8A,PRP8A,Arabidopsis thaliana,98.438,0.0,659.0
+Cp_V2_contig_3232,Cp_V2_contig_17692,.,0.9154,0.000202,pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH5,At3g26560,Arabidopsis thaliana,70.286,1.11e-70,238.0
+Cp_V2_contig_3232,Cp_V2_contig_13481,.,0.9089,0.000269,protein SKIP14,SKIP14,Arabidopsis thaliana,42.4,7.37e-61,206.0
+Cp_V2_contig_3232,Cp_V2_contig_9364,.,0.9083,0.000276,factor cwc15,cwc15,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),68.421,2.4e-19,83.6
+Cp_V2_contig_3232,Cp_V2_contig_900,.,0.907,0.000292,"reductase 2, chloroplastic",APR2,Arabidopsis thaliana,81.119,1.1e-177,501.0
+Cp_V2_contig_3232,Cp_V2_contig_20023,.,0.9047,0.000321,amidase,CPA,Solanum tuberosum,89.474,4.55e-118,226.0
+Cp_V2_contig_3232,Cp_V2_contig_15027,.,0.9009,0.000374,,,,,,
+Cp_V2_contig_3232,Cp_V2_contig_14864,.,0.9005,0.00038,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_1856,.,0.9862,0.0,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_43263,Cp_V2_contig_3865,.,0.982,0.0,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_43263,Cp_V2_contig_1533,.,0.9648,6e-06,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_43263,Cp_V2_contig_1097,.,0.9588,1.2e-05,factor DIVARICATA,DIVARICATA,Antirrhinum majus,52.717,1.17e-56,185.0
+Cp_V2_contig_43263,Cp_V2_contig_13780,.,0.9574,1.4e-05,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_43263,Cp_V2_contig_58,.,0.9562,1.5e-05,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_43263,Cp_V2_contig_24162,.,0.9557,1.6e-05,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_43263,Cp_V2_contig_29767,.,0.955,1.7e-05,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_43263,Cp_V2_contig_17052,.,0.9444,3.9e-05,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_24081,.,0.9403,5.2e-05,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_43263,Cp_V2_contig_3162,.,0.9391,5.6e-05,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY,SPY,Petunia hybrida,84.785,0.0,1471.0
+Cp_V2_contig_43263,Cp_V2_contig_2779,.,0.9376,6.2e-05,protein 6A,LARP6A,Arabidopsis thaliana,51.485,8.36e-78,247.0
+Cp_V2_contig_43263,Cp_V2_contig_15088,.,0.9346,7.4e-05,protein phosphatase 2C 60,At4g31860,Arabidopsis thaliana,62.763,5.54e-151,432.0
+Cp_V2_contig_43263,Cp_V2_contig_5937,.,0.9344,7.5e-05,transport protein SEC24 B,SEC24B,Arabidopsis thaliana,69.97,3.5599999999999998e-152,458.0
+Cp_V2_contig_43263,Cp_V2_contig_23992,.,0.9337,7.8e-05,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_43263,Cp_V2_contig_17963,.,0.9287,0.000104,phosphatase 2C 16,HAB1,Arabidopsis thaliana,61.111,8.02e-146,424.0
+Cp_V2_contig_43263,Cp_V2_contig_13515,.,0.927,0.000114,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_2705,.,0.9239,0.000134,FREE1,FREE1,Arabidopsis thaliana,62.162,1.1499999999999999e-131,399.0
+Cp_V2_contig_43263,Cp_V2_contig_12810,.,0.9222,0.000146,proteinase inhibitor 6,CYS6,Arabidopsis thaliana,61.667,2.7e-17,77.0
+Cp_V2_contig_43263,Cp_V2_contig_20199,.,0.9221,0.000147,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_4915,.,0.9221,0.000147,transcription factor At5g28040,At5g28040,Arabidopsis thaliana,40.96,3.48e-70,229.0
+Cp_V2_contig_43263,Cp_V2_contig_18010,.,0.9207,0.000157,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_680,.,0.9201,0.000162,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_13863,.,0.92,0.000162,"1, chloroplastic",BAM1,Arabidopsis thaliana,72.642,1.76e-44,155.0
+Cp_V2_contig_43263,Cp_V2_contig_45503,.,0.9193,0.000168,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_37850,.,0.9189,0.000172,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_43263,Cp_V2_contig_15015,.,0.9185,0.000175,protein dnaJ 10,ATJ10,Arabidopsis thaliana,76.761,1.8300000000000003e-157,447.0
+Cp_V2_contig_43263,Cp_V2_contig_18370,.,0.9181,0.000178,permease 21,PUP21,Arabidopsis thaliana,56.195,2.31e-69,221.0
+Cp_V2_contig_43263,Cp_V2_contig_3083,.,0.9168,0.000189,,SYT1,Arabidopsis thaliana,74.455,0.0,790.0
+Cp_V2_contig_43263,Cp_V2_contig_714,.,0.9162,0.000195,transcription factor 3,ERF3,Nicotiana tabacum,54.615,8.32e-18,82.0
+Cp_V2_contig_43263,Cp_V2_contig_16525,.,0.9145,0.00021,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_17170,.,0.9137,0.000219,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_43263,Cp_V2_contig_4999,.,0.9129,0.000226,NETWORKED 1D,NET1D,Arabidopsis thaliana,44.97,1.29e-119,410.0
+Cp_V2_contig_43263,Cp_V2_contig_17373,.,0.9121,0.000235,glutaredoxin-S11,GRXS11,Oryza sativa subsp. japonica,77.419,4.29e-81,251.0
+Cp_V2_contig_43263,Cp_V2_contig_2303,.,0.9119,0.000237,PIN-LIKES 7,PILS7,Arabidopsis thaliana,57.143,1.27e-152,440.0
+Cp_V2_contig_43263,Cp_V2_contig_13584,.,0.9118,0.000237,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_21685,.,0.9101,0.000257,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,82.677,6.23e-154,445.0
+Cp_V2_contig_43263,Cp_V2_contig_33310,.,0.91,0.000257,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_43263,Cp_V2_contig_1845,.,0.9099,0.000258,"oxidase, mitochondrial",PPXII,Nicotiana tabacum,68.349,0.0,600.0
+Cp_V2_contig_43263,Cp_V2_contig_46183,.,0.9099,0.000258,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,77.612,7.24e-26,98.2
+Cp_V2_contig_43263,Cp_V2_contig_11797,.,0.9098,0.00026,complex subunit D,DDB_G0288447,Dictyostelium discoideum,36.765,6.67e-08,56.6
+Cp_V2_contig_43263,Cp_V2_contig_9158,.,0.909,0.000269,synthase 9,KCS9,Arabidopsis thaliana,74.359,2.32e-61,198.0
+Cp_V2_contig_43263,Cp_V2_contig_11289,.,0.9087,0.000272,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_43263,Cp_V2_contig_18155,.,0.9083,0.000277,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_43263,Cp_V2_contig_9550,.,0.9074,0.000287,TANC2,TANC2,Homo sapiens,38.462,5.47e-16,76.6
+Cp_V2_contig_43263,Cp_V2_contig_11871,.,0.9067,0.000296,protease SBT3.17,SBT3.17,Arabidopsis thaliana,47.561,2.35e-14,72.8
+Cp_V2_contig_43263,Cp_V2_contig_27725,.,0.906,0.000304,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_43263,Cp_V2_contig_20242,.,0.9057,0.000308,FLX-like 3,FLXL3,Arabidopsis thaliana,44.086,1.02e-42,149.0
+Cp_V2_contig_43263,Cp_V2_contig_11007,.,0.9049,0.000319,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_43263,Cp_V2_contig_2326,.,0.9049,0.000318,"kinase, peroxisomal",PMK,Arabidopsis thaliana,67.54,0.0,600.0
+Cp_V2_contig_43263,Cp_V2_contig_15556,.,0.9043,0.000326,protein 5,At5g13200,Arabidopsis thaliana,72.414,5.35e-06,47.8
+Cp_V2_contig_43263,Cp_V2_contig_30041,.,0.9022,0.000355,carboxyl-terminal hydrolase 19,UBP19,Arabidopsis thaliana,63.077,7.21e-143,422.0
+Cp_V2_contig_43263,Cp_V2_contig_1900,.,0.901,0.000373,,,,,,
+Cp_V2_contig_43263,Cp_V2_contig_29501,.,0.9003,0.000383,proton ATPase subunit a3,VHA-a3,Arabidopsis thaliana,71.498,2.45e-91,287.0
+Cp_V2_contig_43263,Cp_V2_contig_10048,.,0.9001,0.000385,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_45133,Cp_V2_contig_6376,.,0.9943,0.0,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_12810,.,0.9913,0.0,proteinase inhibitor 6,CYS6,Arabidopsis thaliana,61.667,2.7e-17,77.0
+Cp_V2_contig_45133,Cp_V2_contig_3083,.,0.9889,0.0,,SYT1,Arabidopsis thaliana,74.455,0.0,790.0
+Cp_V2_contig_45133,Cp_V2_contig_23992,.,0.9881,0.0,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_45133,Cp_V2_contig_25283,.,0.9864,0.0,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_10726,.,0.9862,0.0,protein,GBF,Mesembryanthemum crystallinum,87.151,1.78e-114,328.0
+Cp_V2_contig_45133,Cp_V2_contig_1533,.,0.9819,0.0,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_45133,Cp_V2_contig_5597,.,0.9814,1e-06,"aarF domain-containing protein kinase At1g71810, chloroplastic",At1g71810,Arabidopsis thaliana,65.274,0.0,878.0
+Cp_V2_contig_45133,Cp_V2_contig_32420,.,0.9806,1e-06,transcription factor Y subunit C-2,NFYC2,Arabidopsis thaliana,78.906,4.8e-68,213.0
+Cp_V2_contig_45133,Cp_V2_contig_33310,.,0.9783,1e-06,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_45133,Cp_V2_contig_12179,.,0.9769,1e-06,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_10048,.,0.976,1e-06,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_45133,Cp_V2_contig_38011,.,0.976,1e-06,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,67.045,2.82e-74,231.0
+Cp_V2_contig_45133,Cp_V2_contig_45899,.,0.9755,2e-06,exchanger 4,NHX4,Arabidopsis thaliana,71.429,1.17e-169,488.0
+Cp_V2_contig_45133,Cp_V2_contig_32418,.,0.9746,2e-06,IIIx synthase,UGT94-289-1,Siraitia grosvenorii,46.865,6e-85,269.0
+Cp_V2_contig_45133,Cp_V2_contig_37548,.,0.9741,2e-06,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_24960,.,0.972,3e-06,reductase,,Hordeum vulgare,68.254,9.3e-23,94.0
+Cp_V2_contig_45133,Cp_V2_contig_9538,.,0.9714,3e-06,"protein, chloroplastic",,Solanum tuberosum,70.943,2.27e-113,335.0
+Cp_V2_contig_45133,Cp_V2_contig_11082,.,0.969,4e-06,ceramidase 3,NCER3,Arabidopsis thaliana,74.809,3.51e-130,389.0
+Cp_V2_contig_45133,Cp_V2_contig_21685,.,0.969,4e-06,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,82.677,6.23e-154,445.0
+Cp_V2_contig_45133,Cp_V2_contig_38417,.,0.9684,4e-06,"zinc metalloprotease EGY3, chloroplastic",EGY3,Oryza sativa subsp. japonica,56.364,5.53e-16,76.6
+Cp_V2_contig_45133,Cp_V2_contig_6504,.,0.967,5e-06,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_3837,.,0.9667,5e-06,zipper protein HAT5,HAT5,Arabidopsis thaliana,46.358,5.46e-35,130.0
+Cp_V2_contig_45133,Cp_V2_contig_14207,.,0.9662,5e-06,chain acyl-CoA synthetase 8,LACS8,Arabidopsis thaliana,71.036,0.0,660.0
+Cp_V2_contig_45133,Cp_V2_contig_18155,.,0.9645,7e-06,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_45133,Cp_V2_contig_46902,.,0.9645,7e-06,cytidylyltransferase 1,CCT1,Arabidopsis thaliana,80.769,1.0199999999999999e-23,95.5
+Cp_V2_contig_45133,Cp_V2_contig_23383,.,0.9641,7e-06,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_13780,.,0.9638,7e-06,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_45133,Cp_V2_contig_30886,.,0.9632,8e-06,phosphoglycerate mutase,PGM1,Mesembryanthemum crystallinum,83.893,0.0,530.0
+Cp_V2_contig_45133,Cp_V2_contig_11007,.,0.9621,9e-06,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_45133,Cp_V2_contig_37809,.,0.9606,1e-05,phosphate phosphatase gamma,LPPG,Arabidopsis thaliana,63.636,9.52e-22,91.7
+Cp_V2_contig_45133,Cp_V2_contig_26647,.,0.9605,1e-05,phosphoglycerate mutase,,Zea mays,75.862,1.55e-155,449.0
+Cp_V2_contig_45133,Cp_V2_contig_45465,.,0.9603,1e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,80.198,4.9e-45,149.0
+Cp_V2_contig_45133,Cp_V2_contig_11871,.,0.9601,1.1e-05,protease SBT3.17,SBT3.17,Arabidopsis thaliana,47.561,2.35e-14,72.8
+Cp_V2_contig_45133,Cp_V2_contig_35060,.,0.9596,1.1e-05,fructokinase-7,At5g51830,Arabidopsis thaliana,71.473,2.95e-171,484.0
+Cp_V2_contig_45133,Cp_V2_contig_19606,.,0.958,1.3e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_31461,.,0.9579,1.3e-05,reductase,,Hordeum vulgare,66.063,3.27e-85,259.0
+Cp_V2_contig_45133,Cp_V2_contig_3434,.,0.9578,1.3e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_19357,.,0.9568,1.4e-05,"hydratase, cytoplasmic (Fragment)",,Solanum tuberosum,83.929,3.5199999999999997e-141,411.0
+Cp_V2_contig_45133,Cp_V2_contig_10120,.,0.9552,1.7e-05,"galactosyltransferase SFR2, chloroplastic",SFR2,Arabidopsis thaliana,57.471,5.22e-28,110.0
+Cp_V2_contig_45133,Cp_V2_contig_58,.,0.9529,2e-05,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_45133,Cp_V2_contig_37850,.,0.9509,2.4e-05,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_45133,Cp_V2_contig_15088,.,0.9498,2.6e-05,protein phosphatase 2C 60,At4g31860,Arabidopsis thaliana,62.763,5.54e-151,432.0
+Cp_V2_contig_45133,Cp_V2_contig_25880,.,0.9481,3e-05,protein At2g24330,At2g24330,Arabidopsis thaliana,58.427,1.3999999999999999e-61,201.0
+Cp_V2_contig_45133,Cp_V2_contig_11289,.,0.9466,3.3e-05,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_45133,Cp_V2_contig_39651,.,0.9457,3.6e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_8544,.,0.9455,3.6e-05,65 kDa protein,LTI65,Arabidopsis thaliana,44.167,2.73e-10,67.0
+Cp_V2_contig_45133,Cp_V2_contig_18571,.,0.9445,3.9e-05,lyase,GLYI-11,Oryza sativa subsp. japonica,84.127,1.63e-29,112.0
+Cp_V2_contig_45133,Cp_V2_contig_24162,.,0.9439,4.1e-05,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_45133,Cp_V2_contig_1991,.,0.9435,4.2e-05,"synthase, mitochondrial",CS,Daucus carota,87.288,0.0,799.0
+Cp_V2_contig_45133,Cp_V2_contig_43647,.,0.9424,4.5e-05,"zinc metallopeptidase EGY3, chloroplastic",EGY3,Arabidopsis thaliana,80.198,1.51e-117,348.0
+Cp_V2_contig_45133,Cp_V2_contig_2128,.,0.9418,4.7e-05,,GRXC2,Arabidopsis thaliana,77.57,1.9100000000000002e-56,177.0
+Cp_V2_contig_45133,Cp_V2_contig_19327,.,0.9416,4.8e-05,embryogenesis abundant protein 76,,Brassica napus,34.426,5.11e-08,55.1
+Cp_V2_contig_45133,Cp_V2_contig_17170,.,0.9411,4.9e-05,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_45133,Cp_V2_contig_38638,.,0.9392,5.6e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_13584,.,0.9387,5.7e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_24081,.,0.9386,5.8e-05,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_45133,Cp_V2_contig_4245,.,0.9386,5.8e-05,"dehydrogenase, mitochondrial",ALDH5F1,Arabidopsis thaliana,77.244,0.0,731.0
+Cp_V2_contig_45133,Cp_V2_contig_29767,.,0.9347,7.3e-05,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_45133,Cp_V2_contig_14662,.,0.9337,7.8e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_17052,.,0.9327,8.3e-05,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_10968,.,0.9321,8.6e-05,c,CC-1,Oryza sativa subsp. japonica,87.5,1.94e-68,209.0
+Cp_V2_contig_45133,Cp_V2_contig_9280,.,0.9314,8.9e-05,"SFR2, chloroplastic",SFR2,Oryza sativa subsp. japonica,72.727,3.8200000000000005e-71,228.0
+Cp_V2_contig_45133,Cp_V2_contig_1299,.,0.9297,9.8e-05,transport protein SUC4,SUC4,Arabidopsis thaliana,70.637,8.9e-161,469.0
+Cp_V2_contig_45133,Cp_V2_contig_5942,.,0.928,0.000108,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_8331,.,0.9262,0.000119,protein RABC1,RABC1,Arabidopsis thaliana,89.175,2.05e-126,360.0
+Cp_V2_contig_45133,Cp_V2_contig_19599,.,0.926,0.00012,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_8470,.,0.9247,0.000128,protein DC-8,,Daucus carota,41.551,4.63e-49,175.0
+Cp_V2_contig_45133,Cp_V2_contig_77,.,0.9238,0.000134,lipocalin-1,TIL,Arabidopsis thaliana,78.462,3.8300000000000003e-72,216.0
+Cp_V2_contig_45133,Cp_V2_contig_26669,.,0.9234,0.000137,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_1005,.,0.9224,0.000144,"hydratase 3, mitochondrial",ACO3,Arabidopsis thaliana,85.41,0.0,1052.0
+Cp_V2_contig_45133,Cp_V2_contig_3733,.,0.9219,0.000148,voltage-gated potassium channel subunit beta,KAB1,Arabidopsis thaliana,84.451,0.0,598.0
+Cp_V2_contig_45133,Cp_V2_contig_38445,.,0.9203,0.00016,65 kDa protein,LTI65,Arabidopsis thaliana,37.931,3.17e-20,98.2
+Cp_V2_contig_45133,Cp_V2_contig_4463,.,0.9191,0.00017,glucose transporter 4,At5g16150,Arabidopsis thaliana,67.844,0.0,627.0
+Cp_V2_contig_45133,Cp_V2_contig_5104,.,0.9183,0.000176,"aldolase 3, chloroplastic",FBA3,Arabidopsis thaliana,86.802,0.0,699.0
+Cp_V2_contig_45133,Cp_V2_contig_14382,.,0.9175,0.000183,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_45133,Cp_V2_contig_28999,.,0.917,0.000188,"dehydrogenase E1 component subunit alpha-1, mitochondrial",E1,Arabidopsis thaliana,80.0,1.94e-49,166.0
+Cp_V2_contig_45133,Cp_V2_contig_3865,.,0.9158,0.000198,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_45133,Cp_V2_contig_12880,.,0.9156,0.0002,pore calcium channel protein 1B,TPC1B,Nicotiana tabacum,73.264,1.31e-126,382.0
+Cp_V2_contig_45133,Cp_V2_contig_27725,.,0.9143,0.000213,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_45133,Cp_V2_contig_13362,.,0.9142,0.000213,zipper protein ATHB-54,ATHB-54,Arabidopsis thaliana,44.118,1.46e-17,79.7
+Cp_V2_contig_45133,Cp_V2_contig_24396,.,0.9123,0.000233,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_25909,.,0.9117,0.000239,plastidic glucose transporter 2,At1g67300,Arabidopsis thaliana,69.606,0.0,540.0
+Cp_V2_contig_45133,Cp_V2_contig_11798,.,0.9115,0.000241,acid transporter AVT6C,AVT6C,Arabidopsis thaliana,64.578,8.91e-158,454.0
+Cp_V2_contig_45133,Cp_V2_contig_21675,.,0.9095,0.000263,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,64.615,4.0199999999999996e-52,172.0
+Cp_V2_contig_45133,Cp_V2_contig_1856,.,0.909,0.000269,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_45133,Cp_V2_contig_2779,.,0.9088,0.000271,protein 6A,LARP6A,Arabidopsis thaliana,51.485,8.36e-78,247.0
+Cp_V2_contig_45133,Cp_V2_contig_20359,.,0.9087,0.000272,NSF attachment protein,,Solanum tuberosum,83.333,2.46e-67,208.0
+Cp_V2_contig_45133,Cp_V2_contig_21708,.,0.9084,0.000275,ubiquitin protein ligase RIE1,RIE1,Arabidopsis thaliana,59.936,3.37e-92,286.0
+Cp_V2_contig_45133,Cp_V2_contig_7308,.,0.9081,0.000279,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,84.524,1.61e-157,455.0
+Cp_V2_contig_45133,Cp_V2_contig_43112,.,0.9062,0.000303,"hydrolase 14, chloroplastic",NUDT14,Arabidopsis thaliana,74.336,6.95e-125,364.0
+Cp_V2_contig_45133,Cp_V2_contig_16525,.,0.9056,0.000309,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_2554,.,0.9056,0.00031,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_18083,.,0.9054,0.000312,,,Actinidia deliciosa,33.553,1.8e-15,74.7
+Cp_V2_contig_45133,Cp_V2_contig_25011,.,0.9041,0.000329,,SOP1,Sesamum indicum,72.0,5.09e-64,200.0
+Cp_V2_contig_45133,Cp_V2_contig_19326,.,0.9025,0.00035,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_2326,.,0.901,0.000373,"kinase, peroxisomal",PMK,Arabidopsis thaliana,67.54,0.0,600.0
+Cp_V2_contig_45133,Cp_V2_contig_45503,.,0.9006,0.000378,,,,,,
+Cp_V2_contig_45133,Cp_V2_contig_2978,.,0.9001,0.000386,synthase 11,KCS11,Arabidopsis thaliana,83.178,2.22e-127,374.0
+Cp_V2_contig_47679,Cp_V2_contig_29767,.,0.978,1e-06,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_47679,Cp_V2_contig_10892,.,0.9745,2e-06,,At1g47710,Arabidopsis thaliana,68.159,1.78e-82,254.0
+Cp_V2_contig_47679,Cp_V2_contig_14382,.,0.9734,2e-06,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_47679,Cp_V2_contig_31777,.,0.9715,3e-06,(S)-NAD(P)H-hydrate dehydratase,VIT_05s0020g02800,Vitis vinifera,76.341,3.3e-174,493.0
+Cp_V2_contig_47679,Cp_V2_contig_28730,.,0.9711,3e-06,dehydrogenase,LGALDH,Arabidopsis thaliana,60.256,3.05e-26,102.0
+Cp_V2_contig_47679,Cp_V2_contig_26525,.,0.9704,3e-06,transporter 2,PROT2,Arabidopsis thaliana,69.364,4.73e-86,262.0
+Cp_V2_contig_47679,Cp_V2_contig_24081,.,0.966,6e-06,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_47679,Cp_V2_contig_27725,.,0.9652,6e-06,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_47679,Cp_V2_contig_13783,.,0.9646,7e-06,choline kinase 2,At1g74320,Arabidopsis thaliana,66.864,3.53e-170,483.0
+Cp_V2_contig_47679,Cp_V2_contig_45503,.,0.9607,1e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_4693,.,0.9596,1.1e-05,protein At4g00755,At4g00755,Arabidopsis thaliana,45.028,2.45e-94,293.0
+Cp_V2_contig_47679,Cp_V2_contig_17052,.,0.9536,1.9e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_37850,.,0.952,2.2e-05,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_47679,Cp_V2_contig_14662,.,0.9517,2.2e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_13515,.,0.9508,2.4e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_8579,.,0.9469,3.3e-05,OXIDATIVE STRESS 3 LIKE 1,O3L1,Arabidopsis thaliana,47.525,5.09e-21,87.8
+Cp_V2_contig_47679,Cp_V2_contig_2705,.,0.9462,3.4e-05,FREE1,FREE1,Arabidopsis thaliana,62.162,1.1499999999999999e-131,399.0
+Cp_V2_contig_47679,Cp_V2_contig_45899,.,0.9459,3.5e-05,exchanger 4,NHX4,Arabidopsis thaliana,71.429,1.17e-169,488.0
+Cp_V2_contig_47679,Cp_V2_contig_19349,.,0.9451,3.7e-05,"protein 1, mitochondrial",MFDX1,Arabidopsis thaliana,51.592,2.89e-45,151.0
+Cp_V2_contig_47679,Cp_V2_contig_20242,.,0.9442,4e-05,FLX-like 3,FLXL3,Arabidopsis thaliana,44.086,1.02e-42,149.0
+Cp_V2_contig_47679,Cp_V2_contig_12804,.,0.9436,4.1e-05,type-D 1,GLUD1,Oryza sativa subsp. japonica,22.789,6.51e-19,89.0
+Cp_V2_contig_47679,Cp_V2_contig_3733,.,0.9431,4.3e-05,voltage-gated potassium channel subunit beta,KAB1,Arabidopsis thaliana,84.451,0.0,598.0
+Cp_V2_contig_47679,Cp_V2_contig_13584,.,0.9427,4.4e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_13780,.,0.9424,4.5e-05,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_47679,Cp_V2_contig_2128,.,0.9404,5.1e-05,,GRXC2,Arabidopsis thaliana,77.57,1.9100000000000002e-56,177.0
+Cp_V2_contig_47679,Cp_V2_contig_22202,.,0.9399,5.3e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_46183,.,0.9396,5.4e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,77.612,7.24e-26,98.2
+Cp_V2_contig_47679,Cp_V2_contig_5104,.,0.9395,5.5e-05,"aldolase 3, chloroplastic",FBA3,Arabidopsis thaliana,86.802,0.0,699.0
+Cp_V2_contig_47679,Cp_V2_contig_7475,.,0.9371,6.4e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_26026,.,0.9362,6.7e-05,"6-phosphogluconolactonase 4, chloroplastic",OsI_031067,Oryza sativa subsp. indica,66.667,1.62e-28,108.0
+Cp_V2_contig_47679,Cp_V2_contig_46398,.,0.9354,7e-05,protein At3g06240,At3g06240,Arabidopsis thaliana,30.025,1.6499999999999999e-38,147.0
+Cp_V2_contig_47679,Cp_V2_contig_30668,.,0.9352,7.1e-05,"biosynthesis protein COQ9, mitochondrial",coq9,Xenopus tropicalis,37.324,7.4e-24,100.0
+Cp_V2_contig_47679,Cp_V2_contig_21708,.,0.9351,7.2e-05,ubiquitin protein ligase RIE1,RIE1,Arabidopsis thaliana,59.936,3.37e-92,286.0
+Cp_V2_contig_47679,Cp_V2_contig_33310,.,0.9341,7.6e-05,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_47679,Cp_V2_contig_15769,.,0.9334,7.9e-05,transport protein SEC23 B,SEC23B,Arabidopsis thaliana,80.165,0.0,760.0
+Cp_V2_contig_47679,Cp_V2_contig_17170,.,0.9321,8.6e-05,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_47679,Cp_V2_contig_3544,.,0.9311,9.1e-05,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_25880,.,0.9309,9.2e-05,protein At2g24330,At2g24330,Arabidopsis thaliana,58.427,1.3999999999999999e-61,201.0
+Cp_V2_contig_47679,Cp_V2_contig_23992,.,0.9298,9.7e-05,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_47679,Cp_V2_contig_36163,.,0.9286,0.000104,protein PCC13-62,,Craterostigma plantagineum,97.98,1.82e-61,192.0
+Cp_V2_contig_47679,Cp_V2_contig_11289,.,0.928,0.000108,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_47679,Cp_V2_contig_9550,.,0.9278,0.000109,TANC2,TANC2,Homo sapiens,38.462,5.47e-16,76.6
+Cp_V2_contig_47679,Cp_V2_contig_24162,.,0.9254,0.000124,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_47679,Cp_V2_contig_7739,.,0.9249,0.000127,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_37429,.,0.924,0.000133,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_38638,.,0.9238,0.000135,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_19606,.,0.9235,0.000137,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_34533,.,0.9213,0.000152,ACID-INSENSITIVE 5-like protein 3,DPBF4,Arabidopsis thaliana,36.596,1.97e-30,116.0
+Cp_V2_contig_47679,Cp_V2_contig_16525,.,0.9209,0.000156,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_7547,.,0.9205,0.000159,homolog subfamily C member 28,Dnajc28,Mus musculus,36.429,1.96e-16,78.2
+Cp_V2_contig_47679,Cp_V2_contig_18155,.,0.9199,0.000163,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_47679,Cp_V2_contig_58,.,0.9196,0.000166,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_47679,Cp_V2_contig_13121,.,0.9182,0.000178,translation factor SUI1 homolog,TIF,Zea mays,89.091,1.81e-67,204.0
+Cp_V2_contig_47679,Cp_V2_contig_30041,.,0.9181,0.000178,carboxyl-terminal hydrolase 19,UBP19,Arabidopsis thaliana,63.077,7.21e-143,422.0
+Cp_V2_contig_47679,Cp_V2_contig_46907,.,0.9176,0.000183,protein PCC13-62,,Craterostigma plantagineum,97.368,1.95e-16,77.0
+Cp_V2_contig_47679,Cp_V2_contig_12781,.,0.9175,0.000183,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_1856,.,0.9171,0.000187,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_47679,Cp_V2_contig_24396,.,0.9157,0.000199,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_32420,.,0.9136,0.00022,transcription factor Y subunit C-2,NFYC2,Arabidopsis thaliana,78.906,4.8e-68,213.0
+Cp_V2_contig_47679,Cp_V2_contig_29501,.,0.9115,0.000241,proton ATPase subunit a3,VHA-a3,Arabidopsis thaliana,71.498,2.45e-91,287.0
+Cp_V2_contig_47679,Cp_V2_contig_8615,.,0.9114,0.000242,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_8635,.,0.9108,0.000249,protein 39,RBM39,Pongo abelii,43.75,4.69e-76,252.0
+Cp_V2_contig_47679,Cp_V2_contig_25283,.,0.9085,0.000274,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_10120,.,0.9079,0.000281,"galactosyltransferase SFR2, chloroplastic",SFR2,Arabidopsis thaliana,57.471,5.22e-28,110.0
+Cp_V2_contig_47679,Cp_V2_contig_8331,.,0.9079,0.000281,protein RABC1,RABC1,Arabidopsis thaliana,89.175,2.05e-126,360.0
+Cp_V2_contig_47679,Cp_V2_contig_34674,.,0.9078,0.000283,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_3865,.,0.9076,0.000285,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_47679,Cp_V2_contig_3837,.,0.9074,0.000288,zipper protein HAT5,HAT5,Arabidopsis thaliana,46.358,5.46e-35,130.0
+Cp_V2_contig_47679,Cp_V2_contig_2326,.,0.9059,0.000306,"kinase, peroxisomal",PMK,Arabidopsis thaliana,67.54,0.0,600.0
+Cp_V2_contig_47679,Cp_V2_contig_6165,.,0.9057,0.000308,synthase YciO,yciO,Shigella flexneri,27.273,1.02e-11,63.5
+Cp_V2_contig_47679,Cp_V2_contig_1097,.,0.9049,0.000318,factor DIVARICATA,DIVARICATA,Antirrhinum majus,52.717,1.17e-56,185.0
+Cp_V2_contig_47679,Cp_V2_contig_4915,.,0.9047,0.000321,transcription factor At5g28040,At5g28040,Arabidopsis thaliana,40.96,3.48e-70,229.0
+Cp_V2_contig_47679,Cp_V2_contig_1533,.,0.9044,0.000325,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_47679,Cp_V2_contig_5634,.,0.9033,0.000339,"oxidoreductase RTN4IP1, mitochondrial",Rtn4ip1,Mus musculus,31.566,1.33e-47,172.0
+Cp_V2_contig_47679,Cp_V2_contig_10048,.,0.9029,0.000346,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_47679,Cp_V2_contig_21661,.,0.9019,0.00036,phosphatase 2C 16,HAB1,Arabidopsis thaliana,67.17,5.77e-130,381.0
+Cp_V2_contig_47679,Cp_V2_contig_5393,.,0.9019,0.000359,"2, chloroplastic",Os05g0200100,Oryza sativa subsp. japonica,83.688,1.5e-87,260.0
+Cp_V2_contig_47679,Cp_V2_contig_11007,.,0.9018,0.000361,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_47679,Cp_V2_contig_16079,.,0.9008,0.000375,GTP-binding protein 1,spg1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),42.64,4.72e-53,177.0
+Cp_V2_contig_47679,Cp_V2_contig_18010,.,0.9004,0.000382,,,,,,
+Cp_V2_contig_47679,Cp_V2_contig_40374,.,0.9004,0.000381,domain-containing protein CBSX5,CBSX5,Arabidopsis thaliana,39.13,1.58e-11,63.2
+Cp_V2_contig_4950,Cp_V2_contig_10455,.,0.9906,0.0,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_13800,.,0.9828,0.0,WEAK CHLOROPLAST MOVEMENT UNDER BLUE LIGHT 1,WEB1,Arabidopsis thaliana,63.393,6.81e-28,109.0
+Cp_V2_contig_4950,Cp_V2_contig_6438,.,0.9792,1e-06,,,Atriplex nummularia,87.013,5.6299999999999994e-95,277.0
+Cp_V2_contig_4950,Cp_V2_contig_17427,.,0.975,2e-06,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_1013,.,0.9743,2e-06,repeat domain-containing protein 2B,AKR2B,Arabidopsis thaliana,64.553,2.3300000000000002e-148,429.0
+Cp_V2_contig_4950,Cp_V2_contig_1,.,0.9699,3e-06,membrane protein PEX14,PEX14,Arabidopsis thaliana,49.045,2.86e-98,309.0
+Cp_V2_contig_4950,Cp_V2_contig_5559,.,0.969,4e-06,domain-containing protein DSK2b,DSK2B,Arabidopsis thaliana,61.017,9.599999999999999e-165,483.0
+Cp_V2_contig_4950,Cp_V2_contig_9714,.,0.9622,9e-06,protein-interacting protein 4,CID4,Arabidopsis thaliana,53.992,2.6800000000000002e-70,234.0
+Cp_V2_contig_4950,Cp_V2_contig_3575,.,0.9589,1.2e-05,translation factor SUI1 homolog,TIF,Zea mays,89.565,1.3700000000000001e-70,214.0
+Cp_V2_contig_4950,Cp_V2_contig_735,.,0.9587,1.2e-05,protein RBP47,RBP47,Nicotiana plumbaginifolia,65.074,4.91e-121,354.0
+Cp_V2_contig_4950,Cp_V2_contig_1105,.,0.9582,1.3e-05,maturation protein SBDS,SBDS,Bos taurus,55.23,1.02e-84,260.0
+Cp_V2_contig_4950,Cp_V2_contig_6333,.,0.9559,1.6e-05,,PSAP,Bos taurus,29.139,1.26e-07,55.1
+Cp_V2_contig_4950,Cp_V2_contig_13121,.,0.9548,1.7e-05,translation factor SUI1 homolog,TIF,Zea mays,89.091,1.81e-67,204.0
+Cp_V2_contig_4950,Cp_V2_contig_18237,.,0.9521,2.2e-05,galacturonosyltransferase-like 1,GATL1,Arabidopsis thaliana,76.061,5.02e-156,454.0
+Cp_V2_contig_4950,Cp_V2_contig_20690,.,0.9506,2.5e-05,protein FOR GROWTH AND FERTILITY 2,CGF2,Arabidopsis thaliana,67.638,2.5500000000000003e-129,380.0
+Cp_V2_contig_4950,Cp_V2_contig_10000,.,0.9505,2.5e-05,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_25937,.,0.9495,2.7e-05,degradation protein 8 homolog,DDB_G0279265,Dictyostelium discoideum,30.597,1.16e-08,58.9
+Cp_V2_contig_4950,Cp_V2_contig_23819,.,0.9464,3.4e-05,domain-containing CTD phosphatase,At4g06599,Arabidopsis thaliana,80.198,7.769999999999999e-172,484.0
+Cp_V2_contig_4950,Cp_V2_contig_44182,.,0.944,4e-05,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_7695,.,0.9424,4.5e-05,fructokinase-4,At3g59480,Arabidopsis thaliana,76.724,2.75e-59,190.0
+Cp_V2_contig_4950,Cp_V2_contig_28879,.,0.9421,4.6e-05,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,66.102,6.91e-17,79.0
+Cp_V2_contig_4950,Cp_V2_contig_1545,.,0.9417,4.7e-05,methionine sulfoxide reductase (Fragment),E4,Solanum lycopersicum,75.401,1.07e-103,300.0
+Cp_V2_contig_4950,Cp_V2_contig_6815,.,0.941,4.9e-05,synthase 2,GOLS2,Solanum lycopersicum,81.362,1.65e-164,463.0
+Cp_V2_contig_4950,Cp_V2_contig_14994,.,0.9408,5e-05,protein M homolog,RANBPM,Arabidopsis thaliana,57.583,2.78e-173,499.0
+Cp_V2_contig_4950,Cp_V2_contig_4505,.,0.9404,5.1e-05,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_17406,.,0.9403,5.2e-05,finger CCCH domain-containing protein 11,Os01g0834700,Oryza sativa subsp. japonica,77.522,3.8999999999999996e-152,441.0
+Cp_V2_contig_4950,Cp_V2_contig_13560,.,0.9402,5.2e-05,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_20231,.,0.9378,6.1e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,28.571,7.91e-10,62.8
+Cp_V2_contig_4950,Cp_V2_contig_44940,.,0.9377,6.1e-05,galactinol--sucrose galactosyltransferase 2,RFS2,Arabidopsis thaliana,79.592,1.22e-168,490.0
+Cp_V2_contig_4950,Cp_V2_contig_13481,.,0.9372,6.3e-05,protein SKIP14,SKIP14,Arabidopsis thaliana,42.4,7.37e-61,206.0
+Cp_V2_contig_4950,Cp_V2_contig_10805,.,0.937,6.4e-05,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,76.423,4.0000000000000004e-66,205.0
+Cp_V2_contig_4950,Cp_V2_contig_21613,.,0.9366,6.5e-05,protein 1,PABN1,Arabidopsis thaliana,75.904,4.83e-72,223.0
+Cp_V2_contig_4950,Cp_V2_contig_11243,.,0.9359,6.8e-05,signal cointegrator 1 complex subunit 2,Ascc2,Mus musculus,21.064,1.81e-14,81.3
+Cp_V2_contig_4950,Cp_V2_contig_19588,.,0.9359,6.8e-05,pyruvate carrier 4,MPC4,Arabidopsis thaliana,83.333,6.41e-64,194.0
+Cp_V2_contig_4950,Cp_V2_contig_24832,.,0.9358,6.9e-05,methionine sulfoxide reductase B5,MSRB5,Oryza sativa subsp. japonica,92.857,1.76e-53,168.0
+Cp_V2_contig_4950,Cp_V2_contig_46148,.,0.9355,7e-05,blue protein,,Cucumis sativus,58.333,3.99e-26,98.2
+Cp_V2_contig_4950,Cp_V2_contig_1982,.,0.9353,7.1e-05,domain-containing protein 1,R3HDM1,Homo sapiens,32.051,3.35e-08,60.1
+Cp_V2_contig_4950,Cp_V2_contig_40374,.,0.9352,7.1e-05,domain-containing protein CBSX5,CBSX5,Arabidopsis thaliana,39.13,1.58e-11,63.2
+Cp_V2_contig_4950,Cp_V2_contig_22400,.,0.9351,7.2e-05,embryogenesis abundant protein 46,LEA46,Arabidopsis thaliana,68.293,1.6e-11,57.0
+Cp_V2_contig_4950,Cp_V2_contig_12055,.,0.935,7.2e-05,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,30.0,5.11e-09,60.8
+Cp_V2_contig_4950,Cp_V2_contig_8565,.,0.935,7.2e-05,motif-containing protein 4,VQ4,Arabidopsis thaliana,48.705,3.17e-30,116.0
+Cp_V2_contig_4950,Cp_V2_contig_3210,.,0.933,8.1e-05,kinase G-2,CDKG-2,Oryza sativa subsp. japonica,58.843,0.0,621.0
+Cp_V2_contig_4950,Cp_V2_contig_11464,.,0.9309,9.2e-05,ribosomal export protein NMD3,nmd3,Dictyostelium discoideum,46.049,8.68e-111,337.0
+Cp_V2_contig_4950,Cp_V2_contig_2137,.,0.9307,9.3e-05,protein phosphatase 2C 74,At5g36250,Arabidopsis thaliana,62.431,4.8600000000000004e-160,469.0
+Cp_V2_contig_4950,Cp_V2_contig_2918,.,0.9305,9.4e-05,"protein At3g17800, chloroplastic",At3g17800,Arabidopsis thaliana,62.759,3.92e-55,183.0
+Cp_V2_contig_4950,Cp_V2_contig_20939,.,0.9304,9.4e-05,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_22977,.,0.9302,9.6e-05,protectant protein Lea14 homolog,,Glycine max,62.0,2.65e-61,190.0
+Cp_V2_contig_4950,Cp_V2_contig_26531,.,0.9297,9.8e-05,transcription factor RAP2-1,RAP2-1,Arabidopsis thaliana,59.836,6.25e-40,138.0
+Cp_V2_contig_4950,Cp_V2_contig_13148,.,0.9296,9.9e-05,2-2,GGCT2;2,Arabidopsis thaliana,49.315,2.55e-10,58.5
+Cp_V2_contig_4950,Cp_V2_contig_47834,.,0.9282,0.000107,protein PCC27-45,,Craterostigma plantagineum,100.0,1.36e-58,182.0
+Cp_V2_contig_4950,Cp_V2_contig_18250,.,0.9259,0.000121,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_5488,.,0.9254,0.000124,"RNA polymerases II, IV and V subunit 6A",NRPB6A,Arabidopsis thaliana,95.455,1.9499999999999997e-55,176.0
+Cp_V2_contig_4950,Cp_V2_contig_1312,.,0.9251,0.000126,protein homolog 2,LDJ2,Allium porrum,79.365,3.17e-13,68.9
+Cp_V2_contig_4950,Cp_V2_contig_12398,.,0.9246,0.000129,WRKY transcription factor 3,WRKY3,Arabidopsis thaliana,57.993,6.87e-92,293.0
+Cp_V2_contig_4950,Cp_V2_contig_7848,.,0.9246,0.000129,synthase 11,KCS11,Arabidopsis thaliana,84.831,1.01e-104,315.0
+Cp_V2_contig_4950,Cp_V2_contig_1461,.,0.9245,0.000129,complex subunit 4A,ALY1,Arabidopsis thaliana,65.517,4.04e-60,189.0
+Cp_V2_contig_4950,Cp_V2_contig_13938,.,0.924,0.000133,HOMOLOG OF MAMMALIAN LYST-INTERACTING PROTEIN 5,LIP5,Arabidopsis thaliana,80.822,5.8e-82,257.0
+Cp_V2_contig_4950,Cp_V2_contig_14368,.,0.923,0.00014,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_40304,.,0.9216,0.00015,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,62.0,2.89e-13,67.0
+Cp_V2_contig_4950,Cp_V2_contig_32562,.,0.9191,0.00017,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_26352,.,0.9182,0.000177,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_9545,.,0.9182,0.000177,carrier protein CoAc2,COAC2,Arabidopsis thaliana,72.468,6.920000000000001e-167,471.0
+Cp_V2_contig_4950,Cp_V2_contig_11204,.,0.9181,0.000178,"mitochondrial-processing peptidase subunit beta, mitochondrial",MPPbeta,Arabidopsis thaliana,81.102,0.0,612.0
+Cp_V2_contig_4950,Cp_V2_contig_377,.,0.9178,0.00018,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_12781,.,0.9176,0.000182,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_6241,.,0.9174,0.000184,repressor ILP1,ILP1,Arabidopsis thaliana,46.784,3.27e-143,444.0
+Cp_V2_contig_4950,Cp_V2_contig_47327,.,0.9173,0.000185,galactinol--sucrose galactosyltransferase 2,RFS2,Arabidopsis thaliana,69.869,4.82e-102,315.0
+Cp_V2_contig_4950,Cp_V2_contig_339,.,0.9172,0.000186,receptor-associated factor homolog 1a,TRAF1A,Arabidopsis thaliana,68.831,6.09e-168,501.0
+Cp_V2_contig_4950,Cp_V2_contig_18945,.,0.9171,0.000187,"A1 PLIP2, chloroplastic",PLIP2,Arabidopsis thaliana,67.493,1.66e-154,464.0
+Cp_V2_contig_4950,Cp_V2_contig_672,.,0.9171,0.000186,"3,5-epimerase 2",GME-2,Oryza sativa subsp. japonica,94.795,0.0,735.0
+Cp_V2_contig_4950,Cp_V2_contig_2079,.,0.917,0.000188,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_27498,.,0.9168,0.00019,casein kinase II subunit alpha-2,HD6,Oryza sativa subsp. japonica,89.796,1.3e-25,94.7
+Cp_V2_contig_4950,Cp_V2_contig_16108,.,0.9167,0.00019,ataxin-3 homolog,Os01g0851400,Oryza sativa subsp. japonica,60.0,6.61e-49,162.0
+Cp_V2_contig_4950,Cp_V2_contig_36163,.,0.9165,0.000192,protein PCC13-62,,Craterostigma plantagineum,97.98,1.82e-61,192.0
+Cp_V2_contig_4950,Cp_V2_contig_2948,.,0.916,0.000197,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_37429,.,0.9159,0.000197,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_46907,.,0.9159,0.000198,protein PCC13-62,,Craterostigma plantagineum,97.368,1.95e-16,77.0
+Cp_V2_contig_4950,Cp_V2_contig_6397,.,0.9154,0.000202,ATP-dependent RNA helicase 21,RH21,Arabidopsis thaliana,86.27,0.0,741.0
+Cp_V2_contig_4950,Cp_V2_contig_44233,.,0.9144,0.000212,protein PCC27-45,,Craterostigma plantagineum,95.556,1.53e-22,89.4
+Cp_V2_contig_4950,Cp_V2_contig_8206,.,0.9138,0.000217,protein dnaJ 49,ATJ49,Arabidopsis thaliana,65.432,9.64e-33,119.0
+Cp_V2_contig_4950,Cp_V2_contig_16567,.,0.9129,0.000227,finger C3HC-type protein 1-like,zc3hc1,Xenopus laevis,26.347,6.93e-06,53.1
+Cp_V2_contig_4950,Cp_V2_contig_7547,.,0.9128,0.000228,homolog subfamily C member 28,Dnajc28,Mus musculus,36.429,1.96e-16,78.2
+Cp_V2_contig_4950,Cp_V2_contig_6459,.,0.9126,0.000229,domain-containing protein 1,bsdc1,Xenopus tropicalis,29.63,5.28e-14,77.0
+Cp_V2_contig_4950,Cp_V2_contig_5702,.,0.9125,0.000231,pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH6,MEE29,Arabidopsis thaliana,76.991,7.69e-43,157.0
+Cp_V2_contig_4950,Cp_V2_contig_5393,.,0.912,0.000236,"2, chloroplastic",Os05g0200100,Oryza sativa subsp. japonica,83.688,1.5e-87,260.0
+Cp_V2_contig_4950,Cp_V2_contig_35454,.,0.9118,0.000237,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_3544,.,0.9113,0.000243,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_6533,.,0.9104,0.000252,UBX domain-containing protein 10,PUX10,Arabidopsis thaliana,66.667,7.58e-19,83.2
+Cp_V2_contig_4950,Cp_V2_contig_10790,.,0.9103,0.000254,domain-containing protein ECT2,ECT2,Arabidopsis thaliana,55.649,9.23e-170,500.0
+Cp_V2_contig_4950,Cp_V2_contig_23462,.,0.9078,0.000283,"LIKE EARLY STARVATION, chloroplastic",LESV,Arabidopsis thaliana,47.619,1.75e-07,55.1
+Cp_V2_contig_4950,Cp_V2_contig_26026,.,0.9078,0.000283,"6-phosphogluconolactonase 4, chloroplastic",OsI_031067,Oryza sativa subsp. indica,66.667,1.62e-28,108.0
+Cp_V2_contig_4950,Cp_V2_contig_29178,.,0.9075,0.000286,initiation factor eIF2B subunit alpha,eif2b1,Dictyostelium discoideum,48.276,3.92e-51,174.0
+Cp_V2_contig_4950,Cp_V2_contig_1380,.,0.9066,0.000297,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_23261,.,0.9064,0.0003,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_8765,.,0.9063,0.000301,"thiolase 2, peroxisomal",PED1,Arabidopsis thaliana,82.845,1.28e-123,363.0
+Cp_V2_contig_4950,Cp_V2_contig_17304,.,0.9062,0.000302,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_1243,.,0.9061,0.000303,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,76.496,3.2500000000000004e-124,358.0
+Cp_V2_contig_4950,Cp_V2_contig_20784,.,0.9057,0.000309,L,,Sesamum indicum,73.881,5.98e-46,152.0
+Cp_V2_contig_4950,Cp_V2_contig_14142,.,0.9055,0.000311,division protein PDV1,PDV1,Arabidopsis thaliana,50.376,4.26e-78,244.0
+Cp_V2_contig_4950,Cp_V2_contig_13805,.,0.9049,0.000319,protein At3g56470,At3g56470,Arabidopsis thaliana,44.086,1.94e-73,235.0
+Cp_V2_contig_4950,Cp_V2_contig_7514,.,0.9045,0.000324,D beta 1,PLDBETA1,Arabidopsis thaliana,73.29,0.0,1417.0
+Cp_V2_contig_4950,Cp_V2_contig_1000,.,0.9044,0.000325,complex subunit SWI3D,SWI3D,Arabidopsis thaliana,48.629,9.11e-145,449.0
+Cp_V2_contig_4950,Cp_V2_contig_43581,.,0.9042,0.000328,protein 17,DIR17,Arabidopsis thaliana,52.727,1.21e-26,107.0
+Cp_V2_contig_4950,Cp_V2_contig_16079,.,0.9036,0.000336,GTP-binding protein 1,spg1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),42.64,4.72e-53,177.0
+Cp_V2_contig_4950,Cp_V2_contig_1681,.,0.9035,0.000337,factor 8A,PRP8A,Arabidopsis thaliana,92.255,0.0,1063.0
+Cp_V2_contig_4950,Cp_V2_contig_8612,.,0.9035,0.000337,insoluble isoenzyme 1,INV1,Daucus carota,66.667,1.64e-39,146.0
+Cp_V2_contig_4950,Cp_V2_contig_2291,.,0.903,0.000344,protein kinase catalytic subunit alpha KIN10,KIN10,Arabidopsis thaliana,80.645,0.0,827.0
+Cp_V2_contig_4950,Cp_V2_contig_21764,.,0.9028,0.000347,kinase G-2,CDKG-2,Oryza sativa subsp. japonica,71.429,5.99e-12,69.3
+Cp_V2_contig_4950,Cp_V2_contig_12798,.,0.9021,0.000356,"repeat-containing protein At5g13770, chloroplastic",At5g13770,Arabidopsis thaliana,57.143,1.55e-125,377.0
+Cp_V2_contig_4950,Cp_V2_contig_34533,.,0.902,0.000358,ACID-INSENSITIVE 5-like protein 3,DPBF4,Arabidopsis thaliana,36.596,1.97e-30,116.0
+Cp_V2_contig_4950,Cp_V2_contig_4031,.,0.9019,0.000359,translation initiation factor isoform 4G-2,Os02g0611500,Oryza sativa subsp. japonica,82.746,6.3e-168,488.0
+Cp_V2_contig_4950,Cp_V2_contig_22199,.,0.9017,0.000362,,,,,,
+Cp_V2_contig_4950,Cp_V2_contig_5205,.,0.9014,0.000367,,CUL1,Oryza sativa subsp. japonica,86.681,0.0,806.0
+Cp_V2_contig_4950,Cp_V2_contig_3614,.,0.9012,0.000369,protein pKIWI502,pKIWI502,Actinidia deliciosa,49.057,1.04e-10,60.1
+Cp_V2_contig_4950,Cp_V2_contig_4663,.,0.9011,0.000371,WEAK CHLOROPLAST MOVEMENT UNDER BLUE LIGHT 1,WEB1,Arabidopsis thaliana,62.5,4.24e-36,132.0
+Cp_V2_contig_4950,Cp_V2_contig_9777,.,0.9005,0.00038,translation initiation factor isoform 4G-1,EIF(ISO)4G1,Arabidopsis thaliana,37.313,3.12e-18,83.6
+Cp_V2_contig_4950,Cp_V2_contig_16337,.,0.9003,0.000383,factor 3B subunit 4,SF3B4,Homo sapiens,46.667,7.06e-17,84.0
+Cp_V2_contig_551,Cp_V2_contig_23992,.,0.9838,0.0,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_551,Cp_V2_contig_37850,.,0.9804,1e-06,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_551,Cp_V2_contig_45899,.,0.9803,1e-06,exchanger 4,NHX4,Arabidopsis thaliana,71.429,1.17e-169,488.0
+Cp_V2_contig_551,Cp_V2_contig_24081,.,0.9797,1e-06,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_551,Cp_V2_contig_29767,.,0.978,1e-06,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_551,Cp_V2_contig_13584,.,0.9777,1e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_13780,.,0.9768,1e-06,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_551,Cp_V2_contig_58,.,0.9761,1e-06,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_551,Cp_V2_contig_33310,.,0.976,1e-06,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_551,Cp_V2_contig_25880,.,0.9758,1e-06,protein At2g24330,At2g24330,Arabidopsis thaliana,58.427,1.3999999999999999e-61,201.0
+Cp_V2_contig_551,Cp_V2_contig_6376,.,0.9737,2e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_3083,.,0.9728,2e-06,,SYT1,Arabidopsis thaliana,74.455,0.0,790.0
+Cp_V2_contig_551,Cp_V2_contig_1533,.,0.9727,2e-06,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_551,Cp_V2_contig_2128,.,0.9725,2e-06,,GRXC2,Arabidopsis thaliana,77.57,1.9100000000000002e-56,177.0
+Cp_V2_contig_551,Cp_V2_contig_10726,.,0.9698,4e-06,protein,GBF,Mesembryanthemum crystallinum,87.151,1.78e-114,328.0
+Cp_V2_contig_551,Cp_V2_contig_25283,.,0.9695,4e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_32420,.,0.9684,4e-06,transcription factor Y subunit C-2,NFYC2,Arabidopsis thaliana,78.906,4.8e-68,213.0
+Cp_V2_contig_551,Cp_V2_contig_17052,.,0.9661,6e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_14382,.,0.9658,6e-06,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_551,Cp_V2_contig_14662,.,0.9643,7e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_5104,.,0.9638,7e-06,"aldolase 3, chloroplastic",FBA3,Arabidopsis thaliana,86.802,0.0,699.0
+Cp_V2_contig_551,Cp_V2_contig_45503,.,0.9637,7e-06,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_24162,.,0.9626,8e-06,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_551,Cp_V2_contig_11289,.,0.9619,9e-06,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_551,Cp_V2_contig_12810,.,0.9614,9e-06,proteinase inhibitor 6,CYS6,Arabidopsis thaliana,61.667,2.7e-17,77.0
+Cp_V2_contig_551,Cp_V2_contig_3837,.,0.9605,1e-05,zipper protein HAT5,HAT5,Arabidopsis thaliana,46.358,5.46e-35,130.0
+Cp_V2_contig_551,Cp_V2_contig_21708,.,0.9594,1.1e-05,ubiquitin protein ligase RIE1,RIE1,Arabidopsis thaliana,59.936,3.37e-92,286.0
+Cp_V2_contig_551,Cp_V2_contig_11007,.,0.9587,1.2e-05,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_551,Cp_V2_contig_10048,.,0.9578,1.3e-05,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_551,Cp_V2_contig_18155,.,0.9566,1.5e-05,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_551,Cp_V2_contig_16525,.,0.9565,1.5e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_26525,.,0.9548,1.7e-05,transporter 2,PROT2,Arabidopsis thaliana,69.364,4.73e-86,262.0
+Cp_V2_contig_551,Cp_V2_contig_27725,.,0.9537,1.9e-05,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_551,Cp_V2_contig_5597,.,0.9535,1.9e-05,"aarF domain-containing protein kinase At1g71810, chloroplastic",At1g71810,Arabidopsis thaliana,65.274,0.0,878.0
+Cp_V2_contig_551,Cp_V2_contig_10120,.,0.9532,2e-05,"galactosyltransferase SFR2, chloroplastic",SFR2,Arabidopsis thaliana,57.471,5.22e-28,110.0
+Cp_V2_contig_551,Cp_V2_contig_46902,.,0.9523,2.1e-05,cytidylyltransferase 1,CCT1,Arabidopsis thaliana,80.769,1.0199999999999999e-23,95.5
+Cp_V2_contig_551,Cp_V2_contig_9550,.,0.9499,2.6e-05,TANC2,TANC2,Homo sapiens,38.462,5.47e-16,76.6
+Cp_V2_contig_551,Cp_V2_contig_32418,.,0.9497,2.6e-05,IIIx synthase,UGT94-289-1,Siraitia grosvenorii,46.865,6e-85,269.0
+Cp_V2_contig_551,Cp_V2_contig_19606,.,0.9495,2.7e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_1856,.,0.9477,3.1e-05,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_551,Cp_V2_contig_11798,.,0.9466,3.3e-05,acid transporter AVT6C,AVT6C,Arabidopsis thaliana,64.578,8.91e-158,454.0
+Cp_V2_contig_551,Cp_V2_contig_38011,.,0.9465,3.4e-05,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,67.045,2.82e-74,231.0
+Cp_V2_contig_551,Cp_V2_contig_38638,.,0.9453,3.7e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_17170,.,0.9439,4e-05,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_551,Cp_V2_contig_13783,.,0.9426,4.4e-05,choline kinase 2,At1g74320,Arabidopsis thaliana,66.864,3.53e-170,483.0
+Cp_V2_contig_551,Cp_V2_contig_46183,.,0.9421,4.6e-05,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,77.612,7.24e-26,98.2
+Cp_V2_contig_551,Cp_V2_contig_2779,.,0.9418,4.7e-05,protein 6A,LARP6A,Arabidopsis thaliana,51.485,8.36e-78,247.0
+Cp_V2_contig_551,Cp_V2_contig_21685,.,0.9414,4.8e-05,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,82.677,6.23e-154,445.0
+Cp_V2_contig_551,Cp_V2_contig_11871,.,0.9408,5e-05,protease SBT3.17,SBT3.17,Arabidopsis thaliana,47.561,2.35e-14,72.8
+Cp_V2_contig_551,Cp_V2_contig_10968,.,0.9396,5.4e-05,c,CC-1,Oryza sativa subsp. japonica,87.5,1.94e-68,209.0
+Cp_V2_contig_551,Cp_V2_contig_3733,.,0.9379,6e-05,voltage-gated potassium channel subunit beta,KAB1,Arabidopsis thaliana,84.451,0.0,598.0
+Cp_V2_contig_551,Cp_V2_contig_3865,.,0.9355,7e-05,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_551,Cp_V2_contig_2705,.,0.9354,7.1e-05,FREE1,FREE1,Arabidopsis thaliana,62.162,1.1499999999999999e-131,399.0
+Cp_V2_contig_551,Cp_V2_contig_2326,.,0.9349,7.2e-05,"kinase, peroxisomal",PMK,Arabidopsis thaliana,67.54,0.0,600.0
+Cp_V2_contig_551,Cp_V2_contig_37548,.,0.9348,7.3e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_10892,.,0.9326,8.3e-05,,At1g47710,Arabidopsis thaliana,68.159,1.78e-82,254.0
+Cp_V2_contig_551,Cp_V2_contig_12179,.,0.9325,8.4e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_7475,.,0.9323,8.5e-05,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_9538,.,0.9314,8.9e-05,"protein, chloroplastic",,Solanum tuberosum,70.943,2.27e-113,335.0
+Cp_V2_contig_551,Cp_V2_contig_11082,.,0.93,9.7e-05,ceramidase 3,NCER3,Arabidopsis thaliana,74.809,3.51e-130,389.0
+Cp_V2_contig_551,Cp_V2_contig_26647,.,0.9271,0.000113,phosphoglycerate mutase,,Zea mays,75.862,1.55e-155,449.0
+Cp_V2_contig_551,Cp_V2_contig_8331,.,0.9246,0.000129,protein RABC1,RABC1,Arabidopsis thaliana,89.175,2.05e-126,360.0
+Cp_V2_contig_551,Cp_V2_contig_31777,.,0.9228,0.000141,(S)-NAD(P)H-hydrate dehydratase,VIT_05s0020g02800,Vitis vinifera,76.341,3.3e-174,493.0
+Cp_V2_contig_551,Cp_V2_contig_24960,.,0.9223,0.000145,reductase,,Hordeum vulgare,68.254,9.3e-23,94.0
+Cp_V2_contig_551,Cp_V2_contig_13515,.,0.9206,0.000158,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_30041,.,0.9203,0.00016,carboxyl-terminal hydrolase 19,UBP19,Arabidopsis thaliana,63.077,7.21e-143,422.0
+Cp_V2_contig_551,Cp_V2_contig_15088,.,0.9191,0.00017,protein phosphatase 2C 60,At4g31860,Arabidopsis thaliana,62.763,5.54e-151,432.0
+Cp_V2_contig_551,Cp_V2_contig_38417,.,0.9184,0.000176,"zinc metalloprotease EGY3, chloroplastic",EGY3,Oryza sativa subsp. japonica,56.364,5.53e-16,76.6
+Cp_V2_contig_551,Cp_V2_contig_14207,.,0.918,0.000179,chain acyl-CoA synthetase 8,LACS8,Arabidopsis thaliana,71.036,0.0,660.0
+Cp_V2_contig_551,Cp_V2_contig_45465,.,0.916,0.000197,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,80.198,4.9e-45,149.0
+Cp_V2_contig_551,Cp_V2_contig_2303,.,0.9137,0.000219,PIN-LIKES 7,PILS7,Arabidopsis thaliana,57.143,1.27e-152,440.0
+Cp_V2_contig_551,Cp_V2_contig_24396,.,0.9133,0.000222,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_8615,.,0.913,0.000226,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_28730,.,0.9112,0.000244,dehydrogenase,LGALDH,Arabidopsis thaliana,60.256,3.05e-26,102.0
+Cp_V2_contig_551,Cp_V2_contig_34533,.,0.9098,0.000259,ACID-INSENSITIVE 5-like protein 3,DPBF4,Arabidopsis thaliana,36.596,1.97e-30,116.0
+Cp_V2_contig_551,Cp_V2_contig_6504,.,0.9094,0.000264,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_35060,.,0.9077,0.000283,fructokinase-7,At5g51830,Arabidopsis thaliana,71.473,2.95e-171,484.0
+Cp_V2_contig_551,Cp_V2_contig_20242,.,0.9069,0.000294,FLX-like 3,FLXL3,Arabidopsis thaliana,44.086,1.02e-42,149.0
+Cp_V2_contig_551,Cp_V2_contig_23383,.,0.9065,0.000298,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_26026,.,0.9059,0.000306,"6-phosphogluconolactonase 4, chloroplastic",OsI_031067,Oryza sativa subsp. indica,66.667,1.62e-28,108.0
+Cp_V2_contig_551,Cp_V2_contig_22202,.,0.9042,0.000328,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_1097,.,0.9031,0.000343,factor DIVARICATA,DIVARICATA,Antirrhinum majus,52.717,1.17e-56,185.0
+Cp_V2_contig_551,Cp_V2_contig_18571,.,0.903,0.000344,lyase,GLYI-11,Oryza sativa subsp. japonica,84.127,1.63e-29,112.0
+Cp_V2_contig_551,Cp_V2_contig_37809,.,0.9011,0.00037,phosphate phosphatase gamma,LPPG,Arabidopsis thaliana,63.636,9.52e-22,91.7
+Cp_V2_contig_551,Cp_V2_contig_7739,.,0.9003,0.000382,,,,,,
+Cp_V2_contig_551,Cp_V2_contig_19357,.,0.9001,0.000385,"hydratase, cytoplasmic (Fragment)",,Solanum tuberosum,83.929,3.5199999999999997e-141,411.0
+Cp_V2_contig_6094,Cp_V2_contig_4331,.,0.9635,7e-06,cyclohydrolase 1,GCH1,Solanum lycopersicum,65.502,0.0,593.0
+Cp_V2_contig_6094,Cp_V2_contig_15027,.,0.945,3.7e-05,,,,,,
+Cp_V2_contig_6094,Cp_V2_contig_900,.,0.9322,8.5e-05,"reductase 2, chloroplastic",APR2,Arabidopsis thaliana,81.119,1.1e-177,501.0
+Cp_V2_contig_6094,Cp_V2_contig_1607,.,0.9264,0.000117,2-1,GGCT2;1,Arabidopsis thaliana,84.043,4.36e-57,182.0
+Cp_V2_contig_6094,Cp_V2_contig_5216,.,0.9258,0.000121,DNA-binding protein TGA-2.1,TGA21,Nicotiana tabacum,64.938,3.98e-149,436.0
+Cp_V2_contig_6094,Cp_V2_contig_37659,.,0.9248,0.000128,"repair RAD52-like protein 2, chloroplastic",RAD52-2,Arabidopsis thaliana,76.224,2.51e-62,202.0
+Cp_V2_contig_6094,Cp_V2_contig_31695,.,0.914,0.000215,protein At1g01500,At1g01500,Arabidopsis thaliana,43.607,2.34e-44,160.0
+Cp_V2_contig_6094,Cp_V2_contig_694,.,0.9054,0.000313,"polymerase sigma factor sigE, chloroplastic/mitochondrial",SIGE,Arabidopsis thaliana,54.813,3.1e-129,383.0
+Cp_V2_contig_6094,Cp_V2_contig_10695,.,0.9053,0.000314,transcription factor 50,BZIP50,Oryza sativa subsp. japonica,74.194,1.78e-08,53.5
+Cp_V2_contig_670,Cp_V2_contig_24081,.,0.9908,0.0,embryogenesis abundant protein 6,LEA6,Arabidopsis thaliana,43.878,1.08e-12,65.1
+Cp_V2_contig_670,Cp_V2_contig_13780,.,0.9902,0.0,"CURVATURE THYLAKOID 1D, chloroplastic",CURT1D,Arabidopsis thaliana,51.724,5.740000000000001e-21,92.0
+Cp_V2_contig_670,Cp_V2_contig_24162,.,0.9828,0.0,"dehydrogenase TIC 32, chloroplastic",TIC32,Pisum sativum,66.495,1.1e-93,280.0
+Cp_V2_contig_670,Cp_V2_contig_23992,.,0.9817,0.0,allergen Ole e 8,,Olea europaea,59.732,5.51e-55,176.0
+Cp_V2_contig_670,Cp_V2_contig_1533,.,0.9807,1e-06,"aminotransferase, cytoplasmic",,Daucus carota,85.608,0.0,738.0
+Cp_V2_contig_670,Cp_V2_contig_58,.,0.9803,1e-06,pyrophosphokinase 1,TPK1,Arabidopsis thaliana,67.157,1.75e-97,291.0
+Cp_V2_contig_670,Cp_V2_contig_29767,.,0.9777,1e-06,multiplication protein 1,TOM1,Nicotiana tabacum,79.134,2.6399999999999998e-136,391.0
+Cp_V2_contig_670,Cp_V2_contig_17052,.,0.9774,1e-06,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_16525,.,0.9759,1e-06,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_45503,.,0.9741,2e-06,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_1856,.,0.9723,2e-06,shock 70 kDa protein,HSP70,Zea mays,73.529,8.149999999999999e-34,128.0
+Cp_V2_contig_670,Cp_V2_contig_11289,.,0.9721,3e-06,proteinase inhibitor,,Vigna unguiculata,61.053,1.95e-39,129.0
+Cp_V2_contig_670,Cp_V2_contig_14382,.,0.9716,3e-06,finger A20 and AN1 domain-containing stress-associated protein 4,SAP4,Oryza sativa subsp. japonica,48.246,5.37e-31,111.0
+Cp_V2_contig_670,Cp_V2_contig_33310,.,0.9715,3e-06,"hydroperoxide glutathione peroxidase, chloroplastic",,Pisum sativum,86.111,1.34e-13,67.4
+Cp_V2_contig_670,Cp_V2_contig_9550,.,0.9713,3e-06,TANC2,TANC2,Homo sapiens,38.462,5.47e-16,76.6
+Cp_V2_contig_670,Cp_V2_contig_13584,.,0.9703,3e-06,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_37850,.,0.9689,4e-06,"aldo-keto reductase, chloroplastic",AKR4C9,Arabidopsis thaliana,78.75,3.8e-39,136.0
+Cp_V2_contig_670,Cp_V2_contig_27725,.,0.9662,6e-06,"dehydrogenase TIC 32, chloroplastic",TIC32,Arabidopsis thaliana,72.396,2.16e-90,272.0
+Cp_V2_contig_670,Cp_V2_contig_3083,.,0.9646,7e-06,,SYT1,Arabidopsis thaliana,74.455,0.0,790.0
+Cp_V2_contig_670,Cp_V2_contig_46183,.,0.9642,7e-06,"stress protein DSP-22, chloroplastic",DSP-22,Craterostigma plantagineum,77.612,7.24e-26,98.2
+Cp_V2_contig_670,Cp_V2_contig_3865,.,0.9616,9e-06,domain-containing protein JA2L,JA2L,Solanum lycopersicum,66.216,1.1299999999999998e-54,178.0
+Cp_V2_contig_670,Cp_V2_contig_45899,.,0.9606,1e-05,exchanger 4,NHX4,Arabidopsis thaliana,71.429,1.17e-169,488.0
+Cp_V2_contig_670,Cp_V2_contig_12810,.,0.9592,1.2e-05,proteinase inhibitor 6,CYS6,Arabidopsis thaliana,61.667,2.7e-17,77.0
+Cp_V2_contig_670,Cp_V2_contig_18155,.,0.9567,1.5e-05,protein kinase regulatory subunit gamma-1,KING1,Arabidopsis thaliana,60.925,1.9000000000000002e-166,475.0
+Cp_V2_contig_670,Cp_V2_contig_6376,.,0.9555,1.6e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_14662,.,0.9547,1.7e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_2128,.,0.9532,2e-05,,GRXC2,Arabidopsis thaliana,77.57,1.9100000000000002e-56,177.0
+Cp_V2_contig_670,Cp_V2_contig_25283,.,0.9501,2.6e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_11871,.,0.95,2.6e-05,protease SBT3.17,SBT3.17,Arabidopsis thaliana,47.561,2.35e-14,72.8
+Cp_V2_contig_670,Cp_V2_contig_10726,.,0.9492,2.7e-05,protein,GBF,Mesembryanthemum crystallinum,87.151,1.78e-114,328.0
+Cp_V2_contig_670,Cp_V2_contig_2779,.,0.9489,2.8e-05,protein 6A,LARP6A,Arabidopsis thaliana,51.485,8.36e-78,247.0
+Cp_V2_contig_670,Cp_V2_contig_5104,.,0.9482,3e-05,"aldolase 3, chloroplastic",FBA3,Arabidopsis thaliana,86.802,0.0,699.0
+Cp_V2_contig_670,Cp_V2_contig_25880,.,0.9479,3e-05,protein At2g24330,At2g24330,Arabidopsis thaliana,58.427,1.3999999999999999e-61,201.0
+Cp_V2_contig_670,Cp_V2_contig_2705,.,0.9469,3.3e-05,FREE1,FREE1,Arabidopsis thaliana,62.162,1.1499999999999999e-131,399.0
+Cp_V2_contig_670,Cp_V2_contig_13515,.,0.9465,3.4e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_2326,.,0.9464,3.4e-05,"kinase, peroxisomal",PMK,Arabidopsis thaliana,67.54,0.0,600.0
+Cp_V2_contig_670,Cp_V2_contig_26525,.,0.9453,3.7e-05,transporter 2,PROT2,Arabidopsis thaliana,69.364,4.73e-86,262.0
+Cp_V2_contig_670,Cp_V2_contig_2303,.,0.9448,3.8e-05,PIN-LIKES 7,PILS7,Arabidopsis thaliana,57.143,1.27e-152,440.0
+Cp_V2_contig_670,Cp_V2_contig_32420,.,0.944,4e-05,transcription factor Y subunit C-2,NFYC2,Arabidopsis thaliana,78.906,4.8e-68,213.0
+Cp_V2_contig_670,Cp_V2_contig_17170,.,0.9437,4.1e-05,factor MYB73,MYB73,Arabidopsis thaliana,47.569,4.55e-73,234.0
+Cp_V2_contig_670,Cp_V2_contig_10048,.,0.9426,4.4e-05,12,PER12,Arabidopsis thaliana,62.046,4.96e-142,413.0
+Cp_V2_contig_670,Cp_V2_contig_13783,.,0.9413,4.8e-05,choline kinase 2,At1g74320,Arabidopsis thaliana,66.864,3.53e-170,483.0
+Cp_V2_contig_670,Cp_V2_contig_7475,.,0.9394,5.5e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_3837,.,0.9381,6e-05,zipper protein HAT5,HAT5,Arabidopsis thaliana,46.358,5.46e-35,130.0
+Cp_V2_contig_670,Cp_V2_contig_30041,.,0.9374,6.2e-05,carboxyl-terminal hydrolase 19,UBP19,Arabidopsis thaliana,63.077,7.21e-143,422.0
+Cp_V2_contig_670,Cp_V2_contig_34533,.,0.9365,6.6e-05,ACID-INSENSITIVE 5-like protein 3,DPBF4,Arabidopsis thaliana,36.596,1.97e-30,116.0
+Cp_V2_contig_670,Cp_V2_contig_11007,.,0.9362,6.7e-05,incorporator 3,SERINC3,Pongo abelii,28.913,6.13e-43,162.0
+Cp_V2_contig_670,Cp_V2_contig_13429,.,0.931,9.1e-05,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_21708,.,0.931,9.1e-05,ubiquitin protein ligase RIE1,RIE1,Arabidopsis thaliana,59.936,3.37e-92,286.0
+Cp_V2_contig_670,Cp_V2_contig_46902,.,0.9291,0.000101,cytidylyltransferase 1,CCT1,Arabidopsis thaliana,80.769,1.0199999999999999e-23,95.5
+Cp_V2_contig_670,Cp_V2_contig_10892,.,0.929,0.000102,,At1g47710,Arabidopsis thaliana,68.159,1.78e-82,254.0
+Cp_V2_contig_670,Cp_V2_contig_7739,.,0.929,0.000102,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_31777,.,0.9278,0.000109,(S)-NAD(P)H-hydrate dehydratase,VIT_05s0020g02800,Vitis vinifera,76.341,3.3e-174,493.0
+Cp_V2_contig_670,Cp_V2_contig_10968,.,0.9276,0.00011,c,CC-1,Oryza sativa subsp. japonica,87.5,1.94e-68,209.0
+Cp_V2_contig_670,Cp_V2_contig_15088,.,0.9273,0.000112,protein phosphatase 2C 60,At4g31860,Arabidopsis thaliana,62.763,5.54e-151,432.0
+Cp_V2_contig_670,Cp_V2_contig_26026,.,0.9255,0.000123,"6-phosphogluconolactonase 4, chloroplastic",OsI_031067,Oryza sativa subsp. indica,66.667,1.62e-28,108.0
+Cp_V2_contig_670,Cp_V2_contig_1097,.,0.9251,0.000126,factor DIVARICATA,DIVARICATA,Antirrhinum majus,52.717,1.17e-56,185.0
+Cp_V2_contig_670,Cp_V2_contig_5597,.,0.9242,0.000132,"aarF domain-containing protein kinase At1g71810, chloroplastic",At1g71810,Arabidopsis thaliana,65.274,0.0,878.0
+Cp_V2_contig_670,Cp_V2_contig_123,.,0.9231,0.000139,synthase 11,KCS11,Arabidopsis thaliana,80.519,4.15e-139,407.0
+Cp_V2_contig_670,Cp_V2_contig_32418,.,0.9228,0.000141,IIIx synthase,UGT94-289-1,Siraitia grosvenorii,46.865,6e-85,269.0
+Cp_V2_contig_670,Cp_V2_contig_19606,.,0.9222,0.000146,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_11798,.,0.922,0.000147,acid transporter AVT6C,AVT6C,Arabidopsis thaliana,64.578,8.91e-158,454.0
+Cp_V2_contig_670,Cp_V2_contig_37429,.,0.921,0.000154,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_21685,.,0.9208,0.000156,"reductase, chloroplastic (Fragment)",GOR,Nicotiana tabacum,82.677,6.23e-154,445.0
+Cp_V2_contig_670,Cp_V2_contig_37548,.,0.9208,0.000156,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_8615,.,0.9196,0.000166,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_20242,.,0.9194,0.000168,FLX-like 3,FLXL3,Arabidopsis thaliana,44.086,1.02e-42,149.0
+Cp_V2_contig_670,Cp_V2_contig_46907,.,0.9191,0.000169,protein PCC13-62,,Craterostigma plantagineum,97.368,1.95e-16,77.0
+Cp_V2_contig_670,Cp_V2_contig_36163,.,0.9182,0.000177,protein PCC13-62,,Craterostigma plantagineum,97.98,1.82e-61,192.0
+Cp_V2_contig_670,Cp_V2_contig_17963,.,0.9179,0.00018,phosphatase 2C 16,HAB1,Arabidopsis thaliana,61.111,8.02e-146,424.0
+Cp_V2_contig_670,Cp_V2_contig_28730,.,0.9159,0.000197,dehydrogenase,LGALDH,Arabidopsis thaliana,60.256,3.05e-26,102.0
+Cp_V2_contig_670,Cp_V2_contig_10120,.,0.9138,0.000218,"galactosyltransferase SFR2, chloroplastic",SFR2,Arabidopsis thaliana,57.471,5.22e-28,110.0
+Cp_V2_contig_670,Cp_V2_contig_9158,.,0.913,0.000226,synthase 9,KCS9,Arabidopsis thaliana,74.359,2.32e-61,198.0
+Cp_V2_contig_670,Cp_V2_contig_3733,.,0.9099,0.000259,voltage-gated potassium channel subunit beta,KAB1,Arabidopsis thaliana,84.451,0.0,598.0
+Cp_V2_contig_670,Cp_V2_contig_38011,.,0.9099,0.000258,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,67.045,2.82e-74,231.0
+Cp_V2_contig_670,Cp_V2_contig_38638,.,0.9081,0.000278,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_11082,.,0.9068,0.000295,ceramidase 3,NCER3,Arabidopsis thaliana,74.809,3.51e-130,389.0
+Cp_V2_contig_670,Cp_V2_contig_24960,.,0.9049,0.000319,reductase,,Hordeum vulgare,68.254,9.3e-23,94.0
+Cp_V2_contig_670,Cp_V2_contig_46398,.,0.9044,0.000325,protein At3g06240,At3g06240,Arabidopsis thaliana,30.025,1.6499999999999999e-38,147.0
+Cp_V2_contig_670,Cp_V2_contig_10805,.,0.904,0.000331,"6-phosphogluconolactonase 4, chloroplastic",Os09g0529100,Oryza sativa subsp. japonica,76.423,4.0000000000000004e-66,205.0
+Cp_V2_contig_670,Cp_V2_contig_4693,.,0.903,0.000345,protein At4g00755,At4g00755,Arabidopsis thaliana,45.028,2.45e-94,293.0
+Cp_V2_contig_670,Cp_V2_contig_40304,.,0.9028,0.000347,embryogenesis abundant protein 31,RAB28,Arabidopsis thaliana,62.0,2.89e-13,67.0
+Cp_V2_contig_670,Cp_V2_contig_1900,.,0.9026,0.000349,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_24396,.,0.9023,0.000354,,,,,,
+Cp_V2_contig_670,Cp_V2_contig_16079,.,0.9016,0.000363,GTP-binding protein 1,spg1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),42.64,4.72e-53,177.0
+Cp_V2_contig_670,Cp_V2_contig_29501,.,0.9001,0.000385,proton ATPase subunit a3,VHA-a3,Arabidopsis thaliana,71.498,2.45e-91,287.0
+Cp_V2_contig_692,Cp_V2_contig_694,.,0.9903,0.0,"polymerase sigma factor sigE, chloroplastic/mitochondrial",SIGE,Arabidopsis thaliana,54.813,3.1e-129,383.0
+Cp_V2_contig_692,Cp_V2_contig_31695,.,0.9744,2e-06,protein At1g01500,At1g01500,Arabidopsis thaliana,43.607,2.34e-44,160.0
+Cp_V2_contig_692,Cp_V2_contig_17692,.,0.9478,3e-05,pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH5,At3g26560,Arabidopsis thaliana,70.286,1.11e-70,238.0
+Cp_V2_contig_692,Cp_V2_contig_1607,.,0.9414,4.8e-05,2-1,GGCT2;1,Arabidopsis thaliana,84.043,4.36e-57,182.0
+Cp_V2_contig_692,Cp_V2_contig_2580,.,0.9321,8.6e-05,"1, chloroplastic",BAM1,Arabidopsis thaliana,88.05,5.4e-103,309.0
+Cp_V2_contig_692,Cp_V2_contig_29178,.,0.9315,8.9e-05,initiation factor eIF2B subunit alpha,eif2b1,Dictyostelium discoideum,48.276,3.92e-51,174.0
+Cp_V2_contig_692,Cp_V2_contig_13481,.,0.9268,0.000115,protein SKIP14,SKIP14,Arabidopsis thaliana,42.4,7.37e-61,206.0
+Cp_V2_contig_692,Cp_V2_contig_5773,.,0.9208,0.000156,"lipid transfer protein 7, mitochondrial",Stard7,Mus musculus,30.464,9.07e-11,67.8
+Cp_V2_contig_692,Cp_V2_contig_10695,.,0.9193,0.000168,transcription factor 50,BZIP50,Oryza sativa subsp. japonica,74.194,1.78e-08,53.5
+Cp_V2_contig_692,Cp_V2_contig_792,.,0.9173,0.000185,"1, chloroplastic",BAM1,Arabidopsis thaliana,80.645,1.17e-45,160.0
+Cp_V2_contig_692,Cp_V2_contig_1042,.,0.9122,0.000233,"factor G-2, chloroplastic",fusA2,Glycine max,84.485,0.0,1311.0
+Cp_V2_contig_692,Cp_V2_contig_22369,.,0.9077,0.000284,domain-containing protein POB1,POB1,Arabidopsis thaliana,84.358,4.67e-105,317.0
+Cp_V2_contig_692,Cp_V2_contig_6459,.,0.9031,0.000343,domain-containing protein 1,bsdc1,Xenopus tropicalis,29.63,5.28e-14,77.0
+Cp_V2_contig_692,Cp_V2_contig_37659,.,0.9025,0.00035,"repair RAD52-like protein 2, chloroplastic",RAD52-2,Arabidopsis thaliana,76.224,2.51e-62,202.0
+Cp_V2_contig_8442,Cp_V2_contig_15710,.,0.9769,1e-06,dehydratase small subunit 1,SSU1,Arabidopsis thaliana,72.512,6.19e-96,284.0
+Cp_V2_contig_8442,Cp_V2_contig_6968,.,0.967,5e-06,initiation factor IF-2,infB,Bradyrhizobium sp. (strain ORS 278),45.638,1.6499999999999999e-131,417.0
+Cp_V2_contig_8442,Cp_V2_contig_20690,.,0.9632,8e-06,protein FOR GROWTH AND FERTILITY 2,CGF2,Arabidopsis thaliana,67.638,2.5500000000000003e-129,380.0
+Cp_V2_contig_8442,Cp_V2_contig_10274,.,0.9587,1.2e-05,"desaturase, chloroplastic/chromoplastic",ZDS,Solanum lycopersicum,87.945,0.0,689.0
+Cp_V2_contig_8442,Cp_V2_contig_23819,.,0.95,2.6e-05,domain-containing CTD phosphatase,At4g06599,Arabidopsis thaliana,80.198,7.769999999999999e-172,484.0
+Cp_V2_contig_8442,Cp_V2_contig_18033,.,0.9451,3.7e-05,chloroplastic,NLP3,Arabidopsis thaliana,87.791,8.93e-112,326.0
+Cp_V2_contig_8442,Cp_V2_contig_1681,.,0.9424,4.5e-05,factor 8A,PRP8A,Arabidopsis thaliana,92.255,0.0,1063.0
+Cp_V2_contig_8442,Cp_V2_contig_12969,.,0.9414,4.8e-05,membrane protein 727,VAMP727,Arabidopsis thaliana,87.255,6.5e-126,359.0
+Cp_V2_contig_8442,Cp_V2_contig_5559,.,0.939,5.6e-05,domain-containing protein DSK2b,DSK2B,Arabidopsis thaliana,61.017,9.599999999999999e-165,483.0
+Cp_V2_contig_8442,Cp_V2_contig_5205,.,0.9385,5.8e-05,,CUL1,Oryza sativa subsp. japonica,86.681,0.0,806.0
+Cp_V2_contig_8442,Cp_V2_contig_29178,.,0.9377,6.1e-05,initiation factor eIF2B subunit alpha,eif2b1,Dictyostelium discoideum,48.276,3.92e-51,174.0
+Cp_V2_contig_8442,Cp_V2_contig_3659,.,0.9376,6.1e-05,4-phosphate 5-kinase 9,PIP5K9,Arabidopsis thaliana,68.37,0.0,1075.0
+Cp_V2_contig_8442,Cp_V2_contig_9242,.,0.9375,6.2e-05,domain family member 15,Tbc1d15,Mus musculus,49.0,2.24e-96,315.0
+Cp_V2_contig_8442,Cp_V2_contig_672,.,0.9365,6.6e-05,"3,5-epimerase 2",GME-2,Oryza sativa subsp. japonica,94.795,0.0,735.0
+Cp_V2_contig_8442,Cp_V2_contig_8089,.,0.9359,6.9e-05,protein sorting-associated protein 20 homolog 1,VPS20.1,Arabidopsis thaliana,63.057,3.4e-41,141.0
+Cp_V2_contig_8442,Cp_V2_contig_11635,.,0.9348,7.3e-05,interactive domain-containing protein 3,ARID3,Arabidopsis thaliana,33.929,1.21e-07,57.0
+Cp_V2_contig_8442,Cp_V2_contig_735,.,0.9325,8.4e-05,protein RBP47,RBP47,Nicotiana plumbaginifolia,65.074,4.91e-121,354.0
+Cp_V2_contig_8442,Cp_V2_contig_4374,.,0.9323,8.5e-05,"desaturase, chloroplastic/chromoplastic",ZDS,Capsicum annuum,88.292,0.0,939.0
+Cp_V2_contig_8442,Cp_V2_contig_20920,.,0.9315,8.8e-05,purine biosynthesis protein PurH,purH,Bacillus cereus (strain AH820),50.189,2.07e-172,508.0
+Cp_V2_contig_8442,Cp_V2_contig_13560,.,0.9307,9.2e-05,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_5497,.,0.9301,9.6e-05,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_22966,.,0.9287,0.000104,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_19588,.,0.9259,0.00012,pyruvate carrier 4,MPC4,Arabidopsis thaliana,83.333,6.41e-64,194.0
+Cp_V2_contig_8442,Cp_V2_contig_1243,.,0.925,0.000126,cytidylyltransferase 2,CCT2,Arabidopsis thaliana,76.496,3.2500000000000004e-124,358.0
+Cp_V2_contig_8442,Cp_V2_contig_13026,.,0.9242,0.000132,"dehydrogenase [ubiquinone] flavoprotein subunit 1, mitochondrial",SDH1-1,Arabidopsis thaliana,85.366,2.84e-137,403.0
+Cp_V2_contig_8442,Cp_V2_contig_6438,.,0.9223,0.000145,,,Atriplex nummularia,87.013,5.6299999999999994e-95,277.0
+Cp_V2_contig_8442,Cp_V2_contig_7988,.,0.9222,0.000145,disease resistance protein At4g33300,At4g33300,Arabidopsis thaliana,52.016,1.54e-79,258.0
+Cp_V2_contig_8442,Cp_V2_contig_11213,.,0.922,0.000147,RNA effector molecule,SE,Arabidopsis thaliana,62.775,0.0,601.0
+Cp_V2_contig_8442,Cp_V2_contig_23462,.,0.922,0.000147,"LIKE EARLY STARVATION, chloroplastic",LESV,Arabidopsis thaliana,47.619,1.75e-07,55.1
+Cp_V2_contig_8442,Cp_V2_contig_11547,.,0.9212,0.000153,protein DnaJ,dnaJ,Oleidesulfovibrio alaskensis (strain ATCC BAA-1058 / DSM 17464 / G20),47.692,2.67e-08,58.5
+Cp_V2_contig_8442,Cp_V2_contig_15465,.,0.9205,0.000159,lumen protein-retaining receptor,ERD2,Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM),33.784,2.5600000000000002e-27,109.0
+Cp_V2_contig_8442,Cp_V2_contig_12754,.,0.9202,0.000161,phosphatase BSL3,BSL3,Arabidopsis thaliana,91.569,0.0,805.0
+Cp_V2_contig_8442,Cp_V2_contig_13382,.,0.92,0.000163,repeat-containing protein At1g19720,DYW7,Arabidopsis thaliana,44.978,8.209999999999999e-128,394.0
+Cp_V2_contig_8442,Cp_V2_contig_16567,.,0.9193,0.000168,finger C3HC-type protein 1-like,zc3hc1,Xenopus laevis,26.347,6.93e-06,53.1
+Cp_V2_contig_8442,Cp_V2_contig_15547,.,0.9148,0.000208,,CUL1,Oryza sativa subsp. japonica,85.657,4.36e-145,426.0
+Cp_V2_contig_8442,Cp_V2_contig_26404,.,0.9147,0.000208,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_9364,.,0.914,0.000215,factor cwc15,cwc15,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),68.421,2.4e-19,83.6
+Cp_V2_contig_8442,Cp_V2_contig_1086,.,0.9132,0.000223,protein phosphatase 2C 49,At3g62260,Arabidopsis thaliana,66.242,1.92e-156,445.0
+Cp_V2_contig_8442,Cp_V2_contig_9920,.,0.9128,0.000228,9 superfamily member 3,TMN3,Arabidopsis thaliana,84.582,0.0,806.0
+Cp_V2_contig_8442,Cp_V2_contig_10455,.,0.9124,0.000231,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_37411,.,0.9119,0.000237,protein 1B,Mfap1b,Mus musculus,51.19,7.010000000000001e-21,92.4
+Cp_V2_contig_8442,Cp_V2_contig_5686,.,0.9109,0.000247,,NCDN,Gallus gallus,23.948,9.66e-06,52.0
+Cp_V2_contig_8442,Cp_V2_contig_6333,.,0.9108,0.000248,,PSAP,Bos taurus,29.139,1.26e-07,55.1
+Cp_V2_contig_8442,Cp_V2_contig_5508,.,0.9106,0.000251,"ligase, mitochondrial 1",THRRS,Arabidopsis thaliana,74.203,0.0,1069.0
+Cp_V2_contig_8442,Cp_V2_contig_11243,.,0.9096,0.000261,signal cointegrator 1 complex subunit 2,Ascc2,Mus musculus,21.064,1.81e-14,81.3
+Cp_V2_contig_8442,Cp_V2_contig_4523,.,0.9093,0.000265,resistance protein ADR1,ADR1,Arabidopsis thaliana,50.413,2.29e-27,110.0
+Cp_V2_contig_8442,Cp_V2_contig_45499,.,0.9084,0.000275,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_7018,.,0.9079,0.000282,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_1073,.,0.9078,0.000282,factor clf1,clf1,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),66.829,3.69e-97,299.0
+Cp_V2_contig_8442,Cp_V2_contig_4323,.,0.9074,0.000287,"Clp protease ATP-binding subunit ClpA homolog CD4A, chloroplastic",CD4A,Solanum lycopersicum,43.59,1.03e-09,58.2
+Cp_V2_contig_8442,Cp_V2_contig_33507,.,0.907,0.000292,kinase 1-like protein HD16,HD16,Oryza sativa subsp. japonica,79.388,0.0,818.0
+Cp_V2_contig_8442,Cp_V2_contig_5618,.,0.907,0.000293,factor SYF1,Xab2,Mus musculus,54.122,0.0,831.0
+Cp_V2_contig_8442,Cp_V2_contig_2070,.,0.9065,0.000299,chromatid cohesion protein PDS5 homolog C,PDS5C,Arabidopsis thaliana,47.143,2.84e-15,81.3
+Cp_V2_contig_8442,Cp_V2_contig_5488,.,0.9055,0.00031,"RNA polymerases II, IV and V subunit 6A",NRPB6A,Arabidopsis thaliana,95.455,1.9499999999999997e-55,176.0
+Cp_V2_contig_8442,Cp_V2_contig_6560,.,0.9053,0.000314,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_6745,.,0.9051,0.000316,GRAM protein 1,BAGP1,Arabidopsis thaliana,68.454,5.97e-151,439.0
+Cp_V2_contig_8442,Cp_V2_contig_8734,.,0.905,0.000317,domain-containing protein 1,SUN1,Arabidopsis thaliana,49.684,3.92e-92,291.0
+Cp_V2_contig_8442,Cp_V2_contig_7346,.,0.9049,0.000318,poly [ADP-ribose] polymerase RCD1,RCD1,Arabidopsis thaliana,36.789,1.17e-87,283.0
+Cp_V2_contig_8442,Cp_V2_contig_8124,.,0.9042,0.000328,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_10790,.,0.9037,0.000335,domain-containing protein ECT2,ECT2,Arabidopsis thaliana,55.649,9.23e-170,500.0
+Cp_V2_contig_8442,Cp_V2_contig_11988,.,0.9008,0.000376,protein RBP47,RBP47,Nicotiana plumbaginifolia,63.158,2.7700000000000003e-75,234.0
+Cp_V2_contig_8442,Cp_V2_contig_14368,.,0.9005,0.00038,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_21613,.,0.9005,0.00038,protein 1,PABN1,Arabidopsis thaliana,75.904,4.83e-72,223.0
+Cp_V2_contig_8442,Cp_V2_contig_2704,.,0.9004,0.000381,,,,,,
+Cp_V2_contig_8442,Cp_V2_contig_21661,.,0.9002,0.000384,phosphatase 2C 16,HAB1,Arabidopsis thaliana,67.17,5.77e-130,381.0
+Cp_V2_contig_8442,Cp_V2_contig_17597,.,0.9001,0.000386,,,,,,

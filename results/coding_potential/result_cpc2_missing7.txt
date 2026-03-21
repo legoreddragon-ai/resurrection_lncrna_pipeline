@@ -1,0 +1,8 @@
+#ID	peptide_length	Fickett_score	pI	ORF_integrity	coding_probability	label
+Cp_V2_contig_670	43	0.31267	11.3264770508	1	0.0231166	noncoding
+Cp_V2_contig_692	107	0.45444	10.0641479492	1	0.660793	coding
+Cp_V2_contig_3232	66	0.40024	9.49932861328	-1	0.0930351	noncoding
+Cp_V2_contig_6094	41	0.45691	10.9161987305	-1	0.120993	noncoding
+Cp_V2_contig_24180	35	0.44089	5.14459228516	-1	0.0173949	noncoding
+Cp_V2_contig_45133	45	0.38862	10.0442504883	1	0.0276709	noncoding
+Cp_V2_contig_47679	17	0.38096	10.4198608398	1	0.00848185	noncoding
