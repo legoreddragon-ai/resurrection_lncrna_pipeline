@@ -61,6 +61,8 @@ results/cpc2_candidates
 results/cpc2_candidates.feat
 results/cpc2_candidates.tmp.*
 results/coding_potential.txt
+results/figures/S1_lncrna_length_distribution.png
+results/figures/S2_lncrna_cpc2_distribution.png
 wget-log
 CPAT_run_info.log
 full_runinfo.csv
@@ -92,6 +94,7 @@ env/
 # ── IDE / OS ──────────────────────────────────────────────────────────────────
 .vscode/
 .idea/
+.codex
 *.swp
 *.swo
 *~
