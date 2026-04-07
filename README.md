@@ -74,24 +74,6 @@ One of the strongest candidates in the *C. plantagineum* analysis was **contig_2
 - associated with **ERD7-like** annotation
 - co-expressed with stress-related partners including **PP2C-60**, **WRKY3**, **MYB73**, and **ABI5**
 
-## Repository structure
-
-```text
-project_setup/
-├── 00_preflight.sh
-├── 01_download.sh
-├── 02_trim.sh
-├── 03_align.sh
-├── 04_stringtie.sh
-├── 05_merge_matrix.py
-├── 06_de_analysis.py
-├── 07_visualize.py
-├── 08_coexpression.py
-├── 09_blast_annotate.py
-├── 10_go_enrichment.py
-├── 11_final_report.py
-└── 12_wgcna.R
-
 Pipeline steps
 Download RNA-seq data and reference files
 Trim reads with Trimmomatic
@@ -180,6 +162,24 @@ Discovery of Desiccation-Induced Long Non-Coding RNAs in the Resurrection Plant 
 2026. Preprint.
 Data sources
 GEO: GSE157098
+
+## Repository structure
+
+```text
+project_setup/
+├── 00_preflight.sh
+├── 01_download.sh
+├── 02_trim.sh
+├── 03_align.sh
+├── 04_stringtie.sh
+├── 05_merge_matrix.py
+├── 06_de_analysis.py
+├── 07_visualize.py
+├── 08_coexpression.py
+├── 09_blast_annotate.py
+├── 10_go_enrichment.py
+├── 11_final_report.py
+└── 12_wgcna.R
 SRA: PRJNA660052
 SRA: PRJNA420971
 
