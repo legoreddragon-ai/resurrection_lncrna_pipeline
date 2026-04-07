@@ -74,26 +74,6 @@ One of the strongest candidates in the *C. plantagineum* analysis was **contig_2
 - associated with **ERD7-like** annotation
 - co-expressed with stress-related partners including **PP2C-60**, **WRKY3**, **MYB73**, and **ABI5**
 
-Pipeline steps
-Download RNA-seq data and reference files
-Trim reads with Trimmomatic
-Align reads with HISAT2
-Quantify transcripts with StringTie
-Merge abundance tables into TPM matrices
-Run differential expression analysis
-Generate volcano plots, heatmaps, and boxplots
-Build co-expression networks
-Run WGCNA module analysis
-Annotate co-expressed genes with BLAST
-Perform GO enrichment
-Screen candidates against Rfam
-Assess coding potential with CPC2
-Predict miRNA interactions
-Compare patterns across species
-Quick start
-git clone https://github.com/legoreddragon-ai/resurrection_lncrna_pipeline.git
-cd resurrection_lncrna_pipeline
-
 bash project_setup/00_preflight.sh
 bash project_setup/01_download.sh
 bash project_setup/02_trim.sh
