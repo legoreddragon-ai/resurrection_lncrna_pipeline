@@ -127,6 +127,8 @@ Infernal
 R packages
 DESeq2
 WGCNA
+
+
 Expected outputs
 Representative output files include:
 results/stringtie_tpm_matrix.csv
@@ -137,25 +139,37 @@ results/go_enrichment_results.csv
 results/wgcna_module_trait_correlation.csv
 results/wgcna_candidate_modules.csv
 results/final_report.md
+
+
 Notes on analysis design
 The C. plantagineum dataset has limited hydrated replication, which reduces power for genome-wide FDR-based discovery.
+
 The 14 core candidates are the strongest DESeq2-supported set in this study.
+
 The 661 exploratory candidates should be treated as hypothesis-generating rather than equally strong evidence.
+
 For S. lepidophylla, no public GFF annotation was available in this workflow, so transcript discovery relied on de novo assembly and merge steps.
+
 CPC2 classified 9 of 14 core candidates as confidently non-coding and flagged 5 of 14 as transcripts of interest that may include sORFs.
+
 miRNA predictions were generated using proxy resources and should be treated as supportive computational evidence.
 This repository contains a computational analysis pipeline only; experimental validation is still needed.
-Species-specific notes
+
+Species-specific notes:
+
 Craterostigma plantagineum
 Primary desiccation-response lncRNA discovery was performed in C. plantagineum using public RNA-seq data from hydrated, desiccated, and recovery-associated states.
+
 Selaginella lepidophylla
 Cross-species comparison was performed in S. lepidophylla, including full time-course analysis. The time-course results suggested both early-responding and later-responding transcript subsets during desiccation progression.
 Limitations
 Limited replication in the source dataset affects statistical power.
 S. lepidophylla analysis was performed without a public reference annotation.
+
 CPC2 and miRNA predictions are computational and not definitive functional validation.
 No wet-lab follow-up is included in this repository.
 Citation
+
 If you use this repository, please cite:
 Sumanth N.
 Discovery of Desiccation-Induced Long Non-Coding RNAs in the Resurrection Plant Craterostigma plantagineum: A Transcriptome-Wide Computational Analysis with Cross-Species Validation in Selaginella lepidophylla.
